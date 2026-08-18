@@ -1,0 +1,37 @@
+---
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
+breadcrumb-title: ''
+description: Revise las notas de la versión 2.4.1 del plugin 3ds Max para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
+helpx_creative_field: ""
+helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > 3ds Max Plugin Release Notes > 3ds Max 2.4.1
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: 3ds Max 2.4.1
+user-guide-description: ''
+user-guide-title: ''
+source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 0%
+
+---
+
+
+# 3ds Max 2.4.1
+
+Publicado el 18 de diciembre de 2020
+
+**Agregado:**
+
+* Se ha actualizado para ser compatible con Substance Engine v.8.0.3, con lo que se admiten nuevos nodos añadidos en Designer 2020.2
+* Editar exportación de ajustes preestablecidos para exportar todos los ajustes preestablecidos seleccionados (exportación múltiple)
+
+**Corregido:**
+
+* El archivo substance\_link.dll consume una gran cantidad de ciclos de CPU
+* Error de aserción al exportar un ajuste preestablecido del Substance
+* Bloqueo al crear un ajuste preestablecido cuando no hay ninguno
+* Bloqueo con denoiser para el procesador de Corona
+
+Esta versión está disponible para 3ds Max 2019, 2020 y 2021
