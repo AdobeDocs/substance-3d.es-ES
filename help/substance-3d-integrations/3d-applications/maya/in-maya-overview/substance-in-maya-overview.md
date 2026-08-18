@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
 breadcrumb-title: ''
 description: Obtenga información sobre el complemento Substance para Maya y cómo importar y utilizar materiales de Substance en su flujo de trabajo.
 helpx_creative_field: ""

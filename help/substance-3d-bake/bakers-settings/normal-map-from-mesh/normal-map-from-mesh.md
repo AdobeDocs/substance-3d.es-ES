@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: Cree mapas normales de espacio tangente o de espacio mundial a partir de mallas de alta densidad usando el mapa normal de Mesh baker.
 helpx_creative_field: ""

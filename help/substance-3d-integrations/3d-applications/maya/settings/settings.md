@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: Configure los ajustes del plugin del Substance en Maya a través de la bandeja del Substance o el menú para personalizar el comportamiento.
 helpx_creative_field: ""

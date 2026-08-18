@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: Aprenda a utilizar materiales de Substance con los procesadores Ciclos de mezclador y Eve para diferentes flujos de trabajo.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
 description: Controlar el tamaño de muestreo de texturas procedimentales en Maya para optimizar la calidad y el rendimiento de los materiales Substance.
 helpx_creative_field: ""

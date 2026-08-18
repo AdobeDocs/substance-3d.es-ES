@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-are-assbin-files.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-questions/what-are-assbin-files.html"
 breadcrumb-title: ''
 description: Aprenda qué son los ficheros Assbin y cómo se utilizan como ficheros de caché de geometría para acelerar las operaciones de copia.
 helpx_creative_field: ""
@@ -32,4 +32,4 @@ ht-degree: 0%
 > 
 > Asigne archivos a versiones preprocesadas de las mallas de alto contenido polivinílico utilizadas durante el proceso de procesamiento. Son más rápidos de leer que los archivos de malla originales, lo que permite volver a hornear más rápido cuando se itera en la configuración de Bakers. Se pueden extraer de forma segura. El Substance Painter los regenerará si es necesario. Sin embargo, esto puede afectar al rendimiento de cocción.
 > 
-> Es posible no generar nunca estos archivos entrando en las [preferencias principales](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) del Substance Painter y deshabilitando la opción &quot;Guardar archivos de escena preprocesados&quot;.
+> Es posible no generar nunca estos archivos entrando en las [preferencias principales](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/spdoc/general-71008262.html) del Substance Painter y deshabilitando la opción &quot;Guardar archivos de escena preprocesados&quot;.

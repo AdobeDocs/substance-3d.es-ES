@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations.html"
 breadcrumb-title: ''
 description: Descubre la forma en la que los materiales Substance se integran con los motores de juegos, las aplicaciones de DCC y los procesadores a través de plug-ins y asistencia nativa.
 helpx_creative_field: ""
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 El [formato sbsar de material de Substance](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) es compatible con todos los juegos y herramientas de creación de contenido digital (DCC) más importantes. El formato se publica desde Designer como un archivo .sbsar. Este archivo sbsar se puede cargar en aplicaciones de DCC y motores de juegos que admiten materiales de Substance mediante un plugin de Substance o una integración nativa.
 
-* Encontrará materiales gratuitos para el Substance en el sitio web [3D community assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html).
-* Los materiales descargables del Substance están disponibles a través del sitio web [Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html) como parte de la suscripción del Substance.
+* Encontrará materiales gratuitos para el Substance en el sitio web [3D community assets](https://helpx.adobe.com/es/substance-3d/unlisted/assets.html).
+* Los materiales descargables del Substance están disponibles a través del sitio web [Substance 3D Assets](https://helpx.adobe.com/es/substance-3d/unlisted/assets.html) como parte de la suscripción del Substance.
 * Los materiales de Substance se pueden crear con [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home). Asegúrate de consultar nuestras [Directrices de optimización](game-engines/unity/optimization-guidelines/optimization-guidelines.md). )
 
 Para obtener más información sobre cómo utilizar esos materiales, consulte:

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: Solucione los problemas por los que las salidas de Baker son totalmente negras o vacías y aprenda a solucionar problemas de malla y UV.
 helpx_creative_field: ""

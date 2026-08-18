@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/es/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Utilice la función Correspondencia por nombre (Matching by Name) para aislar mallas de baja y alta densidad de poli y evitar que la geometría se desangre durante el proceso de cocción.
 helpx_creative_field: ''

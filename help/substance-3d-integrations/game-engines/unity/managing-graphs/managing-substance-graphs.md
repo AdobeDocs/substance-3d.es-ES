@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
 breadcrumb-title: ''
 description: Aprenda a importar, organizar y administrar gráficos de Substance en proyectos de Unity para obtener flujos de trabajo eficaces.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
 breadcrumb-title: ''
 description: Utilice materiales Substance con el procesador Corona en 3ds Max mediante el flujo de trabajo Specular/Brillo y los mapas necesarios.
 helpx_creative_field: ""

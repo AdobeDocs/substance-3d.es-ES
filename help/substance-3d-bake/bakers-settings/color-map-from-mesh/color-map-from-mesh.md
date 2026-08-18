@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: Proyecte propiedades de color desde mallas de alta densidad de poli en texturas para hornear ID de polipintura o material para máscaras de selección.
 helpx_creative_field: ""

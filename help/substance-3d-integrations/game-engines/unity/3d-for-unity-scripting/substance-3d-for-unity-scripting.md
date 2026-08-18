@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
 breadcrumb-title: ''
 description: Utilice la API de Substance 3D en Unity para escribir scripts que actualicen y cambien los parámetros del Substance en tiempo de ejecución.
 helpx_creative_field: ""

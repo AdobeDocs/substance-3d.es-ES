@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/availability-per-software.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/availability-per-software.html"
 breadcrumb-title: ''
 description: Compruebe qué panaderos están disponibles en cada aplicación de Substance 3D para planificar su flujo de trabajo de panadería.
 helpx_creative_field: ""

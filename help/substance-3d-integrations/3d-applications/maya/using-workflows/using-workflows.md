@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: Cree y utilice ajustes preestablecidos de procesamiento para las salidas del Substance en maya para generar automáticamente redes de sombreado para diferentes procesadores.
 helpx_creative_field: ""

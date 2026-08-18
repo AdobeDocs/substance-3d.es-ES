@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Aprenda a optimizar la configuración del hardware y la preparación de mallas para lograr un rendimiento de panificación más rápido.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Los bloqueos pueden deberse a varios factores, uno de los cuales es el TDR (Time
 * al hornear mallas densas con el panadero de Oclusión Ambient
 * al utilizar los panaderos acelerados DXR con mallas de polietileno muy densas (más de 60 millones de triángulos)
 
-Puede encontrar información adicional sobre el TDR y una guía paso a paso sobre cómo puede modificar sus configuraciones asociadas aquí: [Los controladores de la GPU se bloquean con cálculos largos (bloqueo de TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Puede encontrar información adicional sobre el TDR y una guía paso a paso sobre cómo puede modificar sus configuraciones asociadas aquí: [Los controladores de la GPU se bloquean con cálculos largos (bloqueo de TDR)](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

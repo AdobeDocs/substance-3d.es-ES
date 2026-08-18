@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: Usa materiales Substance en Roblox Studio con flujo de trabajo de Rugosidad metálica PBR para experiencias 3D envolventes.
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ Luego, haz que Designer *vigile* la carpeta de plantillas para buscar plantillas
 * Vaya al directorio `templates` y haga clic en **Seleccionar carpeta**
 * Haga clic en el botón **Aceptar**
 * Vaya al gráfico **Archivo > Nuevo > Substance...**
-* Compruebe que la plantilla `Roblox` aparece en la parte inferior de la lista de plantillas en la ventana [Nuevo gráfico de Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)
+* Compruebe que la plantilla `Roblox` aparece en la parte inferior de la lista de plantillas en la ventana [Nuevo gráfico de Substance](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ Luego, haz que Designer *vigile* la carpeta de plantillas para buscar plantillas
 
 Cree un gráfico con la plantilla Roblox y exporte mapas de bits de ese gráfico una vez que haya terminado de trabajar en un material.
 
-* En la ventana [Nuevo gráfico de Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), seleccione la plantilla `Roblox`
+* En la ventana [Nuevo gráfico de Substance](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), seleccione la plantilla `Roblox`
 * Establezca cualquier identificador y otros parámetros para el gráfico y haga clic en **Aceptar**
 * Trabaja en tu material en la [vista de gráficos](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Consulta [aquí](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview) para empezar con el flujo de trabajo
 * Cuando haya terminado, vaya a **Herramientas > Exportar mapas de bits...** en la vista de gráfico *barra de herramientas*

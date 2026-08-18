@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications/after-effects.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/creative-cloud-applications/after-effects.html"
 breadcrumb-title: ''
 description: Usa materiales Substance en After Effects para crear texturas y materiales realistas para gráficos en movimiento y efectos visuales.
 helpx_creative_field: ""
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Adobe After Effects admite el uso de archivos SBSAR, por lo que puede aplicar materiales a los objetos 3D con todos los parámetros personalizados que admite el formato SBSAR.
 
-[Puede obtener más información sobre cómo usar archivos SBSAR en After Effects aquí.](https://helpx.adobe.com/after-effects/using/apply-substance-3d-materials.html)
+[Puede obtener más información sobre cómo usar archivos SBSAR en After Effects aquí.](https://helpx.adobe.com/es/after-effects/using/apply-substance-3d-materials.html)

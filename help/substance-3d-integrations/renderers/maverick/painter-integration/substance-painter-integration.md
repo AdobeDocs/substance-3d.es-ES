@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
 breadcrumb-title: ''
 description: Integra Substance Painter con el procesador Maverick para obtener flujos de trabajo de materiales y visualización de productos perfectos.
 helpx_creative_field: ""

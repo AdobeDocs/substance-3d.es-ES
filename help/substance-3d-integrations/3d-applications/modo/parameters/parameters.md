@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: Modifique los parámetros de material del Substance en MODO a través del panel Propiedades del Substance para personalizar materiales.
 helpx_creative_field: ""

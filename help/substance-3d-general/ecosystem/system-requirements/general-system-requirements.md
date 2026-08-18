@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/general-system-requirements.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-general/ecosystem/general-system-requirements.html"
 breadcrumb-title: ''
 description: Compruebe los requisitos del sistema de las aplicaciones de Substance 3D para asegurarse de que su hardware cumple con las especificaciones mínimas, recomendadas u óptimas.
 helpx_creative_field: ""

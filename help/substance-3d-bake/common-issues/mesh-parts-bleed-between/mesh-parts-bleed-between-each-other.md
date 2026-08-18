@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: Evite que las partes de la malla se sangren entre sí durante el proceso de cocción, utilizando Coincidencia por nombre o ajustando las distancias.
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > Hay disponibles algunas soluciones para evitar este problema :
 > 
 > * Utilice la característica [Coincidencia por nombre](../../features/matching-by-name/matching-by-name.md) para aislar las mallas
-> * Use una [jaula](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) para limitar la distancia del rayo.
+> * Use una [jaula](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) para limitar la distancia del rayo.
 > * Cambie la distancia de rayo predeterminada en los ajustes comunes del panadero a un valor inferior.

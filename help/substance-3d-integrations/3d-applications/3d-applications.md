@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications.html"
 breadcrumb-title: ''
 description: Aprende a importar y usar archivos de Substance en las principales aplicaciones de DCC, como Maya, 3ds Max, Blender y muchas más.
 helpx_creative_field: ""

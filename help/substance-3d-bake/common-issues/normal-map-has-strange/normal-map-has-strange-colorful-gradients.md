@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
 description: Corrija degradados extraños y coloridos en mapas normales comprobando las normales de malla, los grupos de suavizado y la asignación de UV.
 helpx_creative_field: ""

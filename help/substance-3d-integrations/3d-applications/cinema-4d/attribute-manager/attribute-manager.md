@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
 breadcrumb-title: ''
 description: Utilice el Administrador de atributos de Cinema 4D para configurar las propiedades de los recursos del Substance y la configuración de los materiales.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
 description: Procese materiales de Substance con Octane mediante el procesador independiente o los complementos de DCC en 3ds Max y MODO.
 helpx_creative_field: ""

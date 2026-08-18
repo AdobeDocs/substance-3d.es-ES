@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: Averigüe por qué la malla aparece totalmente negra después de hornear y aprenda a corregir causas comunes.
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > Hay dos posibles soluciones:
 > 
-> * Corrija su configuración de horneado para evitar texturas negras, consulte : [La salida de Baker está totalmente vacía o en negro](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * Corrija su configuración de horneado para evitar texturas negras, consulte : [La salida de Baker está totalmente vacía o en negro](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 > * Quite la textura negra de [Configuración del conjunto de texturas](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).

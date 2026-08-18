@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-3d-assets-library.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/substance-3d-assets-library.html"
 breadcrumb-title: ''
 description: Accede a miles de materiales de Substance profesionales desde la biblioteca de activos y los activos de la comunidad en Blender.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Biblioteca de Substance 3D Assets
 
-En la [página de Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html) encontrará miles de materiales y otros contenidos creados profesionalmente. En la [página de Recursos de la comunidad de Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html) encontrará muchos más recursos que la comunidad ha compartido de forma gratuita.
+En la [página de Substance 3D Assets](https://helpx.adobe.com/es/substance-3d/unlisted/assets.html) encontrará miles de materiales y otros contenidos creados profesionalmente. En la [página de Recursos de la comunidad de Substance 3D](https://helpx.adobe.com/es/substance-3d/unlisted/community-assets.html) encontrará muchos más recursos que la comunidad ha compartido de forma gratuita.
 
 Desde el panel de Substance 3D dentro de Blender, también puede hacer clic en los botones de Recursos de la comunidad de Substance 3D y Substance 3D Assets para abrir el navegador web a esas páginas.
 

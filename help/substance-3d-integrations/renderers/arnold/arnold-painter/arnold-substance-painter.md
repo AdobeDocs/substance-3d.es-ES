@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: Utilice las plantillas de salida de Substance Painter para el procesador de Arnold con material de aiStandard para el procesamiento basado en la física.
 helpx_creative_field: ""

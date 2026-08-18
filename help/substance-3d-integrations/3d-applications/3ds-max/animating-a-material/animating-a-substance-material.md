@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
 breadcrumb-title: ''
 description: Anime los parámetros de material de Substance a lo largo del tiempo en 3ds Max mediante el Editor de curvas para efectos dinámicos.
 helpx_creative_field: ""

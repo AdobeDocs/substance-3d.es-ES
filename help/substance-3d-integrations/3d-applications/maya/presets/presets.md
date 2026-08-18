@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/presets.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/presets.html"
 breadcrumb-title: ''
 description: Gestiona los ajustes preestablecidos incrustados en archivos de Substance o crea nuevos ajustes preestablecidos en Maya para guardar las configuraciones de parámetros.
 helpx_creative_field: ""

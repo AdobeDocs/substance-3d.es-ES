@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
 breadcrumb-title: ''
 description: Genera mapas de thickness echando rayos hacia dentro desde las superficies de malla para usarlos en sombreadores de CSS y máscaras.
 helpx_creative_field: ""

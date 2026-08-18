@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: Usa rugosidad y salidas metálicas Substance en la bolsa de herramientas 2 para la previsualización y renderización de materiales en tiempo real.
 helpx_creative_field: ""

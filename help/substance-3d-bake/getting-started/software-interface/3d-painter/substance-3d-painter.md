@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Aprenda a acceder y utilizar la ventana para hornear en Substance 3D Painter para generar mapas de malla para sus texturas.
 helpx_creative_field: ""

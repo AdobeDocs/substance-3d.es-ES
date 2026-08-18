@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: Calcule y guarde la ubicación de la geometría de malla en texturas para crear efectos basados en volumen y máscaras de degradado.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Obtenga más información sobre el modelo Adobe Standard Material y cómo utilizarlo para el procesamiento basado en la física en diversas aplicaciones de Adobe.
 helpx_creative_field: ""

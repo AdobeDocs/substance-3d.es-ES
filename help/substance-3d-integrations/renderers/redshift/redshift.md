@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
 description: Usa materiales de Substance con el procesador Redshift en Maya y 3ds Max, incluida la compatibilidad con el flujo de trabajo metálico.
 helpx_creative_field: ""
