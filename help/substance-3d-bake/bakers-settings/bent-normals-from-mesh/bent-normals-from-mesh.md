@@ -33,7 +33,7 @@ Las normales de flexión del generador de mallas calculan una textura que descri
 | *Parámetro* | *Descripción* |
 | --- | --- |
 | **Rayos secundarios** | Cantidad de rayos de oclusión. Un valor alto producirá menos ruido pero será más largo de calcular. |
-| **Distancia Mínima Del Obturador** | Distancia mínima en la que los rayos de oclusión alcanzarán la alta geometría de poli**.** |
+| **Distancia Mínima Del Obturador** | Distancia mínima en la que los rayos de oclusión alcanzarán la alta geometría de poli&#x200B;**.** |
 | **Distancia máxima del dispositivo de cierre** | Distancia máxima en la que los rayos de oclusión alcanzarán la alta geometría de poli. |
 | **Relativo al cuadro delimitador** | Si se habilita, los cálculos de distancia de rayos se basan en el espacio normalizado (0 a 1) de la malla de baja densidad. Si está desactivada, el cálculo de la distancia de rayo se basa en las unidades especificadas en la malla de baja densidad cuando se exportó (metros, centímetros, etc.). |
 | **Ángulo de pliego** | Ángulo de extensión máximo de los rayos de oclusión. El valor predeterminado es 180. |

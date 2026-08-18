@@ -32,7 +32,7 @@ El propósito de este documento es detallar el proceso de trabajo con texturas e
 
 La forma correcta de interpretar una imagen utilizada como entrada en un canal de material depende de cómo se utilice la imagen en la escena. El espacio de color, la codificación y si los valores de color son proporcionales a la **luminancia de referencia en escena** o a la **luminancia de referencia en pantalla** también desempeñan un papel importante.
 
-* Las imágenes utilizadas para representar **datos sin color** no se deben transformar. Estos son normalmente mapas de **oclusión normal**, **rugosidad**, **metálico**, **desplazamiento** y **ambiente**.****
+* Las imágenes utilizadas para representar **datos sin color** no se deben transformar. Estos son normalmente mapas de **oclusión normal**, **rugosidad**, **metálico**, **desplazamiento** y **ambiente**.**&#x200B;**
 * Las imágenes que representan el color que vemos pueden tener varios escenarios. Por ejemplo, las imágenes que ya son **lineales para escenas** normalmente no necesitan convertirse, como las imágenes de **rango dinámico alto** almacenadas en formatos como **OpenEXR** y **HDR**.
 * Las imágenes creadas para la visualización (**display-reference**) deberán tener su gamma eliminado. Estos incluyen la mayoría de formatos como **PNG**, **JPEG** y **BMP**. Estas imágenes son **base**, **color**, **difusa**, **specular** y **emisiva**.
 

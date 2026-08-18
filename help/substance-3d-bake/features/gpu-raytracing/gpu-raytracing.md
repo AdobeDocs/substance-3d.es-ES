@@ -60,24 +60,24 @@ En las tablas siguientes se enumera la compatibilidad del Trazado de rayos de GP
 
 | Baker | Apoya al Trazado de rayos de GPU |
 | --- | --- |
-| Oclusión ambiental | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normal doblada | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Color | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Curvatura | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Altura | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normal | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Espacio de mundo de normales | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Oclusión ambiental | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normal doblada | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Color | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Curvatura | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Altura | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normal | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Espacio de mundo de normales | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 
 | Baker | Apoya al Trazado de rayos de GPU |
 | --- | --- |
-| Máscara de opacidad | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Posición | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Posición baja | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Grosor | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Textura transferida | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| De mundo a tangente | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Máscara de opacidad | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Posición | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Posición baja | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Grosor | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Textura transferida | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| De mundo a tangente | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ En las tablas siguientes se enumera la compatibilidad del Trazado de rayos de GP
 
 | Baker | Apoya al Trazado de rayos de GPU |
 | --- | --- |
-| Oclusión ambiental | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Oclusión ambiental de malla | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Normales dobladas de malla | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Color de malla | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Convertir UV a SVG | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Curvatura de malla | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Altura de malla | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Normal de malla | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| Oclusión ambiental | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Oclusión ambiental de malla | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Normales dobladas de malla | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Color de malla | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Convertir UV a SVG | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Curvatura de malla | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Altura de malla | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Normal de malla | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | Baker | Apoya al Trazado de rayos de GPU |
 | --- | --- |
-| Máscara de opacidad de la malla | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Posición de malla | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Posición | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Grosor de malla | <div><img alt="(marca)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Textura transferida desde la malla | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Dirección espacial mundial | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Normales espaciales mundiales | <div><img alt="(error)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Máscara de opacidad de la malla | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Posición de malla | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Posición | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Grosor de malla | <div><img alt="(marca)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Textura transferida desde la malla | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Dirección espacial mundial | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Normales espaciales mundiales | <div><img alt="(error)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*: Admite trazado de rayos de CPU, que es significativamente más lento que el Trazado de rayos de GPU.

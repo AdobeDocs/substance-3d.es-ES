@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Posible mensaje de error:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > Error de cocción (mapa de color de la malla)\
 > No se han encontrado colores de vértice

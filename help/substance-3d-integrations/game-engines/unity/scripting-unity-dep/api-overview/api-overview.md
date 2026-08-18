@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.Game es el ensamblado que contiene las clases utilizadas para scripts. Estas clases son las siguientes:
 
-**Substance.Game.****Substance**: Referencias a la barra de referencia
+**Substance.Game.**&#x200B;**Substance**: Referencias a la barra de referencia
 
 **Substance.Game.SubstanceGraph**: Gráfico individual en la subbarra.*(solía ser Material de procedimiento en Unity 2017)*
 

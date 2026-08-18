@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Integración de SBSAR de Substance
 
-**Puedes** **traer fácilmente******* archivos SBSAR **** creados **** en Substance Designer o Substance **** Alchemist **** a **** Maverick ****siguiendo**** a **** de **** estos **** 23} **métodos****:****
+**Puedes** **traer fácilmente**&#x200B;**&#x200B;*** archivos SBSAR **&#x200B;**&#x200B;creados **&#x200B;**&#x200B;en Substance Designer o Substance **&#x200B;**&#x200B;Alchemist **&#x200B;**&#x200B;a **&#x200B;**&#x200B;Maverick **&#x200B;**&#x200B;siguiendo&#x200B;**&#x200B;** a **&#x200B;**&#x200B;de **&#x200B;**&#x200B;estos **&#x200B;**&#x200B;23&rbrace; **métodos**&#x200B;**:**&#x200B;**
 
 **Método** **1:**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **Método** **2****:**
+   **Método** **2**&#x200B;**:**
 1. Solo tiene que soltar el archivo SBSAR del Explorador de Windows en cualquier objeto de la escena. También puede colocar archivos SBSAR en el panel Material.
 1. En el cuadro de diálogo Importar, puede definir algunos parámetros de material:
 
