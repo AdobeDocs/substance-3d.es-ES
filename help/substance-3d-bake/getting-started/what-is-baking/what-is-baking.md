@@ -10,7 +10,7 @@ helpx_tags: ""
 title: '¿Qué es el horno? '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 &#x200B;>> 
 
-(Créditos: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)
+(Créditos: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
 El proceso de horneado se denomina **guardar información** relacionada con una **malla 3D** en un archivo de **textura** ([mapa de bits](https://en.wikipedia.org/wiki/Raster_graphics)). La mayoría de las veces, este proceso implica otra malla. En este caso, la información de la primera malla se transfiere a los UV de la segunda malla y, a continuación, se guarda en una textura.
 
