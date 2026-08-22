@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Plantilla de Substance 3D Designer
 
-Para crear texturas para Roblox, puedes usar el archivo de Substance 3D que aparece a continuación como una plantilla de [Substance que compone gráficos](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) en [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
+Para crear texturas para Roblox, puedes usar el archivo de Substance 3D que aparece a continuación como una plantilla de [Substance que compone gráficos](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) en [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
 
 [![Imagen del icono de formato de archivo sbs que se vincula a la plantilla de roblox.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,7 +78,7 @@ Primero, *instale* la plantilla Roblox.
 Luego, haz que Designer *vigile* la carpeta de plantillas para buscar plantillas de gráficos.
 
 * En Designer, vaya a **Editar > Preferencias...**
-* En la ventana [Preferencias](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window), vaya a **Proyectos > Proyecto de usuario > General**
+* En la ventana [Preferencias](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/preferences/preferences-window), vaya a **Proyectos > Proyecto de usuario > General**
 * En la lista **Directorios de plantillas**, haga clic en el botón **+**
 * Vaya al directorio `templates` y haga clic en **Seleccionar carpeta**
 * Haga clic en el botón **Aceptar**
@@ -104,9 +104,9 @@ Cree un gráfico con la plantilla Roblox y exporte mapas de bits de ese gráfico
 
 * En la ventana [Nuevo gráfico de Substance](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), seleccione la plantilla `Roblox`
 * Establezca cualquier identificador y otros parámetros para el gráfico y haga clic en **Aceptar**
-* Trabaja en tu material en la [vista de gráficos](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Consulta [aquí](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview) para empezar con el flujo de trabajo
+* Trabaja en tu material en la [vista de gráficos](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Consulta [aquí](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/getting-started/workflow-overview) para empezar con el flujo de trabajo
 * Cuando haya terminado, vaya a **Herramientas > Exportar mapas de bits...** en la vista de gráfico *barra de herramientas*
-* En la ventana [Exportar mapas de bits](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps), establece una ruta de **destino** válida, asegúrate de que *todas* las salidas estén *comprobadas* y haz clic en **Exportar**
+* En la ventana [Exportar mapas de bits](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps), establece una ruta de **destino** válida, asegúrate de que *todas* las salidas estén *comprobadas* y haz clic en **Exportar**
 * Compruebe que las texturas se exportan correctamente a la ruta **Destino**
 
 </td>

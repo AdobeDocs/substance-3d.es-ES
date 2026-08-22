@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maxwell - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) admite las [Plantillas de salida](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export) de Maxwell en lo que respecta a los elementos metálicos/rugosos y a los speculares/brillantes. Simplemente puede exportar utilizando la Plantilla de salida Maxwell**.\
+Substance Painter 2020.1 (6.1.0) admite las [Plantillas de salida](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/getting-started/export/export) de Maxwell en lo que respecta a los elementos metálicos/rugosos y a los speculares/brillantes. Simplemente puede exportar utilizando la Plantilla de salida Maxwell**.\
 Maxwell 5.1.0** tiene una integración con Substance Painter que le permite importar fácilmente texturas y configurar automáticamente un material de Maxwell.
 
 ## Exportación de texturas

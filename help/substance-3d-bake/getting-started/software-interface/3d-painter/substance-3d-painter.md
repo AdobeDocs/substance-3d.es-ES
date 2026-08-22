@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-Se puede tener acceso a la ventana de panificación a través de [Configuración del conjunto de texturas](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Haga clic en el botón &quot;**Mapas de malla de cocción**&quot; para abrir la ventana de cocción del proyecto actual.
+Se puede tener acceso a la ventana de panificación a través de [Configuración del conjunto de texturas](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Haga clic en el botón &quot;**Mapas de malla de cocción**&quot; para abrir la ventana de cocción del proyecto actual.
 
 ## Información general
 

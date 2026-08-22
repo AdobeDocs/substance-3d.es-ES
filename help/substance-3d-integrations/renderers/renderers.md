@@ -26,7 +26,7 @@ Los materiales de Substance proporcionados en [Substance Source](https://source.
 
 Por ejemplo, con Arnold o Vray Next, puede utilizar salidas metálicas/de rugosidad directamente. Sin embargo, con pxrSurface de Renderman, las salidas de color/metálico base deben convertirse a color difuso y de cara de specular. Un plugin de integración de Substance gestionará estas conversiones automáticamente si el procesador es compatible.
 
-Con Substance Painter, puedes elegir una [Plantilla de salida](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) que creará los tipos de mapa apropiados necesarios para un procesador determinado. Si el procesador no es compatible de forma predeterminada, también puede crear Plantillas de salida personalizadas.
+Con Substance Painter, puedes elegir una [Plantilla de salida](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) que creará los tipos de mapa apropiados necesarios para un procesador determinado. Si el procesador no es compatible de forma predeterminada, también puede crear Plantillas de salida personalizadas.
 
 **Plantilla de salida del Substance Painter**
 

@@ -91,7 +91,7 @@ La coincidencia por nombre se puede habilitar en [Parámetros comunes](../../bak
 Los sufijos predeterminados son \_low y \_high y se pueden cambiar de la siguiente manera:
 
 * **Substance Painter**: En la [ventana de panadería](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro de los parámetros comunes.
-* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
+* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
 
 ## Mallas de alta densidad de zepillo
 
