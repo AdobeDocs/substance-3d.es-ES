@@ -33,6 +33,6 @@ ht-degree: 0%
 > No hay una solución inmediata a este problema ya que muchos factores pueden contribuir al problema :
 > 
 > * Compruebe que el formato normal entre el software del Substance y la aplicación externa es el mismo. OpenGL es [X+, Y+, Z+] y DirectX es [X+, Y-, Z+]
->   * En Substance Painter, el formato normal se puede cambiar en la [configuración del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration).
->   * En Substance Designer, el formato normal se puede cambiar en las [preferencias del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings).
+>   * En Substance Painter, el formato normal se puede cambiar en la [configuración del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/interface/project-configuration).
+>   * En Substance Designer, el formato normal se puede cambiar en las [preferencias del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/preferences/project-settings).
 > * Compruebe que la malla se ha triangulado antes de hornearla e importarla en el software del Substance. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obtener más información.

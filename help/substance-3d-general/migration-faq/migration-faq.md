@@ -18,24 +18,24 @@ ht-degree: 0%
 
 La documentación de los siguientes productos y temas ya está disponible en Experience League:
 
-[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
-[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/home)
-[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/home)
-[Horneado con Substance 3D](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)
-[Conocimientos generales de Substance 3D](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/home)
-[Ecosistema e integraciones](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)
+[Substance 3D Painter](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/home)
+[Substance 3D Designer](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/home)
+[Substance 3D Sampler](https://experienceleague.adobe.com/es/docs/substance-3d-sampler/using/home)
+[Horneado con Substance 3D](https://experienceleague.adobe.com/es/docs/substance-3d/bakers/home)
+[Conocimientos generales de Substance 3D](https://experienceleague.adobe.com/es/docs/substance-3d/general-knowledge/home)
+[Ecosistema e integraciones](https://experienceleague.adobe.com/es/docs/substance-3d/ecosystem/home)
 
 +++
 
 +++ ¿Dónde puedo encontrar la nueva documentación?
 
 El contenido se está moviendo de HelpX a Experience League. Puede encontrar documentación sobre los siguientes productos y temas en Experience League en los siguientes enlaces:
-[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
-[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/home)
-[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/home)
-[Horneado con Substance 3D](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)
-[Conocimientos generales de Substance 3D](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/home)
-[Ecosistema e integraciones](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)
+[Substance 3D Painter](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/home)
+[Substance 3D Designer](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/home)
+[Substance 3D Sampler](https://experienceleague.adobe.com/es/docs/substance-3d-sampler/using/home)
+[Horneado con Substance 3D](https://experienceleague.adobe.com/es/docs/substance-3d/bakers/home)
+[Conocimientos generales de Substance 3D](https://experienceleague.adobe.com/es/docs/substance-3d/general-knowledge/home)
+[Ecosistema e integraciones](https://experienceleague.adobe.com/es/docs/substance-3d/ecosystem/home)
 
 +++
 
