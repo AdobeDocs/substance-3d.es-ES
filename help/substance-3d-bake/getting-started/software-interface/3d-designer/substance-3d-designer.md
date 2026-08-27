@@ -73,7 +73,7 @@ El panadero es donde puedes elegir qué textura horneada quieres generar. De for
 * **Agregando un nuevo panadero:** Haga clic en el botón &quot;Agregar panadero&quot;.
 * **Quitando un panadero:** Selecciona el panadero en la lista, luego haz clic en el botón &quot;Eliminar panadero&quot;.
 * **Mover un panadero a la parte superior:** Seleccione el panadero en la lista y, a continuación, haga clic en el botón &quot;Tire hacia arriba&quot;.
-* **Bajando por un panadero:**Seleccione el panadero en la lista, luego haga clic en el botón &quot;Empujar hacia abajo&quot;.
+* **Bajando por un panadero:**&#x200B;Seleccione el panadero en la lista, luego haga clic en el botón &quot;Empujar hacia abajo&quot;.
 
 Cada panadero en el hereda de forma predeterminada los valores predeterminados (véase más arriba). El tamaño (resolución), por ejemplo, se puede anular haciendo clic en la celda de la línea del panadero. Esto es cierto para los demás ajustes de la línea.
 

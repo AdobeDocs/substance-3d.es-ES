@@ -30,5 +30,5 @@ El mapa de Height de mesh baker le permite crear un mapa de height a partir de u
 
 | *Parámetro* | *Descripción* |
 | --- | --- |
-| ****Normalización**** | Define cómo se debe guardar el rango de valores de height en la textura.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Relativo a la distancia de rayos</strong>:</li><li data-preserve-html="true"><strong>Relativo a malla de poli baja (por azulejo UV)</strong> (predeterminado)</li><li data-preserve-html="true"><strong>Relativo a mín./máx. (por mosaico UV)</strong></li><li data-preserve-html="true"><strong>Manual</strong></li></ul> |
+| **&#x200B;**&#x200B;Normalización&#x200B;**&#x200B;** | Define cómo se debe guardar el rango de valores de height en la textura.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Relativo a la distancia de rayos</strong>:</li><li data-preserve-html="true"><strong>Relativo a malla de poli baja (por azulejo UV)</strong> (predeterminado)</li><li data-preserve-html="true"><strong>Relativo a mín./máx. (por mosaico UV)</strong></li><li data-preserve-html="true"><strong>Manual</strong></li></ul> |
 | **Divisor de escala** | Defina cuánto deben multiplicarse o dividirse los valores de height.Solo está disponible cuando **Normalization** está establecido en **Manual**. |

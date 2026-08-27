@@ -22,7 +22,7 @@ ht-degree: 0%
 
 El material Redshift de la versión 2.5.43 admite el flujo de trabajo metálico. Para el procesamiento con Redshift, puedes usar los mapas exportados desde Substance Painter o el plugin de Substance en [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/).
 
-Substance Painter 2020.1 (6.1.0) se suministra con la Plantilla de salida Redshift ([rsMaterial](https://docs.redshift3d.com/display/RSDOCS/Material)) [3}, así como con una salida heredada para Redshift 3.](https://docs.substance3d.com/display/SPDOC/Export)
+Substance Painter 2020.1 (6.1.0) se suministra con la Plantilla de salida Redshift ([rsMaterial](https://docs.redshift3d.com/display/RSDOCS/Material)) [3&rbrace;, así como con una salida heredada para Redshift 3.](https://docs.substance3d.com/display/SPDOC/Export)
 
 ## Tabla de contenido
 

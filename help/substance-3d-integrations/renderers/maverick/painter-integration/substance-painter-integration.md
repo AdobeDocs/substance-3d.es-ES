@@ -30,20 +30,20 @@ ht-degree: 0%
 
 Puede llevar fácilmente su proyecto de Substance Painter a Maverick siguiendo estos pasos:
 
-**En Substance** **Painter****:**
+**En Substance** **Painter**&#x200B;**:**
 
 1. Exporta la malla.
 1. Exporte sus texturas en la misma carpeta donde hay malla, utilizando uno de los ajustes preestablecidos de Maverick (ver imagen):
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 
-   *Elegir* *&quot;**ajuste preestablecido****&quot; en el* *caso general* *1.*
+   *Elegir* *&quot;**ajuste preestablecido**&#x200B;**&quot; en el* *caso general* *1.*
 
-   *Elegir* *&quot;**Maverick* *Avanzado*preset**&quot; si ** has ** pintado ** a ** mapa **específico** como ** como ** anisotropía ** o ** capa**.**
+   *Elegir* *&quot;**Maverick* *Avanzado*preset**&quot; si **&#x200B; has &#x200B;** pintado **&#x200B; a &#x200B;** mapa **específico** como **&#x200B; como &#x200B;** anisotropía **&#x200B; o &#x200B;** capa&#x200B;**.**
 
-   *Elige* *&quot;**Maverick**con **Desplazamiento**preset**&quot; si* *tu* modelo *tiene un *mapa*de desplazamiento **relevante**. Este* *ajuste preestablecido*** *exportará el* *mapa **de height**en**32 bits para* *Maverick* * para capturar todos los detalles **de alta** calidad **geometría**.*
+   *Elige* *&quot;**Maverick**&#x200B;con **Desplazamiento**&#x200B;preset&#x200B;**&quot; si* *tu* modelo *tiene un *mapa*de desplazamiento &#x200B;** relevante&#x200B;**. Este* *ajuste preestablecido*** *exportará el* *mapa **de height**&#x200B;en&#x200B;**32 bits para* *Maverick* * para capturar todos los detalles &#x200B;** de alta **&#x200B; calidad &#x200B;** geometría**.*
 
-   **En** **Maverick****:**
+   **En** **Maverick**&#x200B;**:**
 1. Haga clic en el icono Substance Painter :
 
    ![](../../../assets/maverickrender-substancepainter-icon.jpg)
@@ -57,7 +57,7 @@ Puede llevar fácilmente su proyecto de Substance Painter a Maverick siguiendo e
    ![](../../../assets/maverickrender-substancepainter-import.jpg)
 1. Continúe y obtendrá su modelo correctamente organizado por el conjunto de texturas y con sus materiales creados y aplicados automáticamente. Todo listo para la fase de iluminación.
 
-   **Si** **modificas ****tus****texturas en el Substance****Painter****, expórtalas***de nuevo****,**** sobrescribiendo **** las **** anteriores ****a****.** **********Entonces****, en** **Maverick ****, usa la actualización****Maps**** icon****:**
+   **Si** **modificas &#x200B;**&#x200B;**tus**&#x200B;**texturas en el Substance**&#x200B;**Painter**&#x200B;**, expórtalas***de nuevo&#x200B;**&#x200B;**,**&#x200B;** sobrescribiendo **&#x200B;**&#x200B;las **&#x200B;**&#x200B;anteriores **&#x200B;**&#x200B;a**&#x200B;**.**&#x200B; **&#x200B;**&#x200B;**&#x200B;**&#x200B;**&#x200B;Entonces&#x200B;**&#x200B;**, en **&#x200B; **&#x200B;Maverick **&#x200B;**, usa la actualización&#x200B;**&#x200B;**&#x200B;Maps&#x200B;**&#x200B;** icon&#x200B;**&#x200B;**:**
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maverickrender-updatemaps-icon?$pjpeg$&jpegSize=200&wid=1065){width="800px"}
 
