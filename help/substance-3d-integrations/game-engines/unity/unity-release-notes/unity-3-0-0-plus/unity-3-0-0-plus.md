@@ -98,9 +98,9 @@ ht-degree: 0%
 
 <b>Corregido:</b>
 
-* Se ha resuelto un problema que afectaba a los mapas normales en proyectos de Android.
+* Se ha resuelto un problema que afectaba a mapas de normales en proyectos de Android.
 * Se ha solucionado un error por el que, al arrastrar un objeto sbsar a la vista de escena, todos los objetos con el cursor encima tenían sus materiales reemplazados por el material del objeto sbsar.
-* Se ha corregido un error que provocaba un error al inspeccionar un material marcado como Solo en tiempo de ejecución en modo de ejecución y abrir la Asignación de textura de salida.
+* Se ha corregido un error que provocaba un error al inspeccionar un material marcado como Solo en tiempo de ejecución en modo de ejecución y abrir la Asignación de Textura de salida.
 
 ## Unity 3.7.0
 

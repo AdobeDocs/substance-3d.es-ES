@@ -29,7 +29,7 @@ El nuevo nodo de sustancia agregada le permite tomar dos fábricas de instancias
 1. Cree la **Fábrica de instancias de Substance agregado** y establezca la Fábrica de entrada y salida.
 1. Cree una **instancia de gráfico** y establezca un nombre de instancia.
 1. Establezca la variable **Instancia de gráfico agregado**.
-1. Obtén texturas de sustancia desde la instancia de gráficos agregados en el paso 7 con **Obtener texturas de Substance**.
+1. Obtenga texturas de substancia de la instancia de gráficos agregados en el paso 7 usando **Obtener Texturas de Substance**.
 1. Cree una **instancia de material dinámico** utilizando la variable de material del paso 3 como principal.
 1. Ajuste la variable MID del paso 3.
 1. Establezca el material para la malla usando **Set Material** con la variable MID.

@@ -330,7 +330,7 @@ Vector2Int Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetTexturesResolution (
 ```
 
 
-Devuelve la resolución de salida de textura de instancia.
+Devuelve la resolución de salida de la textura de instancia.
 
 **Devoluciones**
 

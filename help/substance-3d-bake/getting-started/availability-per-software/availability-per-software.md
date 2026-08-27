@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/availability-per-software.html"
 breadcrumb-title: ''
-description: Compruebe qué panaderos están disponibles en cada aplicación de Substance 3D para planificar su flujo de trabajo de panadería.
+description: Compruebe qué bakeres están disponibles en cada aplicación de Substance 3D para planificar el flujo de trabajo de haga un bake.
 helpx_creative_field: ""
 helpx_description: bakers > Getting Started > Availability per software
 helpx_experience_level: ""
@@ -20,24 +20,24 @@ ht-degree: 28%
 
 # Disponibilidad por software
 
-Es posible que algunos panaderos no estén disponibles en todos los programas. La siguiente lista hace referencia a cuáles están presentes por software.
+Es posible que algunos bakeres no estén disponibles en todos los programas. La siguiente lista hace referencia a cuáles están presentes por software.
 
 |  | Substance 3D Designer | Substance Automation Toolkit | Substance 3D Painter |
 | --- | --- | --- | --- |
 | Oclusión ambiental |  | ■ |  |
-| Oclusión ambiental de la malla | ■ | ■ | ■ |
-| Normales dobladas de la malla | ■ | ■ | **■** |
+| Oclusión ambiental desde malla | ■ | ■ | ■ |
+| Normales dobladas de malla | ■ | ■ | **■** |
 | Mapa de color de la malla | ■ | ■ | ■ |
 | Convertir UV a SVG | ■ | ■ |  |
 | Curvatura |  | ■ | ■ |
 | Curvatura de malla | ■ | ■ | ■ |
 | Curvatura de malla (obsoleto) |  | ■ |  |
-| Mapa de height desde malla | ■ | ■ | ■ |
-| Mapa normal desde malla | ■ | ■ | ■ |
+| Mapa de altura de la malla | ■ | ■ | ■ |
+| Mapa de normales de malla | ■ | ■ | ■ |
 | Máscara de opacidad de malla | ■ | ■ | ■ |
 | Posición | ■ | ■ | ■ |
 | Posición de malla | ■ | ■ |  |
-| Mapa de thickness desde malla | ■ | ■ | ■ |
-| Textura transferida desde malla | ■ | ■ |  |
+| Mapa de espesor de la malla | ■ | ■ | ■ |
+| Textura transferida a partir de malla | ■ | ■ |  |
 | Dirección de espacio de mundo | ■ | ■ |  |
 | Normales de espacio de mundo | ■ | ■ | ■ |

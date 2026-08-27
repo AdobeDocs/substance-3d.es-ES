@@ -38,6 +38,6 @@ Hoy hemos lanzado la versión 2.3.2 del plugin, que es principalmente una versi�
 
 Problemas conocidos:
 
-* En 3ds Max 2018, la exportación de un fbx con un material de Substance adjunto al objeto se bloquea en el plugin fbxmax.dlu. Actualmente estamos hablando con Autodesk para ver si hay algo en nuestro extremo que se pueda hacer o si es una limitación de la versión anterior de la integración fbx. La solución alternativa anterior no era fiable y se eliminó. Esto no ocurre en 3ds Max 2019 o posterior.
+* En 3ds Max 2018, la exportación de un fbx con un material de Substance adjunto al objeto generará un bloqueo en el plugin fbxmax.dlu. Actualmente estamos hablando con Autodesk para ver si hay algo en nuestro extremo que se pueda hacer o si es una limitación de la versión anterior de la integración fbx. La solución alternativa anterior no era fiable y se eliminó. Esto no ocurre en 3ds Max 2019 o posterior.
 
 Esta versión está disponible para 3ds Max 2018, 2019, 2020 y 2021.

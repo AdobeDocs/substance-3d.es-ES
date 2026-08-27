@@ -110,7 +110,7 @@ Esta documentación abarca los <b>aspectos fundamentales del procesamiento</b> y
 * [¿Se debe activar Calcular el espacio tangente por fragmento?](../common-questions/should-enable-compute-tan/should-i-enable-compute-tangent-space-per-fragment.md)
 * [La textura horneada fuera del software del Substance parece incorrecta](../common-questions/texture-baked-outside-sof/texture-baked-outside-of-substance-software-looks-incorrect.md)
 * [¿Qué son los archivos Assbin?](../common-questions/what-are-assbin-files/what-are-assbin-files.md)
-* [¿Cuál es la profundidad de bits de las texturas al horno?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
+* [¿Cuál es la profundidad de bits de las texturas hechas un bake?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
 * [¿Cuál es la diferencia entre el formato normal de OpenGL y DirectX?](../common-questions/what-the-difference-bet/what-is-the-difference-between-the-opengl-and-directx-normal-format.md)
 * [¿Por qué hay extraños estiramientos en mis texturas después de hornear o exportar?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
 * [¿Por qué la asociación por nombre no funciona con la Oclusión o el Thickness de ambiente?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)

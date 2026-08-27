@@ -55,7 +55,7 @@ ht-degree: 0%
 
 * Hemos ocultado algunas funciones que no están pensadas para la compatibilidad con scripts
 * Se ha añadido la función para duplicar instancias de gráficos de Substance mediante scripts: Duplicate()
-* Función agregada para consultar información de entrada de procedimientos a través de C#, devuelve una matriz de elementos &#39;InputProperties&#39;: GetInputProperties()
+* Función agregada para consultar información de entrada procedimienta a través de C#, devuelve una matriz de elementos &#39;InputProperties&#39;: GetInputProperties()
 * Se ha añadido una función para comprobar si existe una entrada en un gráfico y devuelve verdadero/falso: HasInput(string inputName)
 * Se ha añadido una función para comprobar si una entrada visible es visible, devuelve verdadero/falso: IsInputVisible(string inputName)
 * El esquema de representación se ha rediseñado. Por lo tanto, RenderSubstancesAsync() ha quedado obsoleto, se ha cambiado a graphName.RenderAsync()
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 * El usuario debe deshabilitar &quot;Habilitar Bitcode&quot; en el menú Configuración de compilación en Xcode para compilar para iOS
 * Las vistas previas de objetos de Substance en el navegador de contenido aparecen en negro cuando el destino de compilación se establece en Android/iOS
-* El botón del Alpha y el regulador de vista previa de mapa Mip no aparecen en la GUI de textura que no es del Substance después de importar el plugin del Substance
+* El botón del Alpha y el regulador de vista previa del mapa del mip no aparecen en la interfaz gráfica de usuario de textura que no es de Substance después de importar el plugin del Substance
 * El usuario tiene que utilizar potencias de dos para definir una resolución de gráfica de Substance mediante script
 * Los materiales de Substance no son persistentes cuando se exportan o importan mediante un paquete de Unity
 * Los Substance no trabajan con paquetes de recursos

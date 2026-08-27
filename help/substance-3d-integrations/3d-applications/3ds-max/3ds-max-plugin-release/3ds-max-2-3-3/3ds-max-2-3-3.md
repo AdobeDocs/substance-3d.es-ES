@@ -29,9 +29,9 @@ Hoy hemos lanzado la versión 2.3.3 del plugin, que es una versión de correcci�
 * Archivo de complemento cuyo nombre ha cambiado de SubstanceMax.dlt a substancemax.dlt
 * Se ha añadido información de versión y descripción a substance\_link.dll
 * Se ha solucionado un problema con la versión de comprobación de desplazamiento al rojo que ahora funcionaba con Redshift 3
-* Se ha corregido un bloqueo al deshacer o rehacer una acción después de cargar una barra lateral en el nodo de substance.
+* Se ha corregido el bloqueo al deshacer o rehacer una acción después de cargar una barra lateral en el nodo de substance.
 * La regresión corregida con el cuadro de diálogo de configuración no funciona
-* Se ha corregido un bloqueo al cargar un archivo sbsar que contiene caracteres no latinos
+* Se ha corregido el bloqueo al cargar un archivo sbsar que contiene caracteres no latinos
 
 Nuestra canalización de versiones también se ha rehecho por completo, por lo que debería poder esperar versiones mucho más frecuentes, en comparación con las más grandes y muy distantes que hemos hecho en el pasado.
 

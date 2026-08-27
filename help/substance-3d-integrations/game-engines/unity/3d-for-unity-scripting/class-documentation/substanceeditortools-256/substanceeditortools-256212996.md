@@ -98,7 +98,7 @@ Establecer la entrada de la cadena gráfica.
 ```
 
 
-Defina la entrada de textura de gráfica.
+Defina la entrada de textura gráfica.
 
 ```
 • static void RenderGraph (SubstanceGraphSO graph)

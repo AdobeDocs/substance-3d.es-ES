@@ -32,7 +32,7 @@ El plugin Adobe Substance 3D en Unreal Engine 5 está oficialmente disponible en
 * [Definición de instancia de material - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md): puede utilizar instancias de material UE5 con Substance.
 * [Uso de plantillas de material - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
 * [Tamaño físico - UE5](../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-* [Substance de mosaicos - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md): para estructurar una textura de sustancia, deberá agregar un nodo de coordenadas de textura y multiplicarlo por el parámetro escalar.
+* [Substance de segmentación - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md): para segmentar una textura de substancia, deberá agregar un nodo de coordenadas de Textura y multiplicarlo por el parámetro escalar.
 * [Plantillas predeterminadas del complemento de Substance 3D](../../../game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
 * [Uso de la biblioteca de Substance 3D Assets - UE5](../../../game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
 * [Blueprints - UE5](../../../game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md) — Actualice los materiales del Substance en tiempo de ejecución con una extensa API de Blueprint.

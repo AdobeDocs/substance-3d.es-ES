@@ -30,8 +30,8 @@ ht-degree: 0%
 <b>Corregido:</b>
 
 * Se ha mejorado el plugin del Substance para restringir los valores de entrada de teclado dentro del rango práctico de cada parámetro, lo que evita problemas con el control del regulador y los ajustes de valores manuales.
-* Se ha resuelto un problema por el que la copia de conversiones de texturas de Substance2 (.sbsar) en el Editor de material de pizarra provocaba instancias no deseadas del nodo copiado, lo que podía provocar bloqueos relacionados con d3d11.dll.
-* Se ha resuelto un problema de bloqueo en 3ds Max al procesar sustancias de materiales copiados personalizadas o editadas (.sbsar) con Corona Interactive.
+* Se ha resuelto un problema por el que la copia de conversiones de textura de Substance2 (.sbsar) en el Editor de material de pizarra provocaba la creación no deseada de instancias del nodo copiado, lo que podía provocar bloqueos relacionados con d3d11.dll.
+* Se ha resuelto un problema de bloqueo en 3ds Max al procesar materiales copiados personalizados/editados (.sbsar) con Corona Interactive.
 * Se ha corregido un problema en el nodo Substance2 de 3ds Max por el que los reguladores de los valores de enteros 3 y 4 no respondían y solo la entrada numérica manual actualizaba los valores. Además, estos valores se mostraban incorrectamente en formato flotante. Los reguladores ahora son funcionales y reflejan con precisión los tipos de valor previstos.
 * Se solucionó un problema en 3ds Max 2021 con Corona Render en el que los materiales de Substance aparecían correctamente en la ventana gráfica pero se procesaban como grises cuando los archivos se transferían a otro equipo. Los usuarios ya no necesitan configurar materiales desde cero ni cargar ajustes preestablecidos para un procesamiento adecuado.
 * Se ha resuelto un problema de bloqueo en el plugin 3ds Max al intentar duplicar nodos de Substance en el Editor de material de pizarra.

@@ -48,7 +48,7 @@ Los parámetros de color se cambian mediante Definir color de entrada.
 
 ## Cambiar un parámetro Integer:
 
-Los parámetros enteros funcionan igual que el valor de Set Input Float. Utilizará el nodo Set Input Integer.
+Los parámetros enteros funcionan igual que el Flotante Definir entrada. Utilizará el nodo Set Input Integer.
 
 ![](../../../../../assets/int.png)
 

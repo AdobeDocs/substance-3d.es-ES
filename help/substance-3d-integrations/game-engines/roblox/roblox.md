@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Roblox
 
-[Roblox](https://www.roblox.com/) es una plataforma para experiencias envolventes de múltiples jugadores en 3D. Roblox Studio, la herramienta de diseño de Roblox, admite el flujo de trabajo de rugosidad metálica PBR.
+[Roblox](https://www.roblox.com/) es una plataforma para experiencias envolventes de múltiples jugadores en 3D. Roblox Studio, la herramienta de diseño de Roblox, admite el flujo de trabajo de Rugosidad metálica PBR.
 
 <table>
 <tr style="border: 0;">
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 ## Plantilla de Substance 3D Designer
 
-Para crear texturas para Roblox, puedes usar el archivo de Substance 3D que aparece a continuación como una plantilla de [Substance que compone gráficos](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) en [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
+Para crear texturas para Roblox, puedes usar el siguiente archivo de Substance 3D como una plantilla de [Substance que compone graphics](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) en [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
 
 [![Imagen del icono de formato de archivo sbs que se vincula a la plantilla de roblox.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
-Esta plantilla de gráfico permite la preconfiguración de los nombres y tipos de archivos de textura finales. Esta plantilla se puede instalar y reutilizar para crear nuevos materiales que siempre sigan las directrices de materiales de Roblox.
+Esta plantilla de gráficos permite la preconfiguración de los nombres y tipos de archivos de textura finales. Esta plantilla se puede instalar y reutilizar para crear nuevos materiales que siempre sigan las directrices de materiales de Roblox.
 
 </td>
 <td width="41.60%" style="border: 0;" valign="top">

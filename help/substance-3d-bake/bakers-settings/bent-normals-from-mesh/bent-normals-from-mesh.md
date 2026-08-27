@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
-description: Calcula texturas normales dobladas que describen la dirección media de la iluminación ambiental a partir de mallas de alta densidad de poli.
+description: Calcule las texturas de normales dobladas que describen la dirección media de la iluminación ambiental desde mallas de alto contenido de poli.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Bent Normals from Mesh
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Normales dobladas de la malla
 
-Las normales de flexión del generador de mallas calculan una textura que describe la dirección media de la iluminación ambiental. Este panadero se deriva del panadero [Ambient Oclusión from Mesh](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md).
+Las Normales dobladas del baker de malla calculan una textura que describe la dirección media de la iluminación ambiental. Este baker se deriva del baker [Oclusión ambiental de Mesh](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md).
 
 **Disponible en:**
 

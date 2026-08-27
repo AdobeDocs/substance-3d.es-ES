@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
-description: Exporte texturas Substance Painter para Renderman utilizando material pxrSurface y conversiones de salida adecuadas.
+description: Exporte texturas de Substance Painter para Renderman con material de pxrSurface y las conversiones de salida adecuadas.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Renderman > Renderman - Substance Painter
 helpx_experience_level: ""
@@ -28,15 +28,15 @@ Se recomienda usar **pxrSurface** para el resultado.
 
 ![](../../../assets/pxrsurface.png)
 
-## Renderman Shader (Maya - RM 23.1)
+## Renderman Sombreador (Maya - RM 23.1)
 
 | Exportación de Substance Painter | PxrSurface |
 | --- | --- |
-| DiffuseColor | Difusión / Color |
+| DiffuseColor | Difuso/Color |
 | RugosidadEspecular | Specular principal / Rugosidad |
 | SpecularFaceColor | Specular principal / Color de la cara |
 | Normal | Globales / Rugosidad / PxrNormalMap → Orientación (Open GL) |
-| Desplazamiento | (canal rojo) PxrDispTransform (Resultado F) → (disp escalar) PxrDisplace (Color de salida) → (Sombreado de Desplazamiento) PxrSurfaceSG |
+| Desplazamiento | (canal rojo) PxrDispTransform (Resultado F) → (disp escalar) PxrDisplace (Color de salida) → (Sombreador de Desplazamiento) PxrSurfaceSG |
 | GlowColor | Resplandor/Color (ganancia = 1,0) |
 | Presencia | Globales / Presencia |
 

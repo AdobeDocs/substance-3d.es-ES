@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance en Maya Plugin
 
-Puedes usar el Redshift [flujo de trabajo de procesamiento](https://docs.substance3d.com/display/integrations/Using+Workflows) para crear automáticamente una red de sombreado.
+Puedes usar el Redshift [flujo de trabajo de procesamiento](https://docs.substance3d.com/display/integrations/Using+Workflows) para crear automáticamente una red de sombreador.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/rs-1?$png$&jpegSize=100&wid=420)

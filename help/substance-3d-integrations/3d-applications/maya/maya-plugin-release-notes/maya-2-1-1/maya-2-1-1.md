@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Maya 2.1.1
 
-Corregido: substance.celink plugin ya no se bloquea al descargarse
+Corregido: el complemento substanceink ya no bloqueo cuando se descarga

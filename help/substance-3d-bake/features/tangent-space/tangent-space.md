@@ -20,9 +20,9 @@ ht-degree: 1%
 
 # Espacio tangente
 
-Substance Bakers puede cargar las Tangentes y Binormales presentes en la malla de bajo contenido de poli o volver a calcularlas. Al volver a calcularlos es posible definir un algoritmo personalizado de espacio de tangente (de forma predeterminada es MikkTSpace).
+Substance Bakers puede cargar las Tangentes y Binormales presentes en la malla de bajo contenido de poli o volver a calcularlas. Al volver a calcularlos es posible definir un algoritmo de Espacio de tangente personalizado (de forma predeterminada es MikkTSpace).
 
-## Lista de complementos de Tangent Space
+## Lista de complementos de Espacio de tangente
 
 ## Substance Painter
 
@@ -39,9 +39,9 @@ Substance Designer admite el siguiente algoritmo:
 
 | *Nombre de archivo* | *Descripción* |
 | --- | --- |
-| **mikktspace.dll** | MikkTSpace, algoritmo de Tangent Space basado en el trabajo de Morten S. Mikkelsen.Compatible con xNormal, Unity 5.3 o posterior. |
-| **mikkunrealtspace.dll** | MikkTSpace, algoritmo de Tangent Space basado en el trabajo de Morten S. Mikkelsen.Compatible con el flujo de trabajo de Unreal Engine 4, Blender y Unity HDRP. |
-| **unitytspace.dll** | Algoritmo de espacio tangente basado en Unity 4. |
+| **mikktspace.dll** | MikkTSpace, algoritmo de Espacio de tangente basado en el trabajo de Morten S. Mikkelsen.Compatible con xNormal, Unity 5.3 o posterior. |
+| **mikkunrealtspace.dll** | MikkTSpace, algoritmo de Espacio de tangente basado en el trabajo de Morten S. Mikkelsen.Compatible con el flujo de trabajo de Unreal Engine 4, Blender y Unity HDRP. |
+| **unitytspace.dll** | algoritmo de Espacio de tangente basado en Unity 4. |
 
 >[!NOTE]
 >

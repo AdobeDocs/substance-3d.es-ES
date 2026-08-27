@@ -47,7 +47,7 @@ Establece el flujo de trabajo de procesamiento predeterminado que se utilizará 
 
 ## Motor de Substance
 
-Configuración de preferencias específicas del Substance Engine y globales para todos los nodos del Substance. El motor Substance se utiliza para calcular las texturas del Substance.
+Configuración de preferencias específicas del Substance Engine y globales para todos los nodos del Substance. El motor del Substance se utiliza para calcular las texturas del Substance.
 
 ### Tipo de motor
 

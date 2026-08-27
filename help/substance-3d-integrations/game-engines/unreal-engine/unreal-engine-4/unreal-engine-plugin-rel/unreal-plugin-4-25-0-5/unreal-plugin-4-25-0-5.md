@@ -28,5 +28,5 @@ Añadido:
 
 Corregido:
 
-* UE4 se bloquea en Mac al cerrar el editor con el plugin UE4 Substance instalado
-* Al cambiar el parámetro de texto en una instancia de Gráfico de Substance, se produce un bloqueo y un bloqueo final.
+* BLOQUEOS UE4 en Mac al cerrar el editor con el plugin UE4 Substance instalado
+* Al cambiar el parámetro de texto en una instancia de Gráfico de Substance, se produce un bloqueo y un posible bloqueo

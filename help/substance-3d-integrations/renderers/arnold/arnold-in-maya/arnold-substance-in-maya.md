@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance en Maya Plugin
 
-Puede usar el Arnold[flujo de trabajo de procesamiento](../../../3d-applications/maya/using-workflows/using-workflows.md) para crear automáticamente una red de sombreadores.
+Puedes usar el [flujo de trabajo de procesamiento](../../../3d-applications/maya/using-workflows/using-workflows.md) de Arnold para crear automáticamente una red de sombreador.
 
 ![](../../../assets/render-workflow.png)

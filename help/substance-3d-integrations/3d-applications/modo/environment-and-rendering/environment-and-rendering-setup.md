@@ -22,8 +22,8 @@ ht-degree: 0%
 
 ## Configuración y procesamiento del entorno
 
-Para obtener los mejores resultados con el procesamiento basado en la física y la configuración avanzada de la ventana gráfica, debe utilizar un mapa HDR en el entorno. MODO incluye varios ajustes preestablecidos de Entorno que se pueden encontrar en la ficha Diseño.\
-Una vez que tenga cargado un entorno HDR, debe definir las opciones Iluminación avanzada de la ventana gráfica y Fondo. Puede pulsar la tecla O para que se muestren las propiedades de la ventana gráfica 3D y, en Opciones avanzadas, definir el\
+Para obtener los mejores resultados con el procesamiento basado en datos físicos y la configuración avanzada de la ventana gráfica, debe utilizar un mapa HDR. en el entorno. MODO incluye varios ajustes preestablecidos de Entorno que se pueden encontrar en la ficha Diseño.\
+Una vez que tenga cargado un entorno HDR., debe definir las opciones Iluminación avanzada de la ventana gráfica y Fondo. Puede pulsar la tecla O para que se muestren las propiedades de la ventana gráfica 3D y, en Opciones avanzadas, definir el\
 Iluminación y Entorno a la opción Entorno. Como alternativa, puede utilizar Escena + Entorno para la Iluminación si tiene luces de escena.
 
 ![](../../../assets/env.png)

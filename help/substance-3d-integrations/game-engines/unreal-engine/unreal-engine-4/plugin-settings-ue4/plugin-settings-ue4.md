@@ -40,7 +40,7 @@ El Substance Engine puede ser la CPU o la GPU. El motor de GPU te permitirá cre
 
 El Modo de generación de Substance (SGM) controla cómo se generan las texturas. Se trata de una configuración global para Substance. El SGM se puede cambiar según el Substance en la fábrica de Substance.
 
-**SGM al horno**: Hornea las texturas de la sustancia. Se pierde la capacidad de cambiar parámetros en tiempo de ejecución.
+**SGM Hecho un bake**: Hace un bake las texturas de substance. Se pierde la capacidad de cambiar parámetros en tiempo de ejecución.
 
 **SGM al cargar sincronización**: Bloquea la aplicación mientras se cargan los Substance.
 

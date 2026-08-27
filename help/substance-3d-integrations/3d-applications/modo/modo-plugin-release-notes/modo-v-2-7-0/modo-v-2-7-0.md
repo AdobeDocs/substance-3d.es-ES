@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Modo v. 2.7.0
 
-* Numerosas correcciones de bloqueo
+* Numerosas correcciones de bloqueos
 * Compatibilidad con flotador de 32 bits
-* Texturas 4k en el motor de la CPU y texturas 8k en el motor de la GPU
+* texturas de 4k en el motor de la CPU y texturas de 8k en el motor de la GPU
 * nuevo formato LPK para la versión del complemento
 * nuevo menú Kit para el complemento Substance
-* Compatibilidad con glTF/sombreador de principios para MODO 12.0
+* glTF / Soporte de sombreador basado en principios para MODO 12.0
 * Rutas relativas agregadas para archivos de Substance
 * Compatibilidad con Linux
 * Nueva interfaz de usuario para cargar y guardar ajustes preestablecidos
@@ -35,7 +35,7 @@ ht-degree: 0%
 
   Los nuevos comandos disponibles son:
 
-  **substance.getsbsname** Convierte el identificador de un objeto substance en su nombre interno
+  **substance.getsbsname** Convierte el identificador de un objeto de substance en su nombre interno
 
   Todos ellos esperan un nombre interno adecuado adquirido de substance.getsbsname:
 

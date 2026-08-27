@@ -43,4 +43,4 @@ Este mensaje solo aparece una vez por importación (p. ej., al arrastrar y solta
 
 >[!NOTE]
 >
-> Al igual que con todos los demás comandos de Cinema 4D, estos dos comandos se pueden integrar en cualquier lugar de la distribución o configurarse con un método abreviado de teclado para acceder a ellos rápidamente.
+> Al igual que con todos los demás comandos de Cinema 4D, estos dos comandos se pueden integrar en cualquier lugar de la distribución o configurarse con un método abreviado de teclado para un acceso rápido.

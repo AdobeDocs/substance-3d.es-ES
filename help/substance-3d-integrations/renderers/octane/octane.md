@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Octano
 
-El octanaje se puede utilizar para procesar salidas de Substance mediante el procesador independiente o mediante los complementos de DCC. A través de un material de Substance de Live DB, Octane Standalone admite salidas de Substance basadas en el color base, el metal y la rugosidad.
+El octanaje se puede utilizar para procesar salidas de Substance mediante el procesador independiente o mediante los complementos de DCC. A través de un material de Substance de Live DB, Octane Standalone admite salidas de Substance basadas en color base, metal y rugosidad.
 
 **Octano independiente**\
 En **Base de datos activa > Materiales > Varios**, busque el material &quot;**Substance PBR**&quot;.

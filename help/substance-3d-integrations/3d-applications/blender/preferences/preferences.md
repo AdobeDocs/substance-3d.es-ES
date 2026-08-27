@@ -75,13 +75,13 @@ Las preferencias del complemento se pueden encontrar en la ventana de preferenci
 
 <b>Resaltar automáticamente el material para los objetos seleccionados</b>: cambia el material resaltado en el panel Substance 3D si se selecciona un objeto con ese material.
 
-<b>Ciclos: actualizar automáticamente las texturas</b>: fuerza la actualización de la textura en la ventana gráfica 3D mientras se usa la vista de procesamiento Ciclos.
+<b>texturas de actualización automática de ciclos</b>: obliga a la textura a actualizarse en la ventana gráfica 3D mientras se usa la vista de procesamiento de ciclos.
 
 <b>Eliminar confirmación de eliminación de ajustes preestablecidos</b>: elimina la ventana de confirmación que aparece al eliminar ajustes preestablecidos de materiales.
 
 <b>Crear material con usuario falso habilitado</b>: establece que el tiempo en el que se crea el material sea el de &quot;usuario falso&quot; habilitado o deshabilitado. Los datos de Blender marcados como usuario falso no se purgan después de cerrarse, incluso cuando los datos no se utilizan.
 
-<b>Iniciar automáticamente el motor remoto del Substance </b>: cambia si el motor remoto del Substance se inicializa cuando se inicia Blender. Si está desactivado, el motor remoto sólo se iniciará cuando un usuario cargue un botón o utilice el método abreviado de carga.
+<b>Iniciar automáticamente el motor remoto del Substance </b>: cambia si el motor remoto del Substance se inicializa cuando se inicia Blender. Si está desactivado, el motor remoto solo se iniciará cuando un usuario cargue un botón o utilice el método abreviado de carga.
 
 >[!NOTE]
 >
@@ -93,20 +93,20 @@ Las preferencias del complemento se pueden encontrar en la ventana de preferenci
 
 <b>Copiar archivos .sbsar al guardar en</b> : cuando esta opción está habilitada, los archivos .sbsar se copian en la ruta relativa especificada al guardar el archivo. Esto puede facilitar el uso compartido de proyectos entre dispositivos.
 
-<b>Al guardar, copia texturas a</b>: cuando se guarda un archivo por primera vez, las texturas de la carpeta temporal se copiarán en esta ubicación. La variable $matname se utiliza para crear subcarpetas para cada material.
+<b>Al guardar, copiar texturas a</b>: cuando se guarda un archivo por primera vez, las texturas de la carpeta temporal se copiarán en esta ubicación. La variable $matname se utiliza para crear subcarpetas para cada material.
 
-<b>Ajuste preestablecido del sombreador</b>: establece el ajuste preestablecido del sombreador predeterminado que se utiliza al crear materiales de Blender a partir de archivos de sustancias. Se puede establecer como estándar para la asignación o proyección basadas en UV para la asignación basada en la proyección de cajas, esferas y cilindros.
+<b>Ajuste preestablecido de Sombreador</b>: establece el ajuste preestablecido de sombreador predeterminado que se utiliza al crear materiales de Blender a partir de archivos de substancias. Se puede establecer como estándar para la asignación o proyección basadas en UV para la asignación basada en la proyección de cajas, esferas y cilindros.
 
 <b>Desplazamiento de nivel medio</b>: el valor predeterminado es la base del desplazamiento en el nodo de Desplazamiento. Los valores superiores al valor por defecto empujarán las superficies hacia fuera y los valores inferiores al valor por defecto tirarán de las superficies hacia dentro.
 
 <b>Escala de Desplazamiento</b>: valor de escala predeterminado en el nodo de Desplazamiento.
 
-<b>Intensidad de emisión</b>: valor predeterminado de Intensidad de emisión en el nodo BSDF de principio.
+<b>Intensidad de Emisivo</b>: valor predeterminado de Intensidad de emisión en el nodo BSDF de principio.
 
 <b>Fusión de proyección</b>: Establece la cantidad de fusión entre ángulos para los sombreadores del método de proyección.
 
-<b>Mezcla AO</b>: cuando la Oclusión ambiente está activada como salida, este valor determina el valor de factor predeterminado del nodo MixRGB que se utiliza para combinar las texturas de color base y de Oclusión ambiente.
+<b>Mezcla AO</b>: cuando la Oclusión ambiental está habilitada como salida, este valor determina el valor de factor predeterminado del nodo MixRGB que se utiliza para combinar las texturas de Color base y Oclusión ambiental.
 
 <b>Salidas</b>: las salidas individuales de los materiales se pueden habilitar o deshabilitar. El espacio de color predeterminado, el formato de archivo y la profundidad de color de las salidas individuales también se pueden ajustar.
 
-<b>Accesos directos </b>: personaliza las teclas de método abreviado utilizadas para abrir un menú flotante, cargar un material de Substance y aplicar el material actual. Las actualizaciones de acceso directo requieren un reinicio para que surtan efecto.
+<b>Accesos directos </b>: personaliza las teclas de método abreviado utilizadas para abrir un menú flotante, cargar un material de Substance y aplicar el material actual. Las actualizaciones de método abreviado requieren un reinicio para que surtan efecto.

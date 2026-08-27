@@ -24,8 +24,8 @@ Publicado el 16 de junio de 2020
 
 1. 3.4 Versión:
 
-* Se ha añadido la opción de flujo de trabajo para el sombreador PBR (Spec/Gloss) para 3ds Max 2021
-* Se ha añadido la opción de flujo de trabajo para el sombreador PBR (Metal/Rough) para 3ds Max 2021
+* Opción de flujo de trabajo añadida para el sombreador PBR (Spec/Gloss) para 3ds Max 2021
+* Se ha añadido la opción de flujo de trabajo para el sombreador PBR (Metal/Rough) para 3ds Max 2021.
 * Los scripts de flujo de trabajo ya no fallan al mover nodos entre diferentes vistas en el SME
 * Ahora funcionará la configuración de una ruta relativa en el rastreador de recursos
 * Si falta un resultado que espera un script de flujo de trabajo, ahora se registra en la consola

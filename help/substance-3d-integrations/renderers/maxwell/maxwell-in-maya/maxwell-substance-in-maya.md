@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance en Maya Plugin
 
-Para procesar con Maxwell, en el nodo Substance puede elegir el flujo de trabajo de procesamiento de Maxwell. Esto generará todas las texturas y las conectará al material Maxwell.
+Para procesar con Maxwell, en el nodo Substance puede elegir el flujo de trabajo de procesamiento de Maxwell. Esto generará todas las texturas y las conectará al material de Maxwell.
 
 ![](../../../assets/maxwell-maya.png)
