@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
 breadcrumb-title: ''
 description: Configure los ajustes del plugin del Substance en Unreal Engine 4 hasta Ajustes del proyecto para personalizar el funcionamiento de los plugins.
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ El Substance Engine puede ser la CPU o la GPU. El motor de GPU te permitirá cre
 
 El Modo de generación de Substance (SGM) controla cómo se generan las texturas. Se trata de una configuración global para Substance. El SGM se puede cambiar según el Substance en la fábrica de Substance.
 
-**SGM al horno**: Hornea las texturas de la sustancia. Se pierde la capacidad de cambiar parámetros en tiempo de ejecución.
+**SGM Hecho un bake**: Hace un bake las texturas de substance. Se pierde la capacidad de cambiar parámetros en tiempo de ejecución.
 
 **SGM al cargar sincronización**: Bloquea la aplicación mientras se cargan los Substance.
 

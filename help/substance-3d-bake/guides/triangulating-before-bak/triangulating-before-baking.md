@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
-description: Conozca cómo la triangulación de malla afecta a los resultados de procesamiento y conozca las prácticas recomendadas para preparar la geometría.
+description: Entiende cómo la triangulación de malla afecta a la hace un bake de resultados y aprende las prácticas recomendadas para preparar tu geometría.
 helpx_creative_field: ""
 helpx_description: bakers > Guides > Triangulating before baking
 helpx_experience_level: ""
@@ -28,14 +28,14 @@ Sin embargo, el software transforma esos polígonos en triángulos más adelante
 ![](../../assets/triangulation.jpg)
 
 No hay **soluciones estándar** para convertir Quad/N-Gons en triángulos. Como se muestra en la imagen anterior, varias opciones son válidas.\
-Es poco probable que los panaderos triangulen las mallas como lo haría un motor de juego porque elegimos un algoritmo específico sobre otro.
+Es poco probable que los bakeres triangulen las mallas como haría un motor de juego porque elegimos un algoritmo específico sobre otro.
 
-## ¿Por qué triangular antes de hornear?
+## ¿Por qué triangular antes de hacer un bake?
 
-El proceso de cocción leerá la geometría y, a continuación, codificará la información en texturas.\
-Como esa información se basa en UV y, a veces, en la topología de malla, otro software podría descodificar la información incorrectamente si no leen la geometría de la misma manera que cuando aplican la textura.
+El proceso de hacer un bake leerá la geometría y, a continuación, codificará la información en texturas.\
+Dado que esa información se basa en UV y, a veces, en la topología de malla, otro software podría descodificar la información incorrectamente si no leen la geometría de la misma manera que cuando aplican la textura.
 
 En la imagen siguiente, puede ver la malla de baja densidad en la parte superior izquierda y la malla de alta densidad en la parte superior derecha.\
-En la parte inferior se encuentra el low-poly con el mapa normal cocido del high-poly. La malla de la izquierda utiliza una triangulación idéntica a la utilizada por el Substance Painter al hornear. La malla de la derecha no funciona y muestra artefactos negros. Esto se debe a que hay una discrepancia entre la forma en que se horneó el mapa normal y la forma en que se triangula actualmente la malla. Esto se puede corregir **actualizando la malla y/o reorganizando**.
+En la parte inferior está el bajo-poli con el mapa de normales hecho un bake del alto-poli. La malla de la izquierda utiliza una triangulación idéntica a la utilizada por el Substance Painter al hacer un bake. La malla de la derecha no funciona y muestra artefactos negros. Esto se debe a que hay una discrepancia entre la forma en que se hizo un bake el mapa de normales y la forma en que se triangula la malla actualmente. Esto se puede corregir **actualizando la malla y/o reorganizando**.
 
 ![](../../assets/example-triangulation-artifact.jpg)

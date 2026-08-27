@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-general/adobe-standard-material/asm-specifications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/asm-specifications.html"
 breadcrumb-title: ''
-description: Descarga y revisa las especificaciones completas de Adobe Standard Material para comprender la estructura del modelo de material.
+description: Descargue y revise las especificaciones completas del Adobe Standard Material para comprender la estructura del modelo de material.
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > ASM specifications
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Especificaciones de ASM
 
-Esta página reagrupa las especificaciones del modelo Adobe Standard Material (ASM).
+Esta página reagrupa las especificaciones del modelo de Adobe Standard Material (ASM).
 
 Las especificaciones de ASM están disponibles como documento de PDF: [Adobe Standard Material - Specification.pdf](https://helpx.adobe.com/content/dam/help/en/substance-3d/documentation/s3d/files/225969597/225969613/1/1647027222890/adobe-standard-material-specification.pdf)

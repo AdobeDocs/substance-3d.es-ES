@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-1.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 5.0.1 del plugin Unreal Engine 5 para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Actualizado/agregado:
 
 * Compatibilidad con Unreal Engine versión 5.0.0 y posteriores
 * Documentación del plugin Unreal Engine 5
-* Compatibilidad con la nueva plantilla de material triplanar
+* Compatibilidad con la nueva plantilla de material Tri-plana
 * Compatibilidad con la nueva función &quot;Tamaño físico&quot;
 * *Se renovó* la plantilla estándar del Substance y la plantilla de refracción del Substance
 * La capacidad de modificar el valor XYZ para el espacio de entorno
@@ -37,7 +37,7 @@ Eliminado:
 
 Corregido:
 
-* El proyecto UE5 empaquetado se bloquea cuando los parámetros de material se ajustan mediante planos
+* Bloqueos de proyecto UE5 empaquetados cuando los parámetros de material se ajustan mediante planos
 * El complemento cierra la ventana de parámetros cuando la salida de la instancia de Gráfico de Substance está desactivada
 * Se ha corregido un retraso ocasional del procesamiento que provocaba cambios de parámetros retrasados.
 

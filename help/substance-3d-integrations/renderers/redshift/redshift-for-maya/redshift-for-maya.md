@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
 breadcrumb-title: ''
 description: Usa materiales de Substance con el renderizador Redshift en maya a través de mapas exportados o el plugin de Substance.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance en Maya Plugin
 
-Puedes usar el Redshift [flujo de trabajo de procesamiento](https://docs.substance3d.com/display/integrations/Using+Workflows) para crear automáticamente una red de sombreado.
+Puedes usar el Redshift [flujo de trabajo de procesamiento](https://docs.substance3d.com/display/integrations/Using+Workflows) para crear automáticamente una red de sombreador.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/rs-1?$png$&jpegSize=100&wid=420)

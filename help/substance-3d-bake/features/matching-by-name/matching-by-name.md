@@ -1,7 +1,7 @@
 ---
-helpx_url: 'https://helpx.adobe.com/es/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
-description: Utilice la función Correspondencia por nombre (Matching by Name) para aislar mallas de baja y alta densidad de poli y evitar que la geometría se desangre durante el proceso de cocción.
+description: Utilice la función Coincidencia por nombre para aislar mallas de baja y alta densidad de poli y evitar el sangrado de la geometría durante la hace un bake.
 helpx_creative_field: ''
 helpx_description: bakers > Features > Matching by Name
 helpx_experience_level: ''
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 Coincidencia por nombre es el nombre de un método de filtrado que se puede utilizar en Substance Bakers para aislar mallas de poli y poli altas y bajas en función de su nombre.
 
-Esta funcionalidad es muy útil para evitar que la geometría se desangre entre sí durante el proceso de cocción para lograr texturas limpias. Evita tener que alejar las mallas (a menudo denominadas &quot;explosión&quot;) para lograr el mismo resultado.
+Esta funcionalidad es muy útil para evitar que la geometría se desangre entre sí durante el proceso de hacer un bake para lograr texturas limpias. Evita tener que alejar las mallas (a menudo denominadas &quot;explosión&quot;) para lograr el mismo resultado.
 
 ## Cuándo utilizar la coincidencia por nombre
 
-### Horneado normal del mapa con sangrado de malla
+### Mapa de normales haciendo un bake con sangrado de malla
 
 En este ejemplo, el casco de la parte superior de la cabeza del personaje se desvanece en la cara del personaje.
 
-Al habilitar Coincidencia por nombre podemos ignorar el casco y hornear la cara correctamente. *Este resultado se basa en la configuración de coincidencia principal.*
+Al habilitar Coincidencia por nombre podemos ignorar el casco y hacer un bake la cara correctamente. *Este resultado se basa en la configuración de coincidencia principal.*
 
 | *Malla* | *Coincidencia por nombre de* | *Coincidencia por nombre en* |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Al habilitar Coincidencia por nombre podemos ignorar el casco y hornear la cara 
 
 En este ejemplo, los &quot;botones&quot; de la parte superior del cuadro son de geometría flotante, no están conectados a la malla de poli alta. Por lo tanto, proyectarán sombras por defecto en el cuadro situado debajo de ellas, que mostrará el borde geométrico.
 
-Al habilitar Coincidencia por nombre para el ajuste **Ignorar cara posterior**, podemos hornear la oclusión ambiente mientras ignoramos el área debajo de los botones para que parezca un cuadro singular.*Este resultado se basa en el uso de la configuración Ignorar reverso.*
+Al habilitar Coincidencia por nombre para el ajuste **Ignorar cara posterior**, podemos hacer un bake la oclusión ambiental mientras ignoramos el área debajo de los botones para que parezca un cuadro singular.*Este resultado se basa en el uso de la configuración Ignorar reverso.*
 
 | *Malla* | *Coincidencia por nombre de* | *Coincidencia por nombre en* |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ La coincidencia por nombre se puede habilitar en [Parámetros comunes](../../bak
 Los sufijos predeterminados son \_low y \_high y se pueden cambiar de la siguiente manera:
 
 * **Substance Painter**: En la [ventana de panadería](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro de los parámetros comunes.
-* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
+* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
 
 ## Mallas de alta densidad de zepillo
 

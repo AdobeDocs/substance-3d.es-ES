@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-6-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-6-0.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.6.0 del plugin Unity para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -36,7 +36,7 @@ Correcciones:
 
 Problemas conocidos:
 
-* Se produce un error de acceso denegado o un bloqueo al actualizar el plugin de versiones anteriores (2.5.4 y anteriores)
+* Se produce un error o bloqueo de acceso denegado al actualizar el plugin de versiones anteriores 2.5.4 y anteriores
   * Solución alternativa: Las versiones de plugins anteriores 2.5.4 y anteriores, deben desinstalarse desde las versiones de proyecto de Unity 2020.2 y posteriores antes de instalar el plugin 2.6.0
 * Las vistas previas de textura de archivos de imagen no se mostrarán en el inspector cuando esté instalado el plugin de Substance
   * El origen de este problema existe en Unity y está previsto que Unity lo corrija en sus versiones 2021.2 (actualmente en versión beta)

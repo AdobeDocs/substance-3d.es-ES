@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
 breadcrumb-title: ''
 description: Obtenga información sobre el complemento Substance 3D para Unity, incluidas la compatibilidad con versiones, funciones y capacidades de integración.
 helpx_creative_field: ""
@@ -34,16 +34,16 @@ La versión 3.0.0 del plugin Adobe Substance 3D para Unity admite actualmente Un
 1. Busque el material del Substance que desea importar. Los materiales de Substance tienen la extensión de archivo &quot;.sbsar&quot;.
 1. El material de Substance se importará en el proyecto de Unity.
 
-   1. El recurso sbsar creará un archivo de importación principal y una carpeta que contendrá las texturas de salida y un material Unity generado.
+   1. El recurso sbsar creará un archivo de importación principal y una carpeta que contendrá las texturas de salida y un material de Unity generado.
 1. A continuación, puede arrastrar y soltar el material en una malla en la vista de escena y, a continuación, editar los parámetros en el inspector.
 
    ![](../../../assets/window-overview.png){width="1000px"}
 
 >[!NOTE]
 >
-> **Conversión de mapa normal**
+> **Conversión de Mapa de normales**
 > 
-> El plugin Substance en Unity convierte automáticamente el DirectX a OpenGL. Al usar materiales de [Substance Source](https://source.substance3d.com/), no es necesario cambiar la orientación normal a OGL. Si va a crear su propio material en Substance Designer, asegúrese de trabajar con el sombreador de DirectX predeterminado, ya que el complemento se encargará de la conversión normal automáticamente. Para obtener más información, consulte Trabajar con normales en Unity.
+> El plugin Substance en Unity convierte automáticamente el DirectX a OpenGL. Al usar materiales de [Substance Source](https://source.substance3d.com/), no es necesario cambiar la orientación normal a OGL. Si va a crear su propio material en Substance Designer, asegúrese de trabajar con el sombreador de DirectX predeterminado, ya que el plugin se encargará de la conversión normal automáticamente. Para obtener más información, consulte Trabajar con normales en Unity.
 
 ## Cambio de parámetros
 

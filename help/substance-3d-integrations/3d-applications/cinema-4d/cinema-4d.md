@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/cinema-4d.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
 description: Instale y utilice el plugin de Substance para Cinema 4D para importar y trabajar con materiales de Substance en sus proyectos.
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ ht-degree: 0%
 El complemento Substance consta básicamente de dos componentes: **Archivos de Substance** y un **sombreador de Substance**.
 
 * Los recursos de Substance representan a los Substance reales dentro de Cinema 4D. Se administran en el Administrador de recursos de Substance.
-* El sombreador de Substance conecta los canales de salida de los recursos de Substance con los canales de materiales de Cinema 4D.
+* El sombreador Substance conecta los canales de salida de los recursos del Substance con los canales de materiales del Cinema 4D.
 
 ## Tabla de contenido
 

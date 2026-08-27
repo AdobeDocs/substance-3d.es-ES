@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: Modifique los parámetros de material del Substance en MODO a través del panel Propiedades del Substance para personalizar materiales.
 helpx_creative_field: ""
@@ -38,11 +38,11 @@ Un Substance tiene un conjunto de parámetros principales, que se encuentran en 
 * **Seleccionar ajuste preestablecido:** Le permite elegir un ajuste preestablecido incrustado en el archivo de Substance o entre ajustes preestablecidos guardados en MODO.
 * **Convertir en disco:** Este parámetro convierte las texturas generadas por el Substance en un archivo de mapa de bits.
 * **Tamaño de salida:** Este parámetro cambiará dinámicamente el tamaño de la textura para ajustarla al tamaño establecido. El Substance Engine regenerará la textura al tamaño deseado.
-* **Raíz aleatoria:** Este parámetro variará la generación de procedimientos del Substance. Este parámetro es ideal para crear una versión aleatoria del mismo Substance. Permite variar rápidamente los parámetros del Substance para generar una nueva versión de las texturas
+* **Raíz aleatoria:** Este parámetro variará la generación procedimienta del Substance. Este parámetro es ideal para crear una versión aleatoria del mismo Substance. Permite cambiar rápidamente los parámetros del Substance para generar una nueva versión de las texturas
 
 ## Salidas
 
-Las opciones de Salida permiten activar o desactivar las salidas del Substance. Un resultado es lo que genera el Substance Engine y se procesa como una textura en el árbol del sombreador.
+Las opciones de Salida permiten activar o desactivar las salidas del Substance. Un resultado es lo que genera el Substance Engine y se representa como una textura en el árbol de Sombreadores.
 
 ![](../../../assets/outputs-02.png){width="300px"}
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
-description: Utilice los nodos de Flow Graph en Lumberyard para configurar los ajustes de material procedimentales mediante programación.
+description: Utilice los nodos de Flow Graph en Lumberyard para configurar los ajustes de material procedimientos mediante programación.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Lumberyard > Flow Graph API
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # API de Flow Graph
 
-Puede utilizar los siguientes nodos de diagrama de flujo para configurar los ajustes de material procedimentales.
+Puede utilizar los siguientes nodos de diagrama de flujo para configurar los ajustes de material procedimientos.
 
 * [Nodo GetGraphInstanceID](https://docs.aws.amazon.com/lumberyard/latest/userguide/fg-node-ref-procedural-material.html#fg-node-ref-proceduralmaterial-getgraphinstanceid)
 * [nodo GetInputFloat](https://docs.aws.amazon.com/lumberyard/latest/userguide/fg-node-ref-procedural-material.html#fg-node-ref-proceduralmaterial-getinputfloat)

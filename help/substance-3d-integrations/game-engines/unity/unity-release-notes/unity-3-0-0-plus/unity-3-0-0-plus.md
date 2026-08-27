@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Consulte las notas de la versión del plugin Unity 3.0.0 y posteriores para obtener más información sobre las nuevas funciones y mejoras.
 helpx_creative_field: ""
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * Se solucionó un problema de pérdida de memoria en el código C++ del complemento, lo que garantiza una recuperación de memoria completa al eliminar objetos.
 * Se ha solucionado un problema en Linux por el que la importación del paquete del plugin Unity daba como resultado una excepción &#39;SubstanceException: Se ha dado un argumento no válido al error de la API, lo que ahora permite la importación correcta de archivos SBSAR.
-* Se ha resuelto un problema por el que SubstanceGraphSO.CurrentStatePreset no funcionaba correctamente al cargar ajustes preestablecidos con un script de ventana del editor personalizado en Unity; ahora hay disponible un script correctivo en nuestra página Documentación para el Substance (HelpX) : https://experienceleague.adobe.com/es/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Se ha resuelto un problema por el que SubstanceGraphSO.CurrentStatePreset no funcionaba correctamente al cargar ajustes preestablecidos con un script de ventana del editor personalizado en Unity; ahora hay disponible un script correctivo en nuestra página Documentación para el Substance (HelpX) : https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * Se ha corregido un error por el que las propiedades de los gráficos desaparecían al volver a seleccionarlas en el editor de Unity.
 * Se solucionó el problema del &quot;Tipo administrado desconocido al que se hace referencia&quot; relacionado con SubstanceGraphSO en el complemento Unity, lo que mejoró la compatibilidad y la funcionalidad en las plataformas Android, en particular para Unity 2022.1 y posiblemente en todas las versiones de Unity.
 * Se ha corregido un problema por el que la selección &quot;FORMATO NORMAL&quot; de la sección PARÁMETROS TÉCNICOS se mostraba incorrectamente como un campo de entrada de número, en lugar de la lista desplegable esperada con las opciones DirectX y OpenGL.
@@ -98,9 +98,9 @@ ht-degree: 0%
 
 <b>Corregido:</b>
 
-* Se ha resuelto un problema que afectaba a los mapas normales en proyectos de Android.
+* Se ha resuelto un problema que afectaba a mapas de normales en proyectos de Android.
 * Se ha solucionado un error por el que, al arrastrar un objeto sbsar a la vista de escena, todos los objetos con el cursor encima tenían sus materiales reemplazados por el material del objeto sbsar.
-* Se ha corregido un error que provocaba un error al inspeccionar un material marcado como Solo en tiempo de ejecución en modo de ejecución y abrir la Asignación de textura de salida.
+* Se ha corregido un error que provocaba un error al inspeccionar un material marcado como Solo en tiempo de ejecución en modo de ejecución y abrir la Asignación de Textura de salida.
 
 ## Unity 3.7.0
 

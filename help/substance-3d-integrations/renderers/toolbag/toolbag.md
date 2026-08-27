@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: Usa rugosidad y salidas metálicas Substance en la bolsa de herramientas 2 para la previsualización y renderización de materiales en tiempo real.
 helpx_creative_field: ""
@@ -24,14 +24,14 @@ Esta página muestra cómo utilizar las salidas de rugosidad/metálicas para la 
 
 La bolsa de herramientas admite los flujos de trabajo de specular/brillo y metálico/rugosidad.
 
-Substance 3D Painter utiliza el sombreador PBR metálico como valor predeterminado; sin embargo, también puede utilizarlo con el sombreador specular/brillo. Este flujo de trabajo mostrará cómo utilizar las salidas metálicas para la bolsa de herramientas 2. Toolbag soporta el flujo de trabajo metálico.
+Substance 3D Painter utiliza el sombreador PBR metálico como predeterminado, pero también puede utilizarlo con el sombreador de specular/brillo. Este flujo de trabajo mostrará cómo utilizar las salidas metálicas para la bolsa de herramientas 2. Toolbag soporta el flujo de trabajo metálico.
 
 [Descargar escena de ejemplo](https://www.dropbox.com/s/qyed3un2zhtuibj/toolbag.zip?dl=0)
 
 ## Exportar desde Painter
 
-1. Al usar el sombreador PBR metálico predeterminado, podemos exportar usando el ajuste preestablecido Canales del documento + Normal + Exportación de AO predeterminado.  ***\*Los canales de documento exportan el mapa normal según la configuración del proyecto. La bolsa de herramientas requiere un mapa normal de OGL. Puede cambiar el formato normal en la configuración del proyecto.***
-1. Como alternativa, puede crear una configuración de exportación personalizada que utilice brillo
+1. Al utilizar el sombreador PBR metálico predeterminado, podemos exportar utilizando el ajuste preestablecido Canales del documento + Normal + Exportación de AO predeterminado.  ***\*El Mapa de normales de exportaciones de canales de documento se basa en la configuración del proyecto. La bolsa de herramientas requiere el Mapa de normales OGL. Puede cambiar el formato normal en la configuración del proyecto.***
+1. También puede crear una configuración de exportación personalizada que utilice brillo
 
    ![](../../assets/settings-export.png){width="600px"}
 1. Puede cambiar el formato Normal a OpenGL antes de exportar.  **Editar>Configuración del proyecto**

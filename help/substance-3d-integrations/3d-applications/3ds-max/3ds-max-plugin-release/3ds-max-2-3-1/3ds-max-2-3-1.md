@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-1.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.3.1 del plugin 3ds Max para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ Esta versión está disponible actualmente para 3ds Max 2018, 2019, 2020 y 2021.
 * Los scripts de python más pequeños ahora son compatibles con Python 3
 * Se ha agregado la compatibilidad con el Iniciador de Substance para enviar los recursos del Substance Source a 3ds Max. Esto requerirá cambios en el Iniciador, pero el soporte en el plugin estará allí a medida que se añada la función.
 * El script del procesador Redshift ahora utiliza los nuevos nombres de nodo establecidos en Redshift 2.6.24
-* Max ya no se bloquea cuando se asigna una ruta de acceso vacía a Substance2 SubstanceFilePath
+* Max ya no bloqueo cuando se asigna una ruta de acceso vacía a SubstanceFilePath de Substance2
 * Eliminar la colisión de nombre del tipo SubstanceOutput con el plugin antiguo
 * Se cambió el nombre de la clase SubstanceOutput a Substance2Output
 * Se ha cambiado el nombre de la clase Substance Menu Manager a Substance2MenuManager

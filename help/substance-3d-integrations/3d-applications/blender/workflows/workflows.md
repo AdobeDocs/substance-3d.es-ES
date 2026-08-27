@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: Aprenda a utilizar materiales de Substance con los procesadores Ciclos de mezclador y Eve para diferentes flujos de trabajo.
 helpx_creative_field: ""
@@ -54,7 +54,7 @@ El ajuste preestablecido de sombreado predeterminado utilizado por los materiale
 
 La sección Salidas del panel Substance 3D también dispone de opciones para filtrar las salidas. Se pueden utilizar tres botones junto a la lista desplegable de ajustes preestablecidos de sombreado para filtrar por salidas activadas (marca de verificación), salidas de sombreado (esfera) y todas las salidas disponibles (líneas).
 
-Las salidas se pueden activar individualmente mediante la casilla de verificación. Cuando se habilita una salida, se crea la salida correspondiente en el grupo de nodos de textura. Si el nodo de material de Principled BSDF soporta ese resultado, se conectará automáticamente a él. El height se conectará a un nodo de desplazamiento y la Oclusión de ambiente se combinará con el color base en un nodo MixRGB.\
+Las salidas se pueden activar individualmente mediante la casilla de verificación. Cuando se habilita una salida, se crea la salida correspondiente en el grupo de nodos de textura. Si el nodo de material de Principled BSDF soporta ese resultado, se conectará automáticamente a él. El height se conectará a un nodo de desplazamiento y la Oclusión ambiental se combinará con el color base en un nodo MixRGB.\
 El menú desplegable de formato de archivo situado junto a la marca de verificación se puede utilizar para establecer el tipo de archivo con el que se guarda la textura de salida.
 
 Además, las preferencias de salida de archivo predeterminadas se pueden cambiar en el complemento [Preferencias](../../../3d-applications/blender/preferences/preferences.md).

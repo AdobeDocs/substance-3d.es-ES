@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
 description: Utilice esta referencia para comprobar qué versión del motor del Substance es compatible con su software y garantizar la compatibilidad de los materiales.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Esta página reagrupa información sobre la versión del motor del Substance que
 
 Los materiales y modelos de Substance creados en el software de Substance solo se pueden usar en aplicaciones que admitan la misma versión del motor de Substance o una versión más reciente; de lo contrario, las nuevas funciones serían incompatibles.
 
-Las tablas de esta página ayudan a saber si un material de Substance o un modelo de procedimiento de Substance se puede utilizar con la versión actual del software. Es posible que no mencionen todas las versiones publicadas, solo aquellas en las que se realizó una actualización. Así que si una versión no se menciona significa que la versión anterior es la que se aplica.
+Las tablas de esta página ayudan a saber si un material de Substance o un modelo procedimiento de Substance se puede utilizar con la versión actual del software. Es posible que no mencionen todas las versiones publicadas, solo aquellas en las que se realizó una actualización. Así que si una versión no se menciona significa que la versión anterior es la que se aplica.
 
 <table>
 <tr style="border: 0;">
@@ -78,7 +78,7 @@ Stager\
 </tr>
 </table>
 
-| Versión de software | Versión del motor de Substance | Versión de Bakers | Versión en origami |
+| Versión de software | Versión del motor de Substance | Versión de bakeres | Versión en origami |
 | --- | --- | --- | --- |
 | <b>9.1.0</b> 7 de noviembre de 2023 | 9.0.3 |  |  |
 | <b>7.4.2</b> | 8.3.0 | 2.5.5 | 0.8.0 |

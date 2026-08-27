@@ -31,7 +31,7 @@ Este documento es una guía orientada al artista para comprender y trabajar con 
 
 ### Un lenguaje material compartido con el OpenPBR
 
-Uno de los objetivos principales del OpenPBR es mejorar la forma en que los materiales se mueven entre las herramientas. En lugar de ser un sombreado vinculado a un único procesador o aplicación, el OpenPBR define un **modelo de sombreado compartido**, una forma común de describir cómo responde un material a la luz.
+Uno de los objetivos principales del OpenPBR es mejorar la forma en que los materiales se mueven entre las herramientas. En lugar de ser un sombreador vinculado a un único procesador o aplicación, el OpenPBR define un **modelo de sombreado compartido**, una forma común de describir cómo un material responde a la luz.
 
 Para los artistas, esto significa que un material de OpenPBR no es solo, por ejemplo, &#39;un material de Adobe&#39; o &#39;un material de Autodesk&#39;, sino más bien una descripción del comportamiento de la superficie y el volumen que, en principio, puede ser entendido por múltiples herramientas. La intención es que un material creado en una aplicación pueda interpretarse de forma coherente en otro lugar, siempre que esas herramientas sean compatibles con el modelo de OpenPBR.
 
@@ -125,9 +125,9 @@ Base Metalness define si un material se comporta como un dieléctrico o un metal
 * Utilice valores medios solo para superficies mixtas
 * Confíe en la rugosidad y el detalle de la superficie para dar forma al aspecto metálico.
 
-Utilice capas (por ejemplo, capa) en lugar de reducir el metal para metales pintados o recubiertos, transparentes y transmisivos.
+Utilice capas (por ejemplo, capa) en lugar de reducir el metal para metales pintados o recubiertos, transparentes y materiales de transmisivo.
 
-### Materiales transparentes y transmisibles
+### Materiales transparentes y de transmisivo
 
 Los materiales transparentes y transmisivos permiten que la luz pase a través de ellos. Algunos ejemplos comunes son el vidrio, muchos líquidos y plásticos claros o tintados. Sus características definitorias son:
 
@@ -153,18 +153,18 @@ Una distinción entre los términos &quot;transparente&quot; y &quot;transmisivo
 
 Los materiales del mundo real rara vez son perfectamente puros. Muchas superficies se describen mejor como mezclas de comportamientos, en lugar de pertenecer a una sola categoría. Por ejemplo, si una superficie muestra signos de dirt, desgaste o óxido, distintas partes de la superficie reaccionarán a la luz de diferentes maneras. El OpenPBR soporta esto permitiendo mezclar suavemente, de una parte de una superficie a otra.
 
-### Metalness as a Blend
+### El metal como Fusión
 
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/extra/metalness/metalnessAsBlend.png" alt="" width="400"/><br><em>En este material el hierro tiene una metalidad de 1, mientras que el óxido tiene una metalidad de 0. Puede haber valores intermedios de metalidad donde el óxido pasa a la plancha.</em></td>
-    <td style="border: 0;" valign="top">Si bien el valor de metalness suele ser 0 o 1 (es decir, totalmente no metálico o totalmente metálico), los valores intermedios son significativos. Estos valores representan superficies en las que materiales metálicos y no metálicos se mezclan a pequeña escala, en casos como pinturas que contienen partículas o escamas metálicas. Además, como se ha mencionado anteriormente, los materiales de OpenPBR se crean a partir de capas que representan interfaces físicas distintas. Es totalmente posible que la capa base de un material (es la capa "core") sea metálica, pero para que tenga una capa de capa no metálica por encima - la capa de capa no es simplemente un control de specular adicional - representa una superficie física separada a través de la cual la luz debe pasar. Este sería el caso con algunos tipos de pintura de coches, por ejemplo: las escamas metálicas se representarían en la capa Base del material, mientras que la capa Coat representaría una capa transparente.</td>
+    <td style="border: 0;" valign="top">Si bien el valor de metalness suele ser 0 o 1 (es decir, totalmente no metálico o totalmente metálico), los valores intermedios son significativos. Estos valores representan superficies en las que materiales metálicos y no metálicos se mezclan a pequeña escala, en casos como la pintura que contiene partículas o escamas metálicas. Además, como se ha mencionado anteriormente, los materiales de OpenPBR se crean a partir de capas que representan interfaces físicas distintas. Es totalmente posible que la capa base de un material (es la capa "core") sea metálica, pero para que tenga una capa de capa no metálica por encima - la capa de capa no es simplemente un control de specular adicional - representa una superficie física separada a través de la cual la luz debe pasar. Este sería el caso con algunos tipos de pintura de coches, por ejemplo: las escamas metálicas se representarían en la capa Base del material, mientras que la capa Coat representaría una capa transparente.</td>
   </tr>
 </table>
 
 ### Combinación de capas para crear comportamientos complejos
 
-Los materiales complejos, como el vidrio esmerilado o la pintura de coches mencionados anteriormente en esta sección, se crean combinando varios comportamientos de forma controlada. Por ejemplo:
+Los materiales complejos, como el vidrio esmerilado o la pintura del coche que se mencionan anteriormente en esta sección, se crean combinando varios comportamientos de forma controlada. Por ejemplo:
 
 * **Vidrio congelado**: transmisión combinada con alta rugosidad y dispersión
 * **Metal pintado**: una superficie dieléctrica sobre una base metálica, a menudo con una capa clara En lugar de pensar en términos de ajustes preestablecidos, es más eficaz considerar qué comportamientos físicos están presentes y cómo interactúan. Los materiales de OpenPBR se definen mediante componentes físicamente significativos que describen la forma en que la luz interactúa con las superficies. Los &#39;tipos&#39; materiales surgen naturalmente de combinaciones de comportamientos, en lugar de ser seleccionados explícitamente. Al centrarse en la interacción con la luz, la fusión y las capas, los artistas pueden crear una amplia gama de materiales realistas al tiempo que mantienen la verosimilitud física.
@@ -719,7 +719,7 @@ Emisión controla si el material emite o no su propia luz (independientemente de
 >
 > Tenga en cuenta que, incluso si una capa Base es suave (es decir, su valor de Rugosidad es cercano a 0), la Rugosidad de la capa Coat puede hacer que el material general parezca mucho más rugoso.
 
-* Anisotropía: Anisotropía describe cómo varían los reflejos de la capa de capa en función de la dirección, lo que hace que las iluminaciones se estiren o alineen a lo largo de una superficie en lugar de parecer circulares. Este efecto se utiliza para representar la estructura direccional de la superficie del revestimiento, como los patrones de cepillado, rayas o flujo.
+* Anisotropía: Anisotropía describe cómo varían los reflejos de la capa de capa en función de la dirección, lo que hace que las iluminaciones estiren o se alineen a lo largo de una superficie en lugar de parecer circulares. Este efecto se utiliza para representar la estructura direccional de la superficie del revestimiento, como los patrones de cepillado, rayas o flujo.
 
 <table>
   <tr>
@@ -729,7 +729,7 @@ Emisión controla si el material emite o no su propia luz (independientemente de
   </tr>
 </table>
 
-* Tangente de anisotropía: La dirección de cualquier estiramiento o rayado debido al valor de Anisotropía anterior.
+* Tangente de anisotropía: La dirección de cualquier estire o raya debido al valor de Anisotropía anterior.
 
 <table>
   <tr>
@@ -741,7 +741,7 @@ Emisión controla si el material emite o no su propia luz (independientemente de
 
 *Diferentes orientaciones de tangente de Anisotropía.*
 
-* Capa normal: La capa Coat se puede deformar en pequeña medida para producir la apariencia de una geometría de escala fina. Esto podría utilizarse, por ejemplo, para reproducir el aspecto de arañazos o gotas de lluvia en un material.
+* Normal de capa: La capa Coat se puede deformar en pequeña medida para producir la apariencia de una geometría de escala fina. Esto podría utilizarse, por ejemplo, para reproducir el aspecto de arañazos o gotas de lluvia en un material.
 
 +++
 
@@ -805,7 +805,7 @@ Un punto fuerte clave de los flujos de trabajo de PBR es la separación de las p
 
 Los flujos de trabajo de PBR modernos tienen como objetivo minimizar las dependencias ocultas entre los parámetros. Al ajustar un valor como la rugosidad, el metal o la transmisión, el objetivo debe ser afectar solo ese aspecto específico de la apariencia del material. En la práctica, esto significa:
 
-* Evita crear múltiples efectos visuales a partir de una única textura, a menos que exista una justificación física clara.
+* Evita impulsar múltiples efectos visuales desde una sola textura a menos que exista una justificación física clara.
 * Prefiera configuraciones de parámetros simples y legibles en lugar de redes estrechamente interconectadas.
 * Realice los cambios de forma incremental, evaluando su impacto de forma aislada cuando sea posible. Este enfoque hace que los materiales sean más fáciles de entender, más fáciles de depurar y más predecibles cuando se reutilizan en otros contextos.
 
@@ -847,7 +847,7 @@ Sin embargo, el Peso del specular sigue siendo útil como forma abreviada para a
 
 ### Transmisión confusa, transparencia y dispersión subsuperficial
 
-Los efectos de paso de luz a menudo se agrupan de forma floja bajo &#39;transparencia&#39; o &#39;translucidez&#39;, pero el OpenPBR hace distinciones claras entre ellos. La transmisión describe la luz que pasa a través de un material y sale por el lado opuesto, como se ve en el vidrio, el agua o los plásticos transparentes. La dispersión subsuperficial describe la luz que entra en un material, se dispersa internamente y sale en diferentes puntos, lo que produce sombras suaves y color interno.
+Los efectos de paso de luz a menudo se agrupan de forma indefinida bajo &#39;transparencia&#39; o &#39;translucidez&#39;, pero el OpenPBR hace distinciones claras entre ellos. La transmisión describe la luz que pasa a través de un material y sale por el lado opuesto, como se ve en el vidrio, el agua o los plásticos transparentes. La dispersión subsuperficial describe la luz que entra en un material, se dispersa internamente y sale en diferentes puntos, lo que produce sombras suaves y color interno.
 
 A nivel físico, hay dos fenómenos en juego: la dispersión, el efecto que hace que la leche aparezca blanca, y la absorción, que hace que el café aparezca negro. Cuando hay poca o ninguna dispersión, el volumen tiende a parecer más transparente, y la transmisión es una característica clave a tener en cuenta. Cuando hay mucha dispersión, el volumen tiende a parecer más reflectante, y la subsuperficie es una característica clave. Si se llevan los parámetros a valores extremos, se podría hacer que el subsuelo pareciera transparente y la transmisión pareciera opaca, pero sería muy ineficiente.
 
@@ -871,7 +871,7 @@ Si bien los parámetros de OpenPBR están basados en el significado físico, lle
 
 ### Malentendido de las limitaciones del modelo
 
-No todos los materiales pueden ser representados por OpenPBR. Como cualquier modelo de material, el OpenPBR es solo eso: un modelo. A pesar de que ya es razonablemente rico en características, sigue siendo crudo en comparación con la infinitamente amplia y exuberante gama de materiales que existen o que uno puede imaginar. Hay materiales que un modelo puede representar de forma instantánea, algunos que requieren más experiencia para construirse y que extienden el modelo hasta sus límites, y otros que el modelo no puede representar. En algunos casos, un artista experto puede obtener un resultado decente con algún &quot;engaño&quot;; esto suele ocurrir cuando se realizan elecciones no físicas. Pero es importante entender qué se puede y qué no se puede hacer con el modelo, y saber cuándo se hace necesaria una solución alternativa, como un material más simple o un sombreador dedicado.
+No todos los materiales pueden ser representados por OpenPBR. Como cualquier modelo de material, el OpenPBR es solo eso: un modelo. A pesar de que ya es razonablemente rico en características, sigue siendo crudo en comparación con la infinitamente amplia y exuberante gama de materiales que existen o que uno puede imaginar. Hay materiales que un modelo puede representar de forma instantánea, algunos que requieren más experiencia para construirse y que estiran el modelo hasta sus límites, y otros que el modelo no puede representar. En algunos casos, un artista experto puede obtener un resultado decente con algún &quot;engaño&quot;; esto suele ocurrir cuando se realizan elecciones no físicas. Pero es importante entender qué se puede y qué no se puede hacer con el modelo, y saber cuándo se hace necesaria una solución alternativa, como un material más simple o un sombreador dedicado.
 
 ### Se espera que el Modelo de material resuelva los problemas de procesamiento
 
@@ -905,7 +905,7 @@ Una consecuencia directa de esta base en el mundo real es que los flujos de trab
 
 Para los artistas, la PBR proporciona un lenguaje visual compartido entre herramientas, motores y renderizadores. El objetivo de un material creado con los principios de la PBR es que parezca coherente, ya se visualice en un motor en tiempo real, en un procesador con trazado de trazado o en condiciones de iluminación radicalmente diferentes, sin necesidad de un ajuste manual constante. Esta coherencia es una razón clave por la que la PBR se ha convertido en un estándar en los juegos, los efectos visuales y la visualización.
 
-En esencia, la PBR se basa en algunas ideas físicas fundamentales sobre la luz y las superficies. La luz se trata como energía que refleja, dispersión o es absorbida por una superficie, y los sombreadores están diseñados para conservar esa energía para que los materiales no parezcan anormalmente brillantes o reflectantes. La apariencia de la superficie se ve influenciada por factores como la rugosidad microscópica, que influye en la nitidez o suavidad de los reflejos. Los flujos de trabajo de PBR también distinguen claramente entre metales y no metales, ya que estos tipos de materiales interactúan con la luz de formas fundamentalmente diferentes. La PBR se basa en parámetros que describen propiedades físicas, como el color base, la rugosidad y el metal, que el sombreador interpreta mediante modelos derivados físicamente.
+En esencia, la PBR se basa en algunas ideas físicas fundamentales sobre la luz y las superficies. La luz se trata como energía que refleja, dispersión o es absorbida por una superficie, y los sombreadores están diseñados para conservar esa energía para que los materiales no parezcan anormalmente brillantes o reflectantes. La apariencia de la superficie se ve influenciada por factores como la rugosidad microscópica, que influye en la nitidez o suavidad de los reflejos. Los flujos de trabajo de PBR también distinguen claramente entre metales y no metales, ya que estos tipos de materiales interactúan con la luz de formas fundamentalmente diferentes. La PBR se basa en parámetros que describen propiedades físicas, como el color base, la rugosidad y el metal, que el sombreador interpreta utilizando modelos derivados físicamente.
 
 Y lo que es más importante, la PBR favorece una baja interdependencia entre las distintas partes del procesamiento. Al separar la definición del material de la iluminación, los artistas evitan tener que &quot;arreglar&quot; los materiales cada vez que cambia la luz. Esta división convierte un problema complejo en otros más pequeños y manejables: la iluminación se puede ajustar independientemente de los materiales, y los materiales se pueden crear sin conocer la configuración final de la escena. A una escala más fina, los modelos de PBR modernos —incluido el OpenPBR— pretenden mantener los parámetros lo más independientes posible, lo que permite a los artistas ajustar los valores de forma aislada sin causar efectos secundarios inesperados.
 

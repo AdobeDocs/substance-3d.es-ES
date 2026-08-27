@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
-description: Calcula texturas normales dobladas que describen la dirección media de la iluminación ambiental a partir de mallas de alta densidad de poli.
+description: Calcule las texturas de normales dobladas que describen la dirección media de la iluminación ambiental desde mallas de alto contenido de poli.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Bent Normals from Mesh
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Normales dobladas de la malla
 
-Las normales de flexión del generador de mallas calculan una textura que describe la dirección media de la iluminación ambiental. Este panadero se deriva del panadero [Ambient Oclusión from Mesh](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md).
+Las Normales dobladas del baker de malla calculan una textura que describe la dirección media de la iluminación ambiental. Este baker se deriva del baker [Oclusión ambiental de Mesh](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md).
 
 **Disponible en:**
 
@@ -33,7 +33,7 @@ Las normales de flexión del generador de mallas calculan una textura que descri
 | *Parámetro* | *Descripción* |
 | --- | --- |
 | **Rayos secundarios** | Cantidad de rayos de oclusión. Un valor alto producirá menos ruido pero será más largo de calcular. |
-| **Distancia Mínima Del Obturador** | Distancia mínima en la que los rayos de oclusión alcanzarán la alta geometría de poli&#x200B;**.** |
+| **Distancia Mínima Del Obturador** | Distancia mínima en la que los rayos de oclusión alcanzarán la alta geometría de poli**.** |
 | **Distancia máxima del dispositivo de cierre** | Distancia máxima en la que los rayos de oclusión alcanzarán la alta geometría de poli. |
 | **Relativo al cuadro delimitador** | Si se habilita, los cálculos de distancia de rayos se basan en el espacio normalizado (0 a 1) de la malla de baja densidad. Si está desactivada, el cálculo de la distancia de rayo se basa en las unidades especificadas en la malla de baja densidad cuando se exportó (metros, centímetros, etc.). |
 | **Ángulo de pliego** | Ángulo de extensión máximo de los rayos de oclusión. El valor predeterminado es 180. |

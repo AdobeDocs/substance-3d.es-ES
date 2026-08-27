@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
 description: Aprenda a usar materiales de Substance con el procesador de Arnold en Maya usando el plugin de Substance y el material de superficie estándar.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance en Maya Plugin
 
-Puede usar el Arnold[flujo de trabajo de procesamiento](../../../3d-applications/maya/using-workflows/using-workflows.md) para crear automáticamente una red de sombreadores.
+Puedes usar el [flujo de trabajo de procesamiento](../../../3d-applications/maya/using-workflows/using-workflows.md) de Arnold para crear automáticamente una red de sombreador.
 
 ![](../../../assets/render-workflow.png)

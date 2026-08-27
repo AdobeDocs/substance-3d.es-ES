@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-4.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.3.4 del plugin 3ds Max para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -24,8 +24,8 @@ Publicado el 16 de junio de 2020
 
 1. 3.4 Versión:
 
-* Se ha añadido la opción de flujo de trabajo para el sombreador PBR (Spec/Gloss) para 3ds Max 2021
-* Se ha añadido la opción de flujo de trabajo para el sombreador PBR (Metal/Rough) para 3ds Max 2021
+* Opción de flujo de trabajo añadida para el sombreador PBR (Spec/Gloss) para 3ds Max 2021
+* Se ha añadido la opción de flujo de trabajo para el sombreador PBR (Metal/Rough) para 3ds Max 2021.
 * Los scripts de flujo de trabajo ya no fallan al mover nodos entre diferentes vistas en el SME
 * Ahora funcionará la configuración de una ruta relativa en el rastreador de recursos
 * Si falta un resultado que espera un script de flujo de trabajo, ahora se registra en la consola

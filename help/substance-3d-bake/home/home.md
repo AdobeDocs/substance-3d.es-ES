@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Aprende a usar Substance Bakers para calcular información basada en mallas en archivos de texturas y mejorar tu flujo de trabajo de texturas.
 helpx_creative_field: ""
@@ -110,7 +110,7 @@ Esta documentación abarca los <b>aspectos fundamentales del procesamiento</b> y
 * [¿Se debe activar Calcular el espacio tangente por fragmento?](../common-questions/should-enable-compute-tan/should-i-enable-compute-tangent-space-per-fragment.md)
 * [La textura horneada fuera del software del Substance parece incorrecta](../common-questions/texture-baked-outside-sof/texture-baked-outside-of-substance-software-looks-incorrect.md)
 * [¿Qué son los archivos Assbin?](../common-questions/what-are-assbin-files/what-are-assbin-files.md)
-* [¿Cuál es la profundidad de bits de las texturas al horno?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
+* [¿Cuál es la profundidad de bits de las texturas hechas un bake?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
 * [¿Cuál es la diferencia entre el formato normal de OpenGL y DirectX?](../common-questions/what-the-difference-bet/what-is-the-difference-between-the-opengl-and-directx-normal-format.md)
 * [¿Por qué hay extraños estiramientos en mis texturas después de hornear o exportar?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
 * [¿Por qué la asociación por nombre no funciona con la Oclusión o el Thickness de ambiente?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
@@ -122,7 +122,7 @@ Esta documentación abarca los <b>aspectos fundamentales del procesamiento</b> y
 ### Problemas comunes
 
 * [Suavizado en costuras UV](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [La salida de Baker es totalmente negra o está vacía](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [La salida de Baker es totalmente negra o está vacía](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [Error de procesamiento con asignación de color desde malla](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Las cruces de sombreado negro son visibles en la superficie de la malla](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [Las partes de la malla se sangran entre sí](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

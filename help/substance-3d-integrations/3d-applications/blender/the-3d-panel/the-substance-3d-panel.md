@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: Aprenda a utilizar el panel Substance 3D en Blender para administrar materiales, parámetros y resultados.
 helpx_creative_field: ""
@@ -64,9 +64,9 @@ Los archivos SBSAR se pueden publicar con ajustes preestablecidos, que se pueden
 
 Los parámetros expuestos en Substance Designer se pueden ajustar mediante los controles Parámetro de Substance . Estos parámetros son establecidos por el creador del Material de los Substance y variarán entre los materiales. Al ajustar estos parámetros, se actualizarán las texturas generadas, tal y como se indica en el icono de procesamiento situado junto al nombre del material en la sección Materiales de Substance 3D cargados .
 
-El formato de archivo de las texturas de salida se puede alternar y cambiar en los menús desplegables.
+El formato de archivo de las texturas de salida se puede alternar y cambiar a través de los menús desplegables.
 
-Para obtener más información, consulte [Exponer un parámetro](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) en la página de documentación de Designer.
+Para obtener más información, consulte [Exponer un parámetro](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) en la página de documentación de Designer.
 
 ## Parámetros técnicos
 

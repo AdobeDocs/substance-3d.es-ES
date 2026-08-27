@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Aprenda a optimizar la configuración del hardware y la preparación de mallas para lograr un rendimiento de panificación más rápido.
 helpx_creative_field: ""
@@ -49,7 +49,7 @@ A modo de ejemplo:
 
 **Teniendo en cuenta estos números, la configuración 8x8 debe usarse con cuidado**.
 
-Con el fin de reducir la presencia de ruido, generalmente se recomienda aumentar el número de rayos secundarios (para la oclusión ambiente, thickness y panaderos normales doblados) y mantener un ajuste 2x2 o 4x4 AA en lugar de utilizar una cantidad baja de rayos secundarios y un ajuste AA alto.
+Con el fin de reducir la presencia de ruido, generalmente se recomienda aumentar el número de rayos secundarios (para los bakeres de oclusión ambiental, thickness y normales dobladas) y mantener un ajuste AA 2x2 o 4x4 en lugar de utilizar una cantidad baja de rayos secundarios y un ajuste AA alto.
 
 >[!NOTE]
 >
@@ -61,9 +61,9 @@ La exportación de archivos en disco puede tardar bastante tiempo según el form
 
 ## Bloqueos y TDR
 
-Los bloqueos pueden deberse a varios factores, uno de los cuales es el TDR (Timeout Detection Recovery). El TDR es un mecanismo de Windows creado para detectar y recuperarse de situaciones en las que la GPU parece no responder. Debido a un valor predeterminado bajo para la detección de retardo TDR, se pueden producir bloqueos al utilizar panaderos específicos en algunas situaciones:
+Los bloqueos pueden deberse a varios factores, uno de los cuales es el TDR (Timeout Detection Recovery). El TDR es un mecanismo de Windows creado para detectar y recuperarse de situaciones en las que la GPU parece no responder. Debido a un valor predeterminado bajo para la detección de retardo TDR, se pueden experimentar bloqueos al utilizar bakeres específicos en algunas situaciones:
 
-* al hornear mallas densas con el panadero de Oclusión Ambient
-* al utilizar los panaderos acelerados DXR con mallas de polietileno muy densas (más de 60 millones de triángulos)
+* al hacer un bake mallas densas con el baker de Oclusión ambiental
+* cuando se utilicen los bakeres acelerados por DXR con mallas altas de polietileno muy densas (más de 60 millones de triángulos)
 
-Puede encontrar información adicional sobre el TDR y una guía paso a paso sobre cómo puede modificar sus configuraciones asociadas aquí: [Los controladores de la GPU se bloquean con cálculos largos (bloqueo de TDR)](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Puede encontrar información adicional sobre el TDR y una guía paso a paso sobre cómo puede modificar sus configuraciones asociadas aquí: [bloqueo de controladores de GPU con cálculos largos (bloqueo TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

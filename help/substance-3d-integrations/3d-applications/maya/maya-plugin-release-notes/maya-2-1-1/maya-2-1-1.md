@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-1.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.1.1 del plugin Maya para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Maya 2.1.1
 
-Corregido: substance.celink plugin ya no se bloquea al descargarse
+Corregido: el complemento substanceink ya no bloqueo cuando se descarga
