@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
 description: Configure las propiedades de emisión para los materiales de Substance en MODO para controlar la cantidad de luminosidad y los ajustes de color.
 helpx_creative_field: ""

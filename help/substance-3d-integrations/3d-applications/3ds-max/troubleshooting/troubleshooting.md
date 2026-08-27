@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
 breadcrumb-title: ''
 description: Diagnostique y resuelva problemas con el complemento Substance en 3ds Max mediante el Listener de scripts para mensajes de error.
 helpx_creative_field: ""

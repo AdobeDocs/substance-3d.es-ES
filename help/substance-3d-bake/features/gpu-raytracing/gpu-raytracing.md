@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: Permite que el Trazado de rayos de GPU acelerado por hardware acelere el procesamiento de cálculos 25 veces o más para flujos de trabajo más rápidos.
 helpx_creative_field: ""

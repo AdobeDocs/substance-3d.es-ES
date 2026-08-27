@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
 description: Utilice el almacenamiento en caché de geometría para conservar los datos de malla preprocesados y acelerar significativamente las operaciones de hace un bake posteriores.
 helpx_creative_field: ""

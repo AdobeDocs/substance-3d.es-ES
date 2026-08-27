@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: Genera máscaras de opacidad convirtiendo los rayos omitidos en imágenes binarias en escala de grises para los efectos de transparencia.
 helpx_creative_field: ""

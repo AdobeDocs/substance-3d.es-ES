@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: Referencia para el baker Curvatura desde malla obsoleto. En su lugar, utilice el baker Curvatura actualizada de Malla .
 helpx_creative_field: ""

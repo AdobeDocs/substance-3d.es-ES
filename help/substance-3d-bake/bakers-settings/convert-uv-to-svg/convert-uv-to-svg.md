@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: Transforma las coordenadas UV de malla en archivos de gráficos vectoriales que se pueden utilizar para crear máscaras y superposiciones precisas.
 helpx_creative_field: ""

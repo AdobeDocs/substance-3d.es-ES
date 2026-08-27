@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: Corrija los artefactos de suavizado que aparecen en las costuras UV durante el horneado ajustando los ajustes de suavizado y relleno.
 helpx_creative_field: ""

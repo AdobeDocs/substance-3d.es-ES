@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: Corrige el aspecto facetado en texturas normales suavizando las normales de malla y ajustando los ajustes de suavizado de grupos.
 helpx_creative_field: ""

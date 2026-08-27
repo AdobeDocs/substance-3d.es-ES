@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: Elimina las costuras visibles en texturas normales horneadas ajustando el relleno, el suavizado y el diseño UV.
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * A menudo, las coordenadas UV no se alinean con los píxeles, lo que provoca un suavizado y produce costuras. Consulte [esta página](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) para obtener más información.
 >   * Aumentar la resolución de la textura puede ser una forma de reducir este efecto.
 >   * Alinear los bordes UV a píxeles es otra forma de reducir este efecto.
-> * Aumente la configuración del sombreador **quality**. La calidad del sombreado puede afectar al modo en que se calculan los reflejos del specular. Si se rotan algunas Islas de UV y este parámetro es demasiado bajo, puede producir costuras visibles. Consulte [esta página](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html) para obtener más información.
+> * Aumente la configuración del sombreador **quality**. La calidad del sombreado puede afectar al modo en que se calculan los reflejos del specular. Si se rotan algunas Islas de UV y este parámetro es demasiado bajo, puede producir costuras visibles. Consulte [esta página](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html) para obtener más información.

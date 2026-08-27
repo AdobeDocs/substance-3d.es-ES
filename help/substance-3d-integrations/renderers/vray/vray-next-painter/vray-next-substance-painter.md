@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: Exporte texturas de Substance Painter para el procesador de V-Ray Next mediante las plantillas de salida y la configuración de flujo de trabajo adecuada.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ En Configuración del sombreador, puede configurar el sombreador Vray para traba
 
 >[!NOTE]
 >
-> Si el proyecto se configuró para usar [UV Tile UDIM Legacy](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html). Utilice la plantilla de salida Vray Next UDIM.
+> Si el proyecto se configuró para usar [UV Tile UDIM Legacy](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html). Utilice la plantilla de salida Vray Next UDIM.
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

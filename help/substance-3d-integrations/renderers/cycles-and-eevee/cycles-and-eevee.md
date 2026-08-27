@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/cycles-and-eevee.html"
 breadcrumb-title: ''
 description: Utilice los materiales de Substance con los procesadores Ciclos de fusión y Hasta mediante mapas exportados o el complemento Substance.
 helpx_creative_field: ""

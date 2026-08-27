@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Cambie los parámetros de material del Substance en tiempo de ejecución en Unreal Engine 5 mediante los nodos Blueprint para el control dinámico de materiales.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Cambiar un parámetro float:
 
-Utilizará [Establecer nodo flotante de entrada](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) para cambiar un flotante, color(float4) y parámetros booleanos de substance.
+Utilizará [Establecer nodo flotante de entrada](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) para cambiar un flotante, color(float4) y parámetros booleanos de substance.
 
 1. Cree una variable con un tipo de &quot;Instancia de Gráfico de Substance&quot; como referencia.\
    \**Para ello, agregue una variable en la ficha Mi plan y asígnele un nombre. En el menú desplegable, busque Instancia de Gráfico de Substance > Referencia de objeto. Arrastre la variable al gráfico y seleccione Obtener (nombre de variable). Establezca la instancia de Gráfico de Substance en la sección Valor predeterminado de la ficha Detalles.*

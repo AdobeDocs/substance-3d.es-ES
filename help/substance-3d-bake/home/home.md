@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Aprende a usar Substance Bakers para calcular información basada en mallas en archivos de texturas y mejorar tu flujo de trabajo de texturas.
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ Esta documentación abarca los <b>aspectos fundamentales del procesamiento</b> y
 ### Problemas comunes
 
 * [Suavizado en costuras UV](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [La salida de Baker es totalmente negra o está vacía](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [La salida de Baker es totalmente negra o está vacía](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [Error de procesamiento con asignación de color desde malla](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Las cruces de sombreado negro son visibles en la superficie de la malla](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [Las partes de la malla se sangran entre sí](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)
