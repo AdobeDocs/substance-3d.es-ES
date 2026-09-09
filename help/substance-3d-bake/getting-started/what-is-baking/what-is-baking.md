@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
+helpx_url: 'https://helpx.adobe.com/es/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
 description: Descubre lo que es hacer un bake y aprende a guardar información de malla 3D en archivos de textura para mejorar los materiales de Substance.
 helpx_creative_field: ''
