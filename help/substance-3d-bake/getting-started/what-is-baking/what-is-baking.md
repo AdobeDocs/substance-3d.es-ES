@@ -1,16 +1,16 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
-description: Descubre qué es el baking y aprende a guardar información de malla 3D en archivos de textura para mejorar tus materiales de Substance.
-helpx_creative_field: ""
-helpx_description: "bakers > Getting Started > What is Baking "
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
-title: '¿Qué es el horno? '
+description: Descubre lo que es hacer un bake y aprende a guardar información de malla 3D en archivos de textura para mejorar los materiales de Substance.
+helpx_creative_field: ''
+helpx_description: 'bakers > Getting Started > What is Baking '
+helpx_experience_level: ''
+helpx_learn_topic: ''
+helpx_tags: ''
+title: 'Lo que está Haciendo un bake '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
+source-git-commit: 0a948aa65b787c0f84e0af681dbe74021e878687
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -18,37 +18,35 @@ ht-degree: 0%
 ---
 
 
-# ¿Qué es el Baking?
+# ¿Qué está Haciendo un bake?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
-
 (Créditos: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
-El proceso de horneado se denomina **guardar información** relacionada con una **malla 3D** en un archivo de **textura** ([mapa de bits](https://en.wikipedia.org/wiki/Raster_graphics)). La mayoría de las veces, este proceso implica otra malla. En este caso, la información de la primera malla se transfiere a los UV de la segunda malla y, a continuación, se guarda en una textura.
+Haciendo un bake es el nombre del proceso sobre **guardar información** relacionada con una **malla 3D** en un archivo de **textura** ([mapa de bits](https://en.wikipedia.org/wiki/Raster_graphics)). La mayoría de las veces, este proceso implica otra malla. En este caso, la información de la primera malla se transfiere a las UV de la segunda malla y, a continuación, se guarda en una textura.
 
-Mientras que algunas aplicaciones pueden admitir el horneado de información en las propiedades de la malla (como los colores de los vértices), Substance Bakers solo permiten hornear la información hasta una textura. Sin embargo, pueden leer propiedades de malla y reducirlas a texturas (como colores de vértices).
+Aunque algunas aplicaciones pueden admitir hacer un bake información en las propiedades de la malla (como los colores de los vértices), Substance Bakers solo permiten hacer un bake información en una textura. Sin embargo, pueden leer las propiedades de malla y hacer un bake a texturas (como los colores de los vértices).
 
-## ¿Es necesario hornear?
+## ¿Es necesario hacer un bake?
 
-El software Substance genera texturas que pueden mejorarse utilizando información relacionada con la geometría de malla.\
-Muchos filtros y materiales pueden adaptarse a la geometría específica de una malla 3D observando las texturas horneadas. El horneado puede proporcionar información sobre dónde pueden estar las sombras ambientales, dónde están las aristas de la geometría y mucho más.
+El software Substance genera texturas y estas texturas se pueden mejorar utilizando información relacionada con la geometría de malla.\
+Muchos filtros y materiales pueden adaptarse a la geometría específica de una malla 3D observando las texturas hechas un bake. Hacer un bake puede proporcionar información sobre dónde pueden estar las sombras de ambiente, dónde están las aristas de la geometría y mucho más.
 
-Por ejemplo: un coche viejo puede tener óxido aplicado en su parte inferior porque no se movió durante un tiempo. Hornear el mapa de posición permitirá saber dónde está la parte inferior en la malla que alimentará el generador de óxido y producirá la textura adaptada.
+Por ejemplo: un coche viejo puede tener óxido aplicado en su parte inferior porque no se movió durante un tiempo. Hacer un bake el mapa de posición permitirá saber dónde se encuentra el fondo en la malla que alimentará al generador de óxido y producirá la textura adaptada.
 
 ![](../../assets/examples.jpg){width="500px"}
 
-## ¿Cómo funciona la cocción?
+## ¿Cómo funciona hacer un bake?
 
-Cada panadero realiza acciones específicas para generar su propio resultado, pero en general el proceso de panadería implica dos métodos posibles:
+Cada baker realiza acciones específicas para generar su propio resultado, pero en general el proceso de hacer un bake implica dos métodos posibles:
 
-* **Rebanando en una malla**: se basa en la malla actual para generar información.
-* **Horneando de una malla a otra**: calcular la información desde una malla de origen y transferir el resultado a otra.
+* **Haciendo un bake en una malla** : se basa en la malla actual para generar información.
+* **Haciendo un bake de una malla a otra** : calcular la información desde una malla de origen y transferir el resultado a otra.
 
-Este proceso de cocción se basa en las propiedades de la malla, por lo que la malla debe estar limpia y exenta de cualquier posible fallo en su geometría.
+Este proceso de hace un bake se basa en las propiedades de la malla, por lo que la malla debe estar limpia y exenta de posibles fallos en su geometría.
 
-## ¿Qué tipo de información puedes hornear?
+## ¿Qué tipo de información puedes hacer un bake?
 
 Muchos tipos de información pueden ser corroborados. Sin embargo, en general, solo se necesita un conjunto específico porque se pueden extrapolar para crear resultados más avanzados más adelante. Es por esto que hay un tipo común de proceso de panadería que se puede encontrar en múltiples software.
 
