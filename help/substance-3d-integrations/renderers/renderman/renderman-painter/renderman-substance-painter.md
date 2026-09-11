@@ -28,11 +28,11 @@ Se recomienda usar **pxrSurface** para el resultado.
 
 ![](../../../assets/pxrsurface.png)
 
-## Renderman Sombreador (Maya - RM 23.1)
+## Renderman Shader (Maya - RM 23.1)
 
 | Exportación de Substance Painter | PxrSurface |
 | --- | --- |
-| DiffuseColor | Difuso/Color |
+| DiffuseColor | Difusión / Color |
 | RugosidadEspecular | Specular principal / Rugosidad |
 | SpecularFaceColor | Specular principal / Color de la cara |
 | Normal | Globales / Rugosidad / PxrNormalMap → Orientación (Open GL) |

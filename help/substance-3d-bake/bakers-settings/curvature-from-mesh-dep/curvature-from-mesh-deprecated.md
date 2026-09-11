@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Curvatura desde malla (obsoleto)
 
-La Curvatura del baker de malla genera una textura de curvatura a partir de mallas de alto contenido de poli. Es más lento que el baker base de [curvatura](../../bakers-settings/curvature/curvature.md), pero produce resultados más precisos.
+La curvatura de malla baker genera una textura de curvatura a partir de mallas de alto contenido de poli. Es más lento que el panadero de base [curvatura](../../bakers-settings/curvature/curvature.md), pero produce resultados más precisos.
 
 **Disponible en:**
 

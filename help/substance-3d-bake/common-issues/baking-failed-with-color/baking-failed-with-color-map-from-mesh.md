@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
-description: Resuelva los errores de asignación de color de los errores de asignación de malla comprobando las propiedades de color de la malla y la asignación de UV.
+description: Resuelva los errores de hace un bake de Mapas de colores de malla comprobando las propiedades de color de malla y la asignación de UV.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Baking failed with Color Map from Mesh
 helpx_experience_level: ""
@@ -28,14 +28,14 @@ ht-degree: 0%
 > 
 > &#x200B;> > > 
 > 
-> Error de cocción (mapa de color de la malla)\
+> [ Haciendo un bake ] Error al Hacer un bake (Mapa de colores de malla)\
 > No se han encontrado colores de vértice
 
 >[!NOTE]
 >
 > **Explicación**
 > 
-> La configuración predeterminada para el [Mapa de color de malla](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md) es convertir los colores del vértice de malla de alta densidad en una textura basada en las UV de malla. Sin embargo, a menudo ocurre cuando la malla de alta densidad no tiene ninguna información de colores de vértice. Por lo tanto, el panadero no puede escribir información que no existe.
+> La configuración predeterminada del [Mapa de colores de malla](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md) es hacer un bake los colores del vértice de malla de alta densidad en una textura basada en las UV de malla. Sin embargo, a menudo ocurre cuando la malla de alta densidad no tiene ninguna información de colores de vértice. Por lo tanto, el baker no puede escribir información que no existe.
 
 >[!NOTE]
 >
@@ -44,5 +44,5 @@ ht-degree: 0%
 > Existen diferentes soluciones para evitar este mensaje de error:
 > 
 > * Utilice una malla de alta densidad que tenga colores de vértice
-> * Definir el mapa de color desde el panadero de malla con diferentes ajustes
-> * No utilice el Mapa de color de Mesh Baker si no lo necesita
+> * Definir el baker de Mapa de colores de malla con diferentes ajustes
+> * No use el baker de Mapa de colores de malla si no lo necesita

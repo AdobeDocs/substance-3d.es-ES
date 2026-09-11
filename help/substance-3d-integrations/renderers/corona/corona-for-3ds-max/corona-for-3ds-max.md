@@ -37,5 +37,5 @@ Para el procesamiento de Corona 7 y superior, al seleccionar &quot;Substance a C
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/corona-physical-material?$png$&jpegSize=200&wid=857)
 
 * **LiftGamaGain** se crea entre la salida del Color base y la entrada del Color base. Se utiliza un valor de gamma de 0,455 para corregir la diferencia de color.
-* Se crea **CoronaNormal** entre la salida Normal y la entrada de relieve Base, así como entre la salida de Normal de capa y la entrada de relieve. No se cambia la configuración, pero aquí se pueden realizar modificaciones para la configuración normal.
+* Se crea **CoronaNormal** entre la salida Normal y la entrada de relieve Base, así como entre la salida Normal Coat y la entrada Clearcoat Bump. No se cambia la configuración, pero aquí se pueden realizar modificaciones para la configuración normal.
 * **CoronaMix** se crea entre la salida de Color de brillo y la entrada de Color de brillo. Se establece una cantidad de mezcla de 0 y un multiplicador de 2 para la capa base. Los usuarios pueden ajustar el valor Cantidad de mezcla para controlar el brillo.

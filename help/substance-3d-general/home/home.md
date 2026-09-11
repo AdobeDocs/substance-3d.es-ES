@@ -34,5 +34,5 @@ Aprende y descubre información relevante para todo el [ecosistema de Substance 
 ### Adobe Standard Material
 
 * [Especificaciones de ASM](../adobe-standard-material/asm-specifications/asm-specifications.md): esta página reagrupa las especificaciones del modelo de Adobe Standard Material (ASM).
-* [Documentación técnica de ASM](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md): esta página reagrupa información técnica sobre Adobe Standard Material.
+* [Documentación técnica de ASM](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md): esta página reagrupa la información técnica sobre el Adobe Standard Material.
 

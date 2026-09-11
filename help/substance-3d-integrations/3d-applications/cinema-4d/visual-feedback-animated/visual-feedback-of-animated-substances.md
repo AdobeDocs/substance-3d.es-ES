@@ -48,13 +48,13 @@ Por lo tanto, se utilizará la siguiente asignación de canales:
 
 Esta relación solo se utiliza para el comando Crear materiales y el material creado se puede modificar posteriormente. Puede que desee utilizar este comando para crear rápidamente un material base, que se puede ajustar ajustando solo unos pocos canales.
 
-Dentro del sombreador de Substance no se limita a los pocos canales de salida mencionados anteriormente, pero de hecho puede utilizar cualquier canal de salida que un Substance pueda proporcionar.
+Dentro del Sombreador del Substance no se limita a los pocos canales de salida mencionados anteriormente, sino que de hecho puede utilizar cualquier canal de salida que un Substance pueda proporcionar.
 
 ## Creación manual de materiales del Substance
 
-En lugar de utilizar el comando Crear materiales, también puede crear materiales manualmente mediante el sombreador de Substance.
+En lugar de utilizar el comando Crear materiales, también puede crear materiales manualmente utilizando el sombreador del Substance.
 
-Solo tiene que seleccionar el sombreador del Substance en un canal de materiales y arrastrar el Substance que desee utilizar. El siguiente paso es seleccionar el canal de salida del Substance que se utilizará en este sombreado, y ya ha terminado.
+Solo tiene que seleccionar el sombreador del Substance en un canal de materiales y arrastrar el Substance que desee utilizar. El siguiente paso es seleccionar el canal de salida del Substance que se utilizará en este sombreador, y ya ha terminado.
 
 Así es:
 

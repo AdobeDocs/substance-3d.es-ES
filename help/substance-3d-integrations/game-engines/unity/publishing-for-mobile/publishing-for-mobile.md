@@ -22,9 +22,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> **Tamaño de textura en dispositivos móviles**
+> **Tamaño de Textura en dispositivos móviles**
 > 
-> La resolución de la textura establecida en el Editor de Unity será del tamaño que se publique en el binario de la aplicación. Reducir la resolución del material Substance creará texturas con tamaños de archivo más pequeños.
+> La resolución de la textura establecida en el Editor de Unity será del tamaño que se publique en el binario de la aplicación. Al reducir la resolución del material de Substance, se crearán texturas con tamaños de archivo más pequeños.
 
 ## Plataformas
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. Asegúrese de que el módulo iOS se haya descargado para la versión de Unity correspondiente.
 1. En Unity, cambie el destino de compilación a iOS.
-1. Abra la configuración del reproductor y cambie el campo &quot;Identificación - Identificador de paquete&quot; por otro más exclusivo. (por ejemplo: com.Adobe.ios (Project)
+1. Abra la configuración del reproductor y cambie el campo &quot;Identificación - Identificador del paquete&quot; por otro más exclusivo. (por ejemplo: com.Adobe.ios (Project)
 1. Crea y ejecuta el juego.
 1. En Xcode, haga clic en el dispositivo iOS y cambie el menú desplegable &quot;Firma - Equipo&quot; por su ID de equipo de desarrolladores.
 1. En el dispositivo iOS, vaya a &quot;Configuración - General - Administración de dispositivos&quot; y haga clic en &quot;Confiar&quot; en el ID del equipo de desarrolladores que aparece.
@@ -43,6 +43,6 @@ ht-degree: 0%
 
 1. Asegúrese de que el módulo Android se haya descargado para la versión de Unity correspondiente.
 1. En Unity, cambie el destino de compilación a Android.
-1. Abra la configuración del reproductor y cambie el campo &quot;Identificación - Identificador de paquete&quot; por otro más exclusivo. (por ejemplo: com.Adobe.android (Project)
+1. Abra la configuración del reproductor y cambie el campo &quot;Identificación - Identificador del paquete&quot; por otro más exclusivo. (por ejemplo: com.Adobe.android (Project)
 1. Crea y ejecuta el juego.
 1. El juego debe ejecutarse en el dispositivo Android.

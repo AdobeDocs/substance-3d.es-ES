@@ -105,7 +105,7 @@ Las preferencias del complemento se pueden encontrar en la ventana de preferenci
 
 <b>Fusión de proyección</b>: Establece la cantidad de fusión entre ángulos para los sombreadores del método de proyección.
 
-<b>Mezcla AO</b>: cuando la Oclusión ambiental está habilitada como salida, este valor determina el valor de factor predeterminado del nodo MixRGB que se utiliza para combinar las texturas de Color base y Oclusión ambiental.
+<b>Mezcla AO</b>: cuando la Oclusión ambiente está activada como salida, este valor determina el valor de factor predeterminado del nodo MixRGB que se utiliza para combinar las texturas de color base y de Oclusión ambiente.
 
 <b>Salidas</b>: las salidas individuales de los materiales se pueden habilitar o deshabilitar. El espacio de color predeterminado, el formato de archivo y la profundidad de color de las salidas individuales también se pueden ajustar.
 

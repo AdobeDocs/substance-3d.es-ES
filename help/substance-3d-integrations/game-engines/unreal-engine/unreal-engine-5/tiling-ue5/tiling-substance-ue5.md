@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
-description: Coloca en mosaico texturas Substance en Unreal Engine 5 añadiendo nodos de coordenadas de textura y parámetros escalares a los materiales.
+description: Coloca las texturas del Substance en mosaico en Unreal Engine 5 añadiendo nodos de coordenadas de Textura y parámetros escalares a los materiales.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Tiling Substance - UE5
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance de baldosas - UE5
 
-Para estructurar una textura de sustancia, deberá añadir un nodo de coordenadas de textura y multiplicarlo por el parámetro escalar.
+Para estructurar una textura de substancia, deberá añadir un nodo de coordenadas de Textura y multiplicarlo por el parámetro escalar.
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Coordinates/#texturecoordinate>
 

@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-El valor entre comillas es el parámetro Identificador definido en Substance Designer.
+El valor entre comillas es el Identificador de parámetros definido en Substance Designer.
 
-En el Inspector de Unity, puede pasar el ratón sobre un parámetro para mostrar información sobre herramientas que muestra el nombre del identificador definido en Substance Designer.
+En el Inspector de Unity, puede pasar el ratón sobre un parámetro para mostrar información sobre herramientas que muestra el nombre del Identificador definido en Substance Designer.
 
 ![](../../../../assets/tooltip-6.png)
 

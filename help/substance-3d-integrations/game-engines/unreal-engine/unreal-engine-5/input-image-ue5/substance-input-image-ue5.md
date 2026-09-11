@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Imagen de entrada de Substance - UE5
 
-Los Substance se pueden crear con entradas en las que se puede proporcionar una imagen para procesarla en el material. Esto le permite crear materiales modulares que pueden tomar patrones o datos de malla horneados como entrada para cambiar o confirmar el material en el activo.
+Los Substance se pueden crear con entradas en las que se puede proporcionar una imagen para procesarla en el material. Esto le permite crear materiales modulares que pueden tomar datos o patrones de malla hechos un bake como entrada para cambiar o confirmar el material en el recurso.
 
 * Puede utilizar UTexture2D con una entrada de Substance.
 

@@ -45,7 +45,7 @@ El Substance 3D Addon 2.0 marca una actualización transformativa para los usuar
 * [BLD] Las herramientas de integración no finalizan al cerrar Blender
 * [BLD] El material no se actualiza al cambiar el tipo de archivo de un mapa
 * [SRE] Todos los mapas de los materiales se exportan todo el tiempo
-* [SRE] Las herramientas de integración exportan mapas normales con escalones
+* [SRE] Las herramientas de integración exportan mapas de normales con escalones
 * [SRE] La carga del Substance nunca termina
 * [SRE] Las unidades de Tamaño físico no se ajustan a la escena
 * [BLD] Los ajustes preestablecidos generados en Blender no funcionan con otras integraciones

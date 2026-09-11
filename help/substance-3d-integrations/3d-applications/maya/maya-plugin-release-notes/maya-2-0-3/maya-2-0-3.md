@@ -27,7 +27,7 @@ Cambios:\
 \* Se han actualizado algunos vínculos al nuevo sitio de substance3d.\
 \* Se ha añadido la versión de Substance Engine al menú Acerca de\
 \* Se han añadido comandos de scripts para consultar la versión del Substance Engine\
-\* $pixelsize input ya no se bloquea\
+\* $pixelsize entrada ya no bloqueos\
 \* Las entradas de valor establecidas en Designer ahora son visibles en el nodo, como las entradas de imagen\
 \* El script de flujo de trabajo Redshift ahora establece brdf en ggx y el nodo de salto en usar normales de espacio tangente\
 \* Nueva secuencia de comandos de flujo de trabajo de Renderman para que coincida mejor con el uso esperado\

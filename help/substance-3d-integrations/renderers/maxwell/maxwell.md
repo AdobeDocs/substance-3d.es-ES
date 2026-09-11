@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Para la representación con [Maxwell](https://maxwellrender.com/), puedes usar mapas exportados desde Substance Painter o el plugin del Substance en [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/).
 
-Substance Painter 2020.1 (6.1.0) se suministra con [Plantillas de salida](https://docs.substance3d.com/display/SPDOC/Export) de Maxwell tanto para specular/brillo como para metal/rugosidad para su uso con **Maxwell 5.1.0**.
+Substance Painter 2020.1 (6.1.0) se suministra con [Plantillas de salida](https://docs.substance3d.com/display/SPDOC/Export) de Maxwell tanto para metales/rugosidad como para speculares/brillos para su uso con **Maxwell 5.1.0**.
 
 ## Tabla de contenido
 

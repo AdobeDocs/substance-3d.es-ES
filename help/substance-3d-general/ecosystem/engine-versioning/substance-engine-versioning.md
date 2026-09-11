@@ -107,7 +107,7 @@ Stager\
 </tr>
 </table>
 
-| Versión de software | Versión del motor de Substance | Versión de Bakers |
+| Versión de software | Versión del motor de Substance | Versión de bakeres |
 | --- | --- | --- |
 | <b>13.1.0</b> 12 de diciembre de 2023 | 9.0.3 | 2.5.7 |
 | <b>13.0.2</b> 27 de julio de 2023 | 9.0.1 | 2.5.7 |
@@ -124,7 +124,7 @@ Stager\
 
 +++Versiones anteriores
 
-| Versión de software | Versión del motor de Substance | Versión de Bakers |
+| Versión de software | Versión del motor de Substance | Versión de bakeres |
 | --- | --- | --- |
 | <b>9.3.3</b> 14 de febrero de 2020 | 7.2.9 | 2.3.1 |
 | <b>9.2.3</b> 26 de noviembre de 2019 | 7.2.0 | 2.2.4 |

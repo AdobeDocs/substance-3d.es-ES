@@ -23,6 +23,6 @@ ht-degree: 0%
 Al hacer un bake, las mallas se preprocesan para limpiarlas y convertirlas en un formato compatible con el proceso de hacer un bake. La caché de geometría es una forma de conservar esta geometría preprocesada de forma que se vuelva a cargar rápidamente para evitar rehacer esta operación más adelante (a menos que cambie la malla de origen).
 
 * En **Substance Designer**, la caché de geometría se crea después de ejecutar una primera hace un bake. A continuación, la memoria caché se mantiene en memoria hasta que se cierra la ventana de baker.
-* En **Substance Painter**, la memoria caché de geometría se guarda como un archivo con la extensión **assbin** junto al archivo de origen después de la primera hace un bake.
+* En **Substance Painter**, la caché de geometría se guarda como un archivo con la extensión **assbin** junto al archivo de origen después de la primera conversión.
 
 La reutilización de la caché de geometría acelera bastante el proceso de hace un bake, especialmente al ajustar la configuración del baker para lograr el resultado perfecto.

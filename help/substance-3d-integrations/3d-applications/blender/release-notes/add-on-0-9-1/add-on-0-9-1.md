@@ -38,7 +38,7 @@ ht-degree: 0%
 * Ruta relativa de la textura igual que la anterior, con la opción de utilizar claves como $matName para crear subcarpetas
 * Archivos sbsar ruta relativa a la creación de una subcarpeta que empaqueta los archivos sbsar utilizados en el archivo de mezcla al guardar el proyecto
 * Capacidad para establecer dinámicamente diferentes redes de sombreador en las preferencias: en la red de sombreador, capacidad para establecer diferentes variables por sombreador en función de las necesidades del sombreador
-* En la sección Salidas de la red de sombreador, puede definir si una salida está activada de forma predeterminada
+* En la sección Salidas de la red de sombreadores, tiene la posibilidad de definir si una salida está activada de forma predeterminada
 * Posibilidad de definir el espacio de color (esto admitirá los flujos de trabajo de película de aces, exr lineal y blender, no solo srgb)
 * Selección predeterminada del formato de imagen y la profundidad de bits
 * Una salida genérica para configurar los valores de los usos de salida no definidos en el sombreador, por ejemplo, si tiene otra salida que el sombreador no utiliza de forma predeterminada, por ejemplo, una máscara.

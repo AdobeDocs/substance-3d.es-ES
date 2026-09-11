@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
-description: Identifique y corrija estires extrañas en sus texturas hechas un bake causadas por problemas de mapeado UV o malla.
+description: Identifica y corrige extraños estiramientos en tus texturas horneadas causados por problemas de mapeado UV o malla.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why are there strange stretches in my textures after baking or exporting "
 helpx_experience_level: ""

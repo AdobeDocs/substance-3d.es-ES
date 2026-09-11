@@ -429,7 +429,7 @@ float value ) [inline]
 ```
 
 
-Actualizar entrada flotante del Substance
+Actualizar la entrada del Flotante del Substance
 
 **Parámetros**
 

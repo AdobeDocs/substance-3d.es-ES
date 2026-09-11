@@ -35,4 +35,4 @@ Asegúrese de que la aplicación que muestra la malla y su mapa de normales est�
 
 * Compruebe que el Espacio de tangente es idéntico entre el visor y el baker.
 * Compruebe que el formato Normal es idéntico entre la vista y el baker.
-* Compruebe que la triangulación es idéntica entre el visualizador y el baker. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obtener más información.
+* Verificar que la Triangulación sea idéntica entre el espectador y el panadero. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obtener más información.

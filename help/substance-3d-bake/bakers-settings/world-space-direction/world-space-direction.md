@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # Dirección de espacio de mundo
 
-El panadero World Space Direction permite calcular una dirección vectorial en el espacio del mundo en una textura.
+El baker de Dirección Espacial Mundial permite calcular una dirección vectorial en el espacio mundial en una textura.
 
 **Disponible en :**
 
@@ -31,7 +31,7 @@ El panadero World Space Direction permite calcular una dirección vectorial en e
 
 | *Parámetro* | *Descripción* |
 | --- | --- |
-| **Dirección de entrada** | Define a partir de qué entrada se calcula la dirección.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>De la textura</strong>: la dirección vectorial se define mediante una textura de entrada.</li><li data-preserve-html="true"><strong>De vector uniforme</strong> (predeterminado): la dirección del vector se define con los reguladores X, Y, Z.</li></ul> |
+| **Dirección de entrada** | Define a partir de qué entrada se calcula la dirección.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>De la Textura</strong>: la dirección vectorial se define mediante una textura de entrada.</li><li data-preserve-html="true"><strong>De vector uniforme</strong> (predeterminado): la dirección del vector se define con los reguladores X, Y, Z.</li></ul> |
 | **Orientación normal** | Define si el formato normal de la textura de salida. Esto invierte el canal verde dependiendo del formato.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (predeterminado)</li></ul> |
 | **X Y Z** | Reguladores para definir los 3 componentes del vector de dirección, si **Dirección de entrada** está establecido en **Desde vector uniforme**. |
-| **Archivo de dirección** | Ruta al archivo de textura de entrada para definir el vector de dirección, si **Dirección de entrada** está establecido en **Desde textura**. |
+| **Archivo de dirección** | Ruta de acceso al archivo de textura de entrada para definir el vector de dirección, si **Dirección de entrada** está establecido en **Desde Textura**. |

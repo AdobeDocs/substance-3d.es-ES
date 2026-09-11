@@ -36,7 +36,7 @@ Cuando se utiliza el material de Unity, el efecto de capa de material se configu
 | Normal | Lineal | Unidad normal |
 | Emisivo | sRGB | Emisión de unidad **\*establecida en sRGB en imagen fija** |
 | Altura | Lineal | Bump de unidad |
-| Oclusión ambiental | Lineal | Unity Ambient Oclusión |
+| Oclusión ambiental | Lineal | Oclusión ambiental Unity |
 
 ![](../../../assets/unity-1.png){width="600px"}
 
@@ -53,11 +53,11 @@ Al utilizar el material irreal, el efecto de capa de material se define automát
 | Altura | Lineal | Rugosidad irreal |
 | Emisivo | sRGB | Emisivo irreal **\*establecido en sRGB en imagen fija** |
 | Oclusión ambiental | Lineal | Oclusión ambiental irreal |
-| Opacidad | Lineal | Opacidad irreal **\*debe desmarcar invertida en la capa de textura** |
+| Opacidad | Lineal | Opacidad irreal **\*debe desmarcar invertida en la capa de Textura** |
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/unreal?$png$&jpegSize=200&wid=1343){width="600px"}
 
-Es posible que tengas que invertir la normalidad. Puede hacerlo desde el menú Ajustes si el Substance tiene un control de orientación normal. Si no, esto se puede hacer en la propia textura. Para obtener más información, consulte la página &quot;**[Trabajando con normales](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**&quot;.
+Es posible que tengas que invertir la normalidad. Puede hacerlo desde el menú Ajustes si el Substance tiene un control de orientación normal. Si no, esto puede hacerse en la propia textura. Para obtener más información, consulte la página &quot;**[Trabajando con normales](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**&quot;.
 
 ## glTF Material
 
@@ -65,13 +65,13 @@ Al utilizar el material glTF, el efecto de capa de material se define automátic
 
 | Salida de Substance | Espacio de color | Efecto de capa de material |
 | --- | --- | --- |
-| Color base | sRGB | glTF Color base |
+| Color base | sRGB | color base glTF |
 | Rugosidad | Lineal | Rugosidad glTF |
 | Metálico | Lineal | glTF metálico |
 | Normal | Lineal | glTF normal |
-| Emisivo | sRGB | glTF emisivo **\*establecido en sRGB en imagen fija** |
-| Oclusión ambiental | Lineal | glTF Oclusión ambiental |
+| Emisivo | sRGB | emisivo glTF **\*establecido en sRGB en imagen fija** |
+| Oclusión ambiental | Lineal | oclusión ambiental glTF |
 
 ![](../../../assets/gltf.png){width="600px"}
 
-Es posible que tengas que invertir la normalidad. Puede hacerlo desde el menú Ajustes si el Substance tiene un control de orientación normal. Si no, esto se puede hacer en la propia textura. Para obtener más información, consulte la página &quot;**[Trabajando con normales](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**&quot;.
+Es posible que tengas que invertir la normalidad. Puede hacerlo desde el menú Ajustes si el Substance tiene un control de orientación normal. Si no, esto puede hacerse en la propia textura. Para obtener más información, consulte la página &quot;**[Trabajando con normales](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**&quot;.

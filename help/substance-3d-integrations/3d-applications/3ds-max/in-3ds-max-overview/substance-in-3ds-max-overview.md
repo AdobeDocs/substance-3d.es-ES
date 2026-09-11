@@ -35,7 +35,7 @@ ht-degree: 0%
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/max8?$png$&jpegSize=100&wid=341)
 
    ![](../../../assets/max1.png)
-1. Con el nodo Substance seleccionado, vaya al menú Substance y elija un procesador compatible. El material se creará y estará listo para aplicarse al objeto. Las texturas Substance se enlazan con el material de representación.
+1. Con el nodo Substance seleccionado, vaya al menú Substance y elija un procesador compatible. El material se creará y estará listo para aplicarse al objeto. Las texturas de Substance se enlazan al material de procesamiento.
 
    | Renderizadores compatibles |
    | --- |
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## Cambio de resolución:
 
-1. Establezca la resolución deseada para las texturas de Substance calculadas en los Ajustes de salida del Substance.
+1. Establezca la resolución deseada para las texturas calculadas del Substance en Ajustes de salida del Substance.
 1. Para obtener una resolución de hasta 8 K, asegúrese de que está utilizando el motor de GPU, que se establece en [Configuración de Substance](../../../3d-applications/3ds-max/settings-1/substance-settings.md).
 
    ![](../../../assets/max6.png)
@@ -70,6 +70,6 @@ Puede definir un canal específico para la miniatura del nodo Substance.
 
 ## Substance de segmentación:
 
-Puede utilizar las propiedades Coordenadas para estructurar en mosaico las texturas del Substance y definir Canales de mapa.
+Puede utilizar las propiedades Coordenadas para estructurar las texturas del Substance y definir Canales de mapa.
 
 ![](../../../assets/max10.png)

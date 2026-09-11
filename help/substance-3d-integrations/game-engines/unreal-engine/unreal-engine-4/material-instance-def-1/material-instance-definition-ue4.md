@@ -26,7 +26,7 @@ Al importar un archivo sbsar, puede elegir la plantilla con la que desea trabaja
 
 ![](../../../../assets/ue4-material-templates.png)
 
-Enviamos plantillas para trabajar con materiales de desplazamiento, refracción y alineados con el mundo que han incorporado controles para ajustar el azulejo, el tamaño de la textura, el desplazamiento y los parámetros de emisión. El sistema de plantillas de materiales también le permite proporcionar sus propias plantillas personalizadas.
+Enviamos con plantillas para trabajar con desplazamiento, refracción y materiales alineados con el mundo que han incorporado controles para ajustar el azulejo, el tamaño de la textura, el desplazamiento y los parámetros del emisivo. El sistema de plantillas de materiales también le permite proporcionar sus propias plantillas personalizadas.
 
 ![](../../../../assets/ue4-material-instance-params.png)
 
@@ -38,7 +38,7 @@ Enviamos plantillas para trabajar con materiales de desplazamiento, refracción 
 1. Haga clic con el botón derecho en la fábrica de instancias de substance y elija &quot;Crear una instancia de gráfico&quot;. Esto creará una instancia del gráfico y otro material UE4. Elimine el material UE4 recién creado, ya que no se utilizará.
 
    ![](../../../../assets/02-10.png){width="300px"}
-1. Haga doble clic en la instancia de material creada en el paso 1 y active los parámetros de textura para todos los mapas.
+1. Pulse dos veces en la instancia de material creada en el paso 1 y active los parámetros de Textura para todos los mapas.
 1. Establezca la textura en la nueva textura INST creada en el paso 2. Esto configurará la instancia de material para que utilice los mapas de salida de substance del gráfico instanciado.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/03-6?$png$&jpegSize=200&wid=1011){width="800px"}

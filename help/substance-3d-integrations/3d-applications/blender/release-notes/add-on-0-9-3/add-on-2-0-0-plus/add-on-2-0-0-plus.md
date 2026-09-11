@@ -38,13 +38,13 @@ ht-degree: 0%
 <b>Corregido:</b>
 
 * Error de persistencia por el que la imagen de entrada no funcionaba después de guardar el archivo de mezcla
-* Problema con la red de sombreado que no funciona al actualizar el ajuste preestablecido de sombreado
+* Problema con la red de sombreador que no funciona al actualizar el ajuste preestablecido de sombreador
 * URL incorrecta en el botón del plugin de descarga
 * Mosaico invertido en octanos
 * Valores de entrada que no funcionan con procesadores de terceros
 * Problema en el que no se creó el parámetro de valor de entrada flotante
 * Los espacios de color de Renderman no funcionan correctamente
-* Los ajustes preestablecidos de sombreado no filtran por procesador disponible
+* Los ajustes preestablecidos de sombreador no filtran por procesador disponible
 
 ## Complemento 2.1.1
 
@@ -64,7 +64,7 @@ Esta actualización incluye compatibilidad con Blender 4.0+ y varias funciones n
   * Se ha añadido una casilla de verificación para seleccionar el comportamiento predeterminado de la única propiedad de actualización de texturas.
   * Inicie automáticamente el Substance Remote Engine al abrir Blender (importante habilitarlo si usa Connector).
 * En el complemento:
-  * Solo texturas de actualización agregadas (permite cambiar los parámetros sin rehacer el gráfico de nodos).
+  * Añadido Solo actualizar texturas (permite cambiar los parámetros sin rehacer el gráfico de nodos).
   * Se han añadido botones para expandir todos los grupos y contraer todos los grupos.
   * Se ha añadido el grupo de imágenes de entrada para agrupar todas las imágenes de entrada si es necesario en un SBSAR.
   * Las entradas de parámetros ahora se muestran en el mismo orden que Designer.
@@ -105,7 +105,7 @@ El Substance 3D Addon 2.0 marca una actualización transformativa para los usuar
 * [BLD] Las herramientas de integración no finalizan al cerrar Blender
 * [BLD] El material no se actualiza al cambiar el tipo de archivo de un mapa
 * [SRE] Todos los mapas de los materiales se exportan todo el tiempo
-* [SRE] Las herramientas de integración exportan mapas normales con escalones
+* [SRE] Las herramientas de integración exportan mapas de normales con escalones
 * [SRE] La carga del Substance nunca termina
 * [SRE] Las unidades de Tamaño físico no se ajustan a la escena
 * [BLD] Los ajustes preestablecidos generados en Blender no funcionan con otras integraciones

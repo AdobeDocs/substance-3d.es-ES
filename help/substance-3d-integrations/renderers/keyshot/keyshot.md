@@ -38,7 +38,7 @@ Utilizarás 2 materiales avanzados. Uno será para metálico y el otro para diel
    a. Definir el índice de refracción en 10\
    b. Establezca los mapas como se indica en la tabla siguiente
 
-   | Textura Substance Painter | Canal de materiales avanzado |
+   | textura del Substance Painter | Canal de materiales avanzado |
    | --- | --- |
    | Difusión | Difusión |
    | Metálico | Opacidad |
@@ -52,7 +52,7 @@ Utilizarás 2 materiales avanzados. Uno será para metálico y el otro para diel
    a. Establezca el Índice de refracción en 1,5\
    b. Establezca los mapas como se indica en la tabla siguiente
 
-   | Textura Substance Painter | Canal de materiales avanzado |
+   | textura del Substance Painter | Canal de materiales avanzado |
    | --- | --- |
    | Difusión | Difusión |
    | Normal | Bump \*Normal activado |

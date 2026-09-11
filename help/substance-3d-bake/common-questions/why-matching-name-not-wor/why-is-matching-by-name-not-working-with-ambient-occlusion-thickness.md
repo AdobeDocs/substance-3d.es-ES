@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
-description: Entiende por qué la coincidencia por nombre no funciona con los panaderos de Oclusión ambiental y Thickness, y encuentra alternativas.
+description: Entienda por qué la coincidencia por nombre no funciona con los bakeres de Oclusión ambiental y Thickness, y encuentre alternativas.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why is Matching by Name not working with Ambient OcclusionThickness "
 helpx_experience_level: ""
@@ -24,13 +24,13 @@ ht-degree: 0%
 >
 > **Pregunta**
 > 
-> He habilitado [Coincidencia por nombre](../../features/matching-by-name/matching-by-name.md) en los [parámetros comunes](../../bakers-settings/common-parameters/common-parameters.md) para filtrar y ordenar mis mallas de poli altas y bajas, ¿por qué el panadero de Oclusiones ambientales la ignora?
+> He habilitado [Coincidencia por nombre](../../features/matching-by-name/matching-by-name.md) en los [parámetros comunes](../../bakers-settings/common-parameters/common-parameters.md) para filtrar y ordenar mis mallas de poli altas y bajas, ¿por qué el baker de Oclusión ambiental las ignora?
 
 >[!NOTE]
 >
 > **Explicación**
 > 
-> Los rayos secundarios de lanzamiento de los panaderos Oclusión ambiental, Thickness y Normales dobladas se calculan al calcular sus texturas. Estos rayos tienen su propio ajuste de coincidencia por nombre.
+> El baker de Oclusión ambiental, Thickness y Normales dobladas inicia rayos secundarios cuando calculan sus texturas. Estos rayos tienen su propio ajuste de coincidencia por nombre.
 
 >[!NOTE]
 >

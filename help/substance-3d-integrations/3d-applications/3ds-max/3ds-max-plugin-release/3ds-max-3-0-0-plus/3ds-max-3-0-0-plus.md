@@ -30,7 +30,7 @@ ht-degree: 0%
 
 <b>Corregido:</b>
 
-* Se ha resuelto un problema en el cual los materiales de Substance 2 podrían no procesarse en IR/Producción con Corona cuando el editor de materiales de pizarra está abierto y se selecciona el mapa de texturas de Substance2.
+* Se ha resuelto el problema por el que los materiales de Substance 2 podrían no procesarse en IR/Producción con Corona cuando el editor de materiales de Slate está abierto y se selecciona el mapa de textura de Substance2.
 * Se ha resuelto el problema por el que las actualizaciones de Sampler Connector creaban nuevos nodos de Substance2 en lugar de actualizar los existentes.
 * Se ha resuelto el problema de bloqueo en el plugin 3ds Max al añadir un nodo Substance2 y se ha garantizado que el uso de la importación por lotes para cargar archivos .sbsar ya no abra el editor de scripts.
 * Se ha resuelto el problema por el que el plugin 3DSMax 2025 no se podía cargar debido a un archivo .dll incompatible al utilizar el instalador .msi.

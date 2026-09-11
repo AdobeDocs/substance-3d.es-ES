@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **Notas de la versión del complemento 0.9.3+**
 
-* Añada etiquetas de espacios de color OCIO 2.0 en las preferencias del complemento.
+* Agregue OCIO etiquetas de espacios de color 2.0 en las preferencias del complemento.
 * Añada descripciones a la fábrica de parámetros/resultados como información sobre herramientas.
 * Añada funciones de creación de informes (en general) (se han eliminado las ventanas emergentes invasivas y se han sustituido por mensajes nativos del mezclador).
 * Actualice la etiqueta de la versión de SRE al instalar y actualizar en las preferencias del complemento.
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **Sección de preferencias: Agregado/actualizado:**
 
-* El Tamaño físico Ciclos/evento es un ajuste preestablecido disponible en el menú desplegable de sombreado predeterminado.
+* El Tamaño físico Ciclos/evento es un ajuste preestablecido disponible en el menú desplegable sombreador predeterminado.
 * Controles para la fusión de proyección predeterminada de Tamaño físico.
 * Se ha cambiado el vínculo de soporte para que apunte al servidor de discordia.
 * Corrija la visualización de la versión de SRE actual correcta en las preferencias del complemento.
@@ -40,5 +40,5 @@ ht-degree: 0%
 **Sección de paneles de Substance 3D: Agregado/actualizado:**
 
 * El Tamaño físico de un material se muestra (en metros) bajo los Parámetros de gráfica.
-* El Tamaño físico Ciclos/Cada está disponible en el menú desplegable de sombreado.
+* El Tamaño físico Ciclos/Efectivo está disponible en el menú desplegable sombreador.
 * Ocultar grupos de parámetros si todos los parámetros son invisibles.

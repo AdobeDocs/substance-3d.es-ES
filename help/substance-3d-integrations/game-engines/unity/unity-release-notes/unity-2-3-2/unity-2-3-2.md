@@ -26,13 +26,13 @@ ht-degree: 0%
 * Reflejo: El complemento ahora permite importar archivos antiguos de Substance en paquetes (se actualiza automáticamente a los nuevos datos de Substance al importar)
 * Las propiedades de los materiales se transfieren al importar los paquetes con datos del Substance
   * Nota: Esto solo se aplica a los paquetes creados con la actualización 2.3.0 o posterior
-* Se ha añadido el botón Contornear textura al menú de gráficos del Substance
+* Se ha añadido el botón Hacer un bake Textura al menú de gráficos del Substance
 
 ### Correcciones de errores:
 
 * Se ha corregido un problema por el que el mosaico de material de Substance se restablecía si se eliminaba la carpeta Biblioteca
 * Se ha mejorado la velocidad al salir del modo de reproducción
-* Se ha corregido un bloqueo que se producía al actualizar el plugin mientras la DLL del Substance estaba en uso.
+* Se ha corregido un bloqueo al actualizar el complemento mientras la DLL del Substance está en uso.
 * La carpeta Allegorithmic ahora no se puede eliminar en Unity.
   * Nota: No se puede modificar el contenido de la carpeta Allegorithmic. Si se elimina dentro de Unity, pueden producirse varios problemas, lo que hace que la carpeta Allegorithmic vuelva a aparecer mágicamente cuando Unity se cierra y se vuelve a abrir. Ahora hay una advertencia que informa al usuario de que debe eliminarla con Unity cerrado manualmente desde la carpeta Assets del proyecto
 * Se ha mejorado la velocidad al salir del modo de reproducción

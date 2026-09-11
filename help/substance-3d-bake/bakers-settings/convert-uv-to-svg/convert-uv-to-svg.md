@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
-description: Transforma las coordenadas UV de malla en archivos de gráficos vectoriales que se pueden utilizar para crear máscaras y superposiciones precisas.
+description: Transforma las coordenadas UV de malla en archivos de gráfico vectorial que se pueden utilizar para crear máscaras y superposiciones precisas.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Convert UV to SVG
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Convertir UV a SVG
 
-La opción Convertir UV en SVG Baker transforma las coordenadas UV de malla de baja polimerización en un archivo de gráficos vectoriales. Este archivo de gráficos vectoriales se puede utilizar para crear máscaras.
+El baker Convertir UV en SVG transforma los UV de malla de baja polimerización en un archivo de gráfico vectorial. Este archivo de gráfico vectorial se puede utilizar para crear máscaras.
 
 **Disponible en :**
 
@@ -32,4 +32,4 @@ La opción Convertir UV en SVG Baker transforma las coordenadas UV de malla de b
 | *Parámetro* | *Descripción* |
 | --- | --- |
 | **Relleno** | Controla la cantidad de relleno geométrico que se agrega a las formas de SVG. |
-| **Modo de color** | Define cómo se deben colorear las formas de SVG.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Aleatorio:</strong> cada shell UV tiene un color aleatorio.</li><li data-preserve-html="true"><strong>Cambio de tono:</strong> cada shell UV tiene un valor de tono único.</li><li data-preserve-html="true"><strong>Escala de grises:</strong> cada shell UV tiene un valor de escala de grises único.</li><li data-preserve-html="true"><strong>Color uniforme:</strong> todas las cáscaras UV están coloreadas por un valor de gris del 50%.</li><li data-preserve-html="true"><strong>Color de id. de material</strong>: Las cáscaras UV se colorean por el color del material definido en la vista de escena.</li></ul> |
+| **Modo de color** | Define cómo se deben colorear las formas de SVG.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Aleatorio:</strong> cada shell UV tiene un color aleatorio.</li><li data-preserve-html="true"><strong>Cambio de tono:</strong> cada shell UV tiene un valor de tono único.</li><li data-preserve-html="true"><strong>Escala de grises:</strong> cada shell UV tiene un valor de escala de grises único.</li><li data-preserve-html="true"><strong>Color uniforme:</strong> todas las cáscaras UV están coloreadas por un valor de gris del 50 %.</li><li data-preserve-html="true"><strong>Color de id. de material</strong>: Las cáscaras UV se colorean por el color del material definido en la vista de escena.</li></ul> |

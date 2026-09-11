@@ -24,11 +24,11 @@ ht-degree: 0%
 
 ## Controles de panel
 
-**Create**: abre el explorador de archivos para seleccionar un material de Substance 3D. De forma predeterminada, se crea un material de fusión utilizando texturas generadas a partir del archivo .sbsar.
+**Create**: abre el explorador de archivos para seleccionar un material de Substance 3D. De forma predeterminada, se crea un material de mezcla mediante texturas generadas a partir del archivo .sbsar.
 
 **Aplicar** : adjunta el material de Substance 3D seleccionado a los objetos seleccionados en una nueva ranura de material. Esto no anula las asignaciones de material anteriores en el objeto.
 
-**Substance 3D Community Assets**: abre la página Substance 3D Community Assets en el navegador web.
+**Activos de la comunidad de Substance 3D**: abre la página de Activos de la comunidad de Substance 3D en el explorador web.
 
 **Substance 3D Assets**: abre la página de origen de la Substance 3D Assets en el explorador web.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 >
 > **Advertencia:**
 > 
-> Al utilizar el botón Actualizar, se desharán los cambios realizados por el usuario en el gráfico de sombreado. Copie los nodos añadidos por el usuario antes de actualizar para pegarlos en el gráfico después de la actualización.
+> Con el botón Actualizar se deshacen los cambios realizados por el usuario en el gráfico de sombreador. Copie los nodos añadidos por el usuario antes de actualizar para pegarlos en el gráfico después de la actualización.
 
 **Quitar** : elimina el material de Substance 3D seleccionado del panel.
 

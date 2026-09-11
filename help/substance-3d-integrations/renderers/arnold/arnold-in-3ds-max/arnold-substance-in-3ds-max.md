@@ -22,11 +22,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Es necesario habilitar la compatibilidad con el mapa máx. de 3ds heredados para que las texturas Substance funcionen con Arnold
+> Es necesario habilitar la compatibilidad con el mapa máx. de 3ds heredados para que las texturas del Substance funcionen con Arnold
 
 ## Substance en 3ds Max Plugin
 
-Con el [plugin 3ds Max](../../../3d-applications/3ds-max/3ds-max.md), puedes elegir Arnold en el menú Substance para configurar automáticamente el material de Arnold con entradas de textura Substance.
+Con el [plugin 3ds Max](../../../3d-applications/3ds-max/3ds-max.md), puedes elegir Arnold en el menú Substance para configurar automáticamente el material de Arnold con entradas de textura de Substance.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/arnold?$png$&jpegSize=200&wid=1047)
 
@@ -36,6 +36,6 @@ Es necesario habilitar la compatibilidad con mapas heredados para los procesamie
 
 >[!WARNING]
 >
-> El procesador de GPU no es compatible con Texturas de Substance al utilizar ActiveShade.
+> El procesador de GPU no es compatible con las Texturas de Substance al utilizar ActiveShade.
 
 ![](../../../assets/legacy-1.png)

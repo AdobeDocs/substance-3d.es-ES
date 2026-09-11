@@ -31,7 +31,7 @@ Substance Painter 2020.1 (6.1.0) se envía con [Plantillas de salida](https://ex
 | BaseColor | Base/color |
 | Rugosidad | Specular / Rugosidad |
 | Metalicidad | Base / Metalness |
-| Normal | (**Maya**) Geometría/ Asignación de relieve / bump2d (Utilizar como normales de Espacio de tangente) (**3ds** **Max**) Mapa de bits → Normal |
+| Normal | (**Maya**) Geometría/ Asignación de relieve / bump2d (Utilizar como normales de espacio tangente) (**3ds** **Max**) Mapa de bits → Normal |
 | Altura | (**Maya**) Sombreador de Desplazamiento / desplazamiento (**3ds** **Max**) Modificador de objeto → Propiedades de Arnold → Desplazamiento → Usar mapa |
 | Emisivo | Emisión/ Color (Peso De Emisión = 1,0) |
 | Nivel de anisotropía (no incluido en la Plantilla de salida predeterminada de Arnold) | (**Maya**) Abrigo/ Anisotropía (**3ds** **Max**) Abrigo/ Anisotropía |

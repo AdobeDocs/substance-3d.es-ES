@@ -24,6 +24,6 @@ Publicado el 26 de junio de 2020
 
 Cambiar lista:
 
-* El uso de archivos de imagen con menos de cuatro canales como entradas de imagen ya no se bloquea
+* El uso de archivos de imagen con menos de cuatro canales como entradas de imagen ya no tiene bloqueos
 
 Esta versión está disponible para Maya 2017, 2018, 2019 y 2020 en Linux, MacOS y Windows, y Maya LT 2018, 2019 y 2020 en MacOS y Windows

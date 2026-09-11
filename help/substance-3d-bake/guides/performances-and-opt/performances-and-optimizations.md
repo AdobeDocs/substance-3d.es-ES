@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
-description: Aprenda a optimizar la configuración del hardware y la preparación de mallas para lograr un rendimiento de panificación más rápido.
+description: Aprenda a optimizar la configuración del hardware y la preparación de mallas para lograr un rendimiento que hace un bake con mayor rapidez.
 helpx_creative_field: ""
 helpx_description: bakers > Guides > Performances and optimizations
 helpx_experience_level: ""
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 No hay requisitos mínimos para usar Substance Bakers, sin embargo, es importante tener en cuenta lo siguiente:
 
-* Una buena CPU ofrecerá tiempos de cálculo reducidos (múltiples núcleos acelerarán el cálculo de **desde panaderos de malla** que usan trazado de rayos).
+* Una buena CPU ofrecerá tiempos de cálculo reducidos (múltiples núcleos acelerarán el cálculo de **desde bakeres de malla** que usan trazado de rayos).
 * Una cantidad decente de memoria (RAM) permitirá cargar mallas con muchos detalles (polígonos).
 * Una buena GPU te permitirá generar texturas con grandes resoluciones (como 8K).
 
 ## Triangulación
 
-Los panaderos trabajan internamente con mallas trianguladas; si los modelos 3D (poly alta y baja) no se triangulan, los panaderos triangularán las mallas por sí mismos. Este proceso puede tomar mucho tiempo y se incrementará linealmente en relación con la cantidad de polígonos contenidos en el modelo. Por lo general, se recomienda triangular las mallas (especialmente la malla de polietileno alta) para evitar que este proceso se produzca durante la cocción.
+Los bakeres trabajan internamente con mallas trianguladas; si no se triangulan los modelos 3D (poly alta y baja), los bakeres triangularán las mallas. Este proceso puede tomar mucho tiempo y se incrementará linealmente en relación con la cantidad de polígonos contenidos en el modelo. Por lo general se aconseja triangular las mallas (especialmente la malla de polietileno alta) para evitar que este proceso ocurra durante el hago un bake.
 
-Si el flujo de trabajo se basa en FBX, puede triangular la malla en el tiempo de exportación mediante una opción de la aplicación DCC.
+Si el flujo de trabajo se basa en FBX, puede triangular la malla en el momento de la exportación mediante una opción de la aplicación DCC.
 
 ## Caché de geometría
 
@@ -40,12 +40,12 @@ Consulte la siguiente página para obtener más información : [Caché de geomet
 
 ## Suavizado
 
-Los panaderos pueden utilizar un muestreo súper para realizar el suavizado. El supermuestreo significa que los panaderos emitirán más rayos por píxel para suavizar el resultado. El tiempo de cocción se puede ver dramáticamente afectado por este ajuste; esto es particularmente cierto para los panaderos donde se requieren muchos rayos, como la oclusión ambiental de mesh baker.
+Los bakeres pueden utilizar un muestreo superior para realizar el suavizado. El supermuestreo significa que los bakeres emitirán más rayos por píxel para suavizar el resultado. El tiempo de haga un bake puede verse afectado drásticamente por esta configuración; esto es particularmente cierto para los bakeres donde se requieren muchos rayos, como la oclusión ambiental del baker de malla.
 
 A modo de ejemplo:
 
-* un ajuste AA de 2x2 significa que el panadero lanzará 4 veces la cantidad inicial de rayos. Para una textura de 2048\*2048 px, el cálculo resultante equivale a hornear una textura de 4096\*4096px y debería tardar unas 4 veces más en calcularse.
-* un ajuste AA de 8x8 significa que el panadero lanzará 64 veces la cantidad inicial de rayos. Para una textura de 2048\*2048 px, el tiempo de cálculo resultante equivale a hornear una textura de 16384\*16384px y debería tardar unas 64 veces más en realizar el cálculo.
+* un ajuste AA de 2x2 significa que el baker emitirá 4 veces la cantidad inicial de rayos. Para una textura de 2048\*2048 px, el cálculo resultante equivale a hacer un bake una textura de 4096\*4096px y debería tardar unas 4 veces más en calcularse.
+* un ajuste AA de 8x8 significa que el baker emitirá 64 veces la cantidad inicial de rayos. Para una textura de 2048\*2048 px, el tiempo de cálculo resultante equivale a hacer un bake una textura de 16384\*16384px y debería tardar unas 64 veces más en calcularse.
 
 **Teniendo en cuenta estos números, la configuración 8x8 debe usarse con cuidado**.
 

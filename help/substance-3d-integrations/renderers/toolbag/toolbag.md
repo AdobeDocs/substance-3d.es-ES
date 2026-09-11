@@ -24,7 +24,7 @@ Esta página muestra cómo utilizar las salidas de rugosidad/metálicas para la 
 
 La bolsa de herramientas admite los flujos de trabajo de specular/brillo y metálico/rugosidad.
 
-Substance 3D Painter utiliza el sombreador PBR metálico como predeterminado, pero también puede utilizarlo con el sombreador de specular/brillo. Este flujo de trabajo mostrará cómo utilizar las salidas metálicas para la bolsa de herramientas 2. Toolbag soporta el flujo de trabajo metálico.
+Substance 3D Painter utiliza el sombreador PBR metálico como valor predeterminado; sin embargo, también puede utilizarlo con el sombreador specular/brillo. Este flujo de trabajo mostrará cómo utilizar las salidas metálicas para la bolsa de herramientas 2. Toolbag soporta el flujo de trabajo metálico.
 
 [Descargar escena de ejemplo](https://www.dropbox.com/s/qyed3un2zhtuibj/toolbag.zip?dl=0)
 
