@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Posible mensaje de error:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Haciendo un bake ] Error al Hacer un bake (Mapa de colores de malla)\
 > No se han encontrado colores de vértice
