@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
 breadcrumb-title: ''
 description: Calcule mapas de posición precisos a partir de mallas de alta densidad para capturar información precisa de la ubicación de la geometría.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: bakers > Bakers Settings > Position map from Mesh
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Mapa de posición desde malla
+title: Mapa de posición a partir de malla
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Mapa de posición desde malla
+# Mapa de posición a partir de malla
 
 El mapa de posición del baker de malla calcula la ubicación de la geometría de malla de alta densidad y la guarda en una textura. Es similar al baker de posición base, pero puede producir resultados más precisos.
 

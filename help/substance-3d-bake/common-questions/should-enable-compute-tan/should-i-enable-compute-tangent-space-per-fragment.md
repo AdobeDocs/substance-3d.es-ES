@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
 breadcrumb-title: ''
-description: Obtenga información sobre cuándo activar Calcular espacio tangente por fragmento y cómo afecta a los resultados de procesamiento.
+description: Obtenga información sobre cuándo activar Calcular espacio tangente por fragmento y cómo afecta a los resultados de hacer un bake.
 helpx_creative_field: ""
 helpx_description: bakers > Common Questions > Should I enable
 helpx_experience_level: ""
@@ -30,15 +30,15 @@ ht-degree: 1%
 >
 > **Explicación**
 > 
-> Cuando se habilita esta configuración, se indica al procesador que realice el cálculo del espacio tangente en el sombreador de fragmentos (también denominado sombreador de píxeles) en lugar del sombreador de vértices. Lo que significa que el cálculo se realizará por píxel en lugar de interpolarse de un vértice a otro. Esta configuración es utilizada por el panadero de mapas normal para saber cómo codificar la textura. También solía saber cómo leer la textura de los sombreadores.
+> Cuando esta opción está activada, indica al baker que realice el cálculo del Espacio de tangente en el Sombreador de fragmentos (también denominado Sombreador de píxeles) en lugar del Sombreador de vértices. Lo que significa que el cálculo se realizará por píxel en lugar de interpolarse de un vértice a otro. El baker de mapa de normales utiliza esta configuración para saber cómo codificar la textura. También solía saber cómo leer la textura de los sombreadores.
 > 
-> La activación o desactivación de este parámetro suele requerir rehacer las texturas para sincronizarlas con las ventanas gráficas 3D y los motores de procesamiento (como Iray).
+> Para activar o desactivar este parámetro, normalmente es necesario volver a realizar las texturas para sincronizarlas con las ventanas gráficas 3D y los motores de procesamiento (como Iray).
 
 >[!NOTE]
 >
 > **Solución**
 > 
-> Según el software o el motor de juego que se utilice para procesar la textura, este ajuste puede estar desactivado o activado:
+> Dependiendo del software o motor de juegos que se vaya a procesar para la textura, esta configuración puede estar deshabilitada o habilitada:
 > 
 > | *Software* | *Calcular espacio tangente por fragmento* |
 > | --- | --- |

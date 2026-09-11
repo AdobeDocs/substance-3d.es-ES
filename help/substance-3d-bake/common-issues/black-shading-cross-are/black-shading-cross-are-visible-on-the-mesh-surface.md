@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
 breadcrumb-title: ''
 description: Corrija los defectos de sombreado negro visibles en las superficies de malla corrigiendo el espacio tangente y los cálculos normales.
 helpx_creative_field: ""
@@ -35,4 +35,4 @@ Asegúrese de que la aplicación que muestra la malla y su mapa de normales est�
 
 * Compruebe que el Espacio de tangente es idéntico entre el visor y el baker.
 * Compruebe que el formato Normal es idéntico entre la vista y el baker.
-* Compruebe que la triangulación es idéntica entre el visualizador y el baker. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obtener más información.
+* Verificar que la Triangulación sea idéntica entre el espectador y el panadero. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obtener más información.

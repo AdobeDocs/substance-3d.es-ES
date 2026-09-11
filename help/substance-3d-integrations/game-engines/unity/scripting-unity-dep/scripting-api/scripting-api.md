@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
 breadcrumb-title: ''
 description: Documentación de referencia de la API de scripts obsoleta de Substance Unity para la compatibilidad con proyectos heredados.
 helpx_creative_field: ""
@@ -26,8 +26,8 @@ ht-degree: 1%
 
 | Método público | Descripción | Parámetro |
 | --- | --- | --- |
-| public **float** *GetInputFloat*(**string** inputName) | Obtener entrada **Float** del Substance | **Cadena** *inputName* Nombre de la entrada en SBSAR |
-| public **int** *SetInputFloat*(**string** inputName, valor **float**) | Entrada **Float** del Substance de actualización | **Cadena** i *nombreEntrada* Nombre de la entrada en SBSAR **Float** *valor* Valor usado para actualizar el parámetro |
+| public **float** *GetInputFloat*(**string** inputName) | Obtener entrada del Substance **Flotante** | **Cadena** *inputName* Nombre de la entrada en SBSAR |
+| public **int** *SetInputFloat*(**string** inputName, valor **float**) | Actualizar la entrada del Substance **Flotante** | **Cadena** i *nombreEntrada* Nombre de la entrada en el SBSAR **Flotante** *valor* Valor usado para actualizar el parámetro |
 | public **void** *SetInputVector2*(**string** inputName, valor **Vector2**) | Actualizar la entrada del Substance **Vector2** | **Cadena** *inputName* Nombre de la entrada en SBSAR **Vector2** *input* Valores usados para actualizar el parámetro |
 | public **vector2** *GetInputVector2*(**string** inputName) | Obtener entrada del Substance **Vector2** | **Cadena** &quot;inputName&quot; Nombre de la entrada en SBSAR |
 | public **void** *SetInputVector3*(**string** inputName, valor **Vector3**) | Entrada del Substance de actualización **Vector3** | **Cadena** *inputName* Nombre de la entrada en SBSAR **Vector3** *valor* Valores usados para actualizar el parámetro |
@@ -48,15 +48,15 @@ ht-degree: 1%
 | **int[] Substance.Game.SubstanceGraph**.*GetInputVector4Int*( string inputName) | Obtener un conjunto de 4 int (valores x, y, z y w de Vector4Int) | **Cadena** *inputName* Nombre de la entrada en el SBSAR **Int** *x* Valor usado para actualizar el parámetro **Int** y Valor usado para actualizar el parámetro **Int** z Valor usado para actualizar el parámetro **Int** w Valor usado para actualizar el parámetro |
 | **void Substance.Game.SubstanceGraph**.*SetInputString*( string inputName, string value) | Actualizar la entrada de cadena del Substance | **Cadena** *inputName* Nombre de la entrada en SBSAR **Cadena** *valor* usado para actualizar el parámetro |
 | **string Substance.Game.SubstanceGraph**.*GetInputString*( string inputName) | Obtener entrada de cadena del Substance | **Cadena** *inputName* Nombre de la entrada en SBSAR |
-| **void Substance.Game.SubstanceGraph**.*SetInputTexture*( string inputName, valor Texture2D) | Actualizar entrada de Substance Texture2D | **Cadena** *inputName* Nombre de la entrada en SBSAR **Texture2D** *value* usada para actualizar el parámetro |
-| **Texture2D Substance.Game.SubstanceGraph**.*GetInputTexture*( string inputName) | Obtener entrada de Substance Texture2D | **Cadena** *inputName* Nombre de la entrada en SBSAR |
+| **void Substance.Game.SubstanceGraph**.*SetInputTexture*( string inputName, valor Textura2D) | Actualizar la entrada 2D de la Textura del Substance | **Cadena** *inputName* Nombre de la entrada en SBSAR **Textura2D** *valor* usado para actualizar el parámetro |
+| **Textura2D Substance.Game.SubstanceGraph**.*GetInputTexture*( string inputName) | Obtener Textura del SubstanceEntrada 2D | **Cadena** *inputName* Nombre de la entrada en SBSAR |
 | **VectorInt Substance.Game.SubstanceGraph**.*GetTexturesResolution*() | Obtenga la resolución de texturas de Ajustes de destino del gráfico (los valores de Vector4Int x = ancho, y = height pueden ser 32, 64, 128, 256, 512, 1024, 2048 y 4096) | Ninguno |
-| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*(Tamaño Vector2Int) | Establezca la resolución de texturas de Ajustes de destino del gráfico (Vector2: x = anchura, y = height, los valores pueden ser 32, 64, 128, 256, 512, 1024, 2048 y 4096) Devuelve 0 si es correcto; de lo contrario: -1. | **Vector2Int** *size* usado para actualizar el parámetro&#x200B;**.** |
-| **List Substance.Game.SubstanceGraph**.*GetGeneratedTextures*() | Devuelve todos los objetos Texture2D del Substance utilizados por el sombreador de materiales del gráfico. | Ninguno |
-| **int Substance.Game.SubstanceGraph**.*Bake*( Texture2D texture, string absolutePath) | Genere archivos .png para todos los objetos de Substance Texture2D utilizados por el sombreador de materiales del gráfico. | Ninguno |
-| **&#x200B;**&#x200B;Substance.Game.**&#x200B; SubstanceGraph**.*Duplicate*() | Duplicar un Gráfico de Substance | Ninguno |
+| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*(Tamaño Vector2Int) | Establezca la resolución de texturas de Ajustes de destino del gráfico (Vector2Int = ancho, y = height, los valores pueden ser 32, 64, 128, 256, 512, 1024, 2048 y 4096) Devuelve 0 si es correcto, de lo contrario: -1. | **Vector2Int** *size* usado para actualizar el parámetro**.** |
+| **List Substance.Game.SubstanceGraph**.*GetGeneratedTextures*() | Devuelve todos los objetos 2D de Textura de Substance utilizados por el sombreador de material del gráfico. | Ninguno |
+| **int Substance.Game.SubstanceGraph**.*Haga un bake*( textura Textura2D, cadena absolutePath) | Genere archivos .png para todos los objetos de Textura de Substance 2D utilizados por el sombreador de materiales del gráfico. | Ninguno |
+| **** Substance.Game.** SubstanceGraph**.*Duplicate*() | Duplicar un Gráfico de Substance | Ninguno |
 | **Substance.Game.SubstanceGraph**.*Duplicate*(string newGraphName) | Duplicar un Gráfico de Substance y asignarle un nombre (el material correspondiente también tendrá el mismo nombre) | **String newGraphName** |
-| **&#x200B;**&#x200B;Substance.Game.**&#x200B; SubstanceGraph**.*GetInputProperties*() | Consulta información de entrada de procedimiento, devuelve una matriz de &#39;InputProperties&#39;, con:public struct InputProperties { nombre de cadena pública; // inputName public string label; // etiqueta del widget en el grupo de cadenas públicas de la GUI; // grupo del widget en GUIpublic string[] componentLabels; // para reguladores (hasta 4 etiquetas) cadena pública[] enumOptions; // para optionMenuPublic InputPropertiesType type;public Vector4 maximum; // para los reguladores públicos Vector4 mínimo; // para los reguladores de paso flotante público; // for sliders }public enum InputPropertiesType { Boolean = 0,// 0 Float, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Texture, // 7 String, // 8 Invalid = -1/ -1 }; | Ninguno |
+| **** Substance.Game.** SubstanceGraph**.*GetInputProperties*() | Consultar información de entrada procedimienta, devuelve una matriz de &#39;InputProperties&#39;, con:public struct InputProperties { nombre de cadena pública; // inputName public string label; // etiqueta del widget en el grupo de cadenas públicas de la GUI; // grupo del widget en GUIpublic string[] componentLabels; // para reguladores (hasta 4 etiquetas) cadena pública[] enumOptions; // para optionMenuPublic InputPropertiesType type;public Vector4 maximum; // para los reguladores públicos Vector4 mínimo; // para los reguladores de paso flotante público; // for sliders }public enum InputPropertiesType { Boolean = 0,// 0 Flotante, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Textura, // 7 String, // 8 Invalid = -1/ -1 }; | Ninguno |
 | **bool** **Substance.Game.SubstanceGraph**.*HasInput*(**string** inputName) | Compruebe si existe una entrada en un gráfico y devuelve verdadero/falso: | **Cadena** *inputName* Nombre de la entrada en SBSAR |
 | **bool** **Substance.Game.SubstanceGraph**.*IsInputVisible*(**string** inputName) | Comprobar si una entrada visible es visible, devuelve verdadero/falso | **Cadena** *inputName* Nombre de la entrada en SBSAR |
 
@@ -65,8 +65,8 @@ ht-degree: 1%
 | Método público | Descripción | Parámetro |
 | --- | --- | --- |
 | public **void** *QueueForRender*() | Agregar gráfico de Substance a la cola | Ninguno |
-| ***mySubstance.**&#x200B;RenderAsync()* | Renderizar todos los Substance en cola de forma asincrónica | Ninguno |
-| ***mySubstance.**&#x200B;RenderSync()* | Renderizar todos los Substance en cola de forma sincrónica | Ninguno |
+| ***mySubstance.**RenderAsync()* | Renderizar todos los Substance en cola de forma asincrónica | Ninguno |
+| ***mySubstance.**RenderSync()* | Renderizar todos los Substance en cola de forma sincrónica | Ninguno |
 
 ## Secuencias de comandos en modo Editor:
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: Genera máscaras de opacidad convirtiendo los rayos omitidos en imágenes binarias en escala de grises para los efectos de transparencia.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 # Máscara de opacidad de malla
 
-La máscara de opacidad de mesh baker calcula una textura en la que los rayos perdidos se convierten en una imagen binaria en escala de grises. Esta textura se utiliza generalmente como un mapa de opacidad.
+La máscara de opacidad del baker de malla calcula una textura en la que los rayos perdidos se convierten en una imagen binaria en escala de grises. Esta textura se suele utilizar como mapa de opacidad.
 
 Las propiedades de textura se definen como:
 
@@ -35,4 +35,4 @@ Las propiedades de textura se definen como:
 
 ## Parámetros:
 
-Este panadero no tiene parámetros específicos.
+Este baker no tiene parámetros específicos.

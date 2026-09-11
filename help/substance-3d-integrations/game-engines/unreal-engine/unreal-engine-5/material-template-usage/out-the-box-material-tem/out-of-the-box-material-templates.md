@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5/out-of-the-box-material-templates.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5/out-of-the-box-material-templates.html"
 breadcrumb-title: ''
 description: Usa plantillas de materiales prediseñadas al importar materiales SBSAR a Unreal Engine 5 para una configuración y flujos de trabajo rápidos.
 helpx_creative_field: ""
@@ -26,17 +26,17 @@ Al importar materiales SBSAR en el navegador de contenido, puede elegir las dife
 
 ## Plantilla estándar de Substance
 
-Esta es una plantilla de material básico para una experiencia UV genérica. Proporciona algunos controles básicos de las cantidades de UV para que pueda escalar los UV y estirar las texturas. Puede dividir la escala UV activando la opción Dividir UV; también tiene la cantidad U, la cantidad V, el Desplazamiento de UV y un ángulo de rotación UV. Esto le permite hacer algunas baldosas UV, así como la rotación UV.
+Esta es una plantilla de material básico para una experiencia UV genérica. Proporciona algunos controles básicos de las cantidades de UV para que pueda escalarlas y estirar las texturas. Puede dividir la escala UV activando la opción Dividir UV; también tiene la cantidad U, la cantidad V, el Desplazamiento de UV y un ángulo de rotación UV. Esto le permite hacer algunas baldosas UV, así como la rotación UV.
 
 ![](../../../../../assets/screen-shot-2022-05-10-at-9-06-40-pm-copy.png)
 
 ## Plantilla triplanar de Substance
 
-La plantilla triplanar realiza una asignación triplanar de los ángulos o caras X, Y y Z de la malla, de modo que combina tres proyecciones diferentes de las texturas para fusionar perfectamente los ángulos. La plantilla triplanar permite que los materiales se fusionen en las distintas caras a medida que el objeto se dobla
+La plantilla triplanar realiza una asignación triplanar de los ángulos X, Y y Z o las caras de la malla, de modo que combina tres proyecciones diferentes de las texturas para fusionar perfectamente los ángulos. La plantilla triplanar permite que los materiales se fusionen en las distintas caras a medida que el objeto se dobla
 
 ![menú de detalles de un material triplanar de Substance](../../../../../assets/triplanar-template.png)
 
-La plantilla triplanar es compatible con el tamaño físico, por lo que, cuando se activa el tamaño físico, la plantilla triplanar escala las imágenes en función del tamaño físico del material, de modo que, independientemente de cuánto escale el objeto, la textura siempre seguirá siendo la misma y tendrá un aspecto uniforme. Obtenga más información sobre Tamaño físico aquí: [Tamaño físico - UE5](../../../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
+La plantilla triplanar es compatible con el tamaño físico, por lo que, cuando se activa el tamaño físico, la plantilla triplanar escala las imágenes en función del tamaño físico del material, de modo que, independientemente de cuánto escale el objeto, esa textura siempre seguirá siendo la misma y tendrá un aspecto uniforme. Obtenga más información sobre Tamaño físico aquí: [Tamaño físico - UE5](../../../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
 
 ## Plantilla de refracción de Substance
 
@@ -44,11 +44,11 @@ La plantilla de refracción se utiliza principalmente para objetos transparentes
 
 ![](../../../../../assets/screen-shot-2022-05-10-at-9-07-38-pm.png)
 
-## Substance Car Paint Template
+## Plantilla de Pintura de coche de Substance
 
-La plantilla de pintura de coche añade un soporte de capa transparente e incluye soporte para los valores y las baldosas UV ajustables, valores de rugosidad de capa clara y valores de potencia de fresnel.
+La plantilla de Pintura de coche añade un soporte de capa transparente e incluye soporte para los valores y las baldosas UV ajustables, valores de rugosidad de capa claros y valores de potencia de fresnel.
 
-![menú de detalles de un material de Substance Car Paint](../../../../../assets/car-paint-template.png)
+![menú de detalles para un material de Pintura de Substance Car](../../../../../assets/car-paint-template.png)
 
 ## Configuración de plantillas de Desplazamiento
 

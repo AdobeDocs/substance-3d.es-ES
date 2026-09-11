@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
 breadcrumb-title: ''
 description: Documentación de referencia para la clase SubstanceRuntimeGraph utilizada para las operaciones de gráficos en tiempo de ejecución en Unity.
 helpx_creative_field: ""
@@ -42,14 +42,14 @@ Adjunta un nuevo objeto de gráfico a este controlador de tiempo de ejecución.
 ```
 
 
-Actualizar entrada flotante del Substance
+Actualizar la entrada del Flotante del Substance
 
 ```
 • float GetInputFloat (string inputName)
 ```
 
 
-Obtener entrada flotante del Substance
+Obtener entrada del Flotante del Substance
 
 ```
 • void SetInputVector2 (string inputName, Vector2 value)
@@ -210,7 +210,7 @@ Actualice Substance Texture2D Input.
 ```
 
 
-Devuelve la resolución de salida de textura de instancia.
+Devuelve la resolución de salida de la textura de instancia.
 
 ```
 • void SetTexturesResolution (Vector2Int size)

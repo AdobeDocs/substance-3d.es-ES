@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-4.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.3.4 del plugin Unity para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### Correcciones de errores:
 
-* Se han solucionado problemas relacionados con la importación de un Substance sin mapas de textura.
+* Se han solucionado problemas relacionados con la importación de un Substance sin asignaciones de textura.
 * Se ha corregido un problema por el que el proceso de reflexión no funcionaba correctamente en Unity 2019.x
 * Se han solucionado problemas de gestión de prefabricados al importar un paquete que contenía prefabricados con materiales de Substance
 * Asignaciones fijas de material/textura que no se arrastran después del proceso de reflexión

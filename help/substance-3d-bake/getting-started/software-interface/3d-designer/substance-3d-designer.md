@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Aprenda a acceder y utilizar la ventana de cocción en Substance 3D Designer para hornear información de modelos en texturas.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-Se puede tener acceso a la ventana para hornear a través del archivo de malla en la ventana del [Explorador](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Haga clic con el botón derecho en el nombre de la malla y elija &quot;**Información del modelo de horno**&quot; para abrir la ventana de horno.
+Se puede tener acceso a la ventana para hornear a través del archivo de malla en la ventana del [Explorador](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Haga clic con el botón derecho en el nombre de la malla y elija &quot;**Información del modelo de horno**&quot; para abrir la ventana de horno.
 
 ## Información general
 
@@ -73,7 +73,7 @@ El panadero es donde puedes elegir qué textura horneada quieres generar. De for
 * **Agregando un nuevo panadero:** Haga clic en el botón &quot;Agregar panadero&quot;.
 * **Quitando un panadero:** Selecciona el panadero en la lista, luego haz clic en el botón &quot;Eliminar panadero&quot;.
 * **Mover un panadero a la parte superior:** Seleccione el panadero en la lista y, a continuación, haga clic en el botón &quot;Tire hacia arriba&quot;.
-* **Bajando por un panadero:**&#x200B;Seleccione el panadero en la lista, luego haga clic en el botón &quot;Empujar hacia abajo&quot;.
+* **Bajando por un panadero:**Seleccione el panadero en la lista, luego haga clic en el botón &quot;Empujar hacia abajo&quot;.
 
 Cada panadero en el hereda de forma predeterminada los valores predeterminados (véase más arriba). El tamaño (resolución), por ejemplo, se puede anular haciendo clic en la celda de la línea del panadero. Esto es cierto para los demás ajustes de la línea.
 

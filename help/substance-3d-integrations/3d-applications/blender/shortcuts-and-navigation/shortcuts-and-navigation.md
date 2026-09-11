@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: Aprenda los métodos abreviados de teclado para el complemento Substance 3D en Blender y personalice los enlaces de teclas para mejorar la eficacia.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Accesos directos y navegación
 
-Encontrará una lista de métodos abreviados en en en la parte inferior de las Preferencias del complemento. Los Key-bindings de cada atajo se pueden personalizar introduciendo las teclas deseadas en el campo Key. También se pueden activar Ctrl, Mayús y Alt en cada método abreviado.
+Encontrará una lista de métodos abreviados en en en la parte inferior de las Preferencias del complemento. Los Key-bindings de cada método abreviado se pueden personalizar introduciendo las teclas deseadas en el campo Key. Ctrl, Mayús y Alt también se pueden activar para cada método abreviado.
 
 Los enlaces de teclas predeterminados son:
 

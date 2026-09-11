@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
 description: Guía de referencia para todos los mensajes de error y advertencia que pueden aparecer al hacer un bake con el software de Substance.
 helpx_creative_field: ""
@@ -52,10 +52,10 @@ A continuación se muestra la lista de todos los mensajes de error que pueden ap
 | No se han encontrado tangentes de vértices en la malla [nombre de malla]. | Igual que el anterior. |
 | No se han encontrado binormales de vértice en la malla [nombre de malla]. | Igual que el anterior. |
 | No se encontraron colores de vértice en la malla [nombre de malla]. | No se encontraron colores de vértice en la malla especificada. Esto puede suceder si al menos una malla secundaria de la malla de alta densidad no tiene ningún color de vértice definido. |
-| No hay suficientes datos en la capa superior para usar el baker seleccionado. Abortando Bake. | Precedido de al menos uno de los mensajes anteriores. Normalmente, si solo falta un bit de datos en la escena (ejemplo : solo una malla en la escena poli alta no tiene colores de vértice), el proceso de horneado llenar los datos que faltan con ceros, y seguir horneando. Si faltan demasiados datos, este mensaje se envía y el proceso de procesamiento se detiene. |
+| No hay suficientes datos en la capa superior para usar el baker seleccionado. Abortando el hago un bake. | Precedido de al menos uno de los mensajes anteriores. Normalmente, si solo falta un bit de datos en la escena (ejemplo : solo una malla en una escena poli alta no tiene colores de vértice), el proceso de hacer un bake llena los datos que faltan con ceros, y sigue haciendo un bake. Si faltan demasiados datos, se genera este mensaje y se detiene el proceso de hacer un bake. |
 
-## Textura transferida desde malla
+## Textura transferida a partir de malla
 
 | *Mensaje* | *Descripción* |
 | --- | --- |
-| Error al cargar la textura detallada. | No se pudo cargar la textura definida en la configuración del panadero. Podría deberse a que el archivo falta realmente en el disco o a que está dañado y no es legible. |
+| Error al cargar la textura detallada. | No se pudo cargar la textura definida en la configuración del baker. Podría deberse a que el archivo falta realmente en el disco o a que está dañado y no es legible. |

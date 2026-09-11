@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: Referencia para el baker Curvatura desde malla obsoleto. En su lugar, utilice el baker Curvatura actualizada de Malla .
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Curvatura desde malla (obsoleto)
 
-La Curvatura del baker de malla genera una textura de curvatura a partir de mallas de alto contenido de poli. Es más lento que el baker base de [curvatura](../../bakers-settings/curvature/curvature.md), pero produce resultados más precisos.
+La curvatura de malla baker genera una textura de curvatura a partir de mallas de alto contenido de poli. Es más lento que el panadero de base [curvatura](../../bakers-settings/curvature/curvature.md), pero produce resultados más precisos.
 
 **Disponible en:**
 

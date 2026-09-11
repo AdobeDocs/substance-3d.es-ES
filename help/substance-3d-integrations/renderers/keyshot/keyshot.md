@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: Utilice materiales de Substance en el procesador de imágenes principales para la visualización de productos con mapas de textura exportados.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # Keyshot
 
-*Keyshot 6.1.72*[&#x200B; Descargar Escena De Ejemplo](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
+*Keyshot 6.1.72*[ Descargar Escena De Ejemplo](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
 
 ## Exportación de Substance Painter
 
@@ -38,7 +38,7 @@ Utilizarás 2 materiales avanzados. Uno será para metálico y el otro para diel
    a. Definir el índice de refracción en 10\
    b. Establezca los mapas como se indica en la tabla siguiente
 
-   | Textura Substance Painter | Canal de materiales avanzado |
+   | textura del Substance Painter | Canal de materiales avanzado |
    | --- | --- |
    | Difusión | Difusión |
    | Metálico | Opacidad |
@@ -52,7 +52,7 @@ Utilizarás 2 materiales avanzados. Uno será para metálico y el otro para diel
    a. Establezca el Índice de refracción en 1,5\
    b. Establezca los mapas como se indica en la tabla siguiente
 
-   | Textura Substance Painter | Canal de materiales avanzado |
+   | textura del Substance Painter | Canal de materiales avanzado |
    | --- | --- |
    | Difusión | Difusión |
    | Normal | Bump \*Normal activado |

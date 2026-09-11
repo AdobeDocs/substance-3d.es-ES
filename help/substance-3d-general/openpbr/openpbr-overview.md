@@ -39,7 +39,7 @@ Para los artistas, esto significa que un material de OpenPBR no es solo, por eje
 
 La especificación del OpenPBR reconoce explícitamente un desafío de larga data en la producción: Los **materiales no se transmiten bien entre aplicaciones**. Los diferentes renderizadores suelen utilizar nombres de parámetro, supuestos de sombreado y modelos subyacentes diferentes, lo que dificulta y lleva mucho tiempo hacer coincidir el aspecto.
 
-El OpenPBR está diseñado como respuesta a este problema. Al definir un único modelo de material físicamente conectado a tierra que cubre las necesidades comunes de producción -metales, dieléctricos, materiales en capas, transmisión, dispersión-, proporciona un objetivo estable para el intercambio. Si bien esto no garantiza coincidencias visuales perfectas en todas las situaciones, reduce significativamente la ambigüedad en comparación con los modelos de sombreador patentados.
+El OpenPBR está diseñado como respuesta a este problema. Al definir un único modelo de material físicamente conectado a tierra que cubre las necesidades comunes de producción -metales, dieléctricos, materiales en capas, transmisión, dispersión-, proporciona un objetivo estable para el intercambio. Si bien esto no garantiza una perfecta coincidencia visual en cada situación, reduce significativamente la ambigüedad en comparación con los modelos de sombreador patentados.
 
 Para los artistas, la conclusión práctica es que el OpenPBR tiene como objetivo preservar la *intención*. Incluso cuando no es posible alcanzar una paridad visual exacta, la estructura del material -lo que es metal, lo que es transmisivo, lo áspera o anisotrópica que es una superficie- sigue siendo clara y transferible.
 
@@ -63,7 +63,7 @@ Para los artistas, esto supone menos sorpresas cuando los activos se mueven entr
 
 ### Implicaciones prácticas para los artistas
 
-Desde una perspectiva cotidiana, trabajar con el OpenPBR fomenta hábitos que apoyan naturalmente la interoperabilidad:
+Desde una Perspectiva diaria, trabajar con OpenPBR fomenta hábitos que apoyan naturalmente la interoperabilidad:
 
 * Pensar en términos de comportamiento de la luz en lugar de tipos de materiales específicos de la aplicación
 * Uso de parámetros físicamente significativos (metalidad, rugosidad, transmisión, dispersión)
@@ -75,7 +75,7 @@ Incluso cuando los materiales nunca abandonan una sola aplicación, estas práct
 
 ### Materiales definidos por interacción con la luz
 
-El OpenPBR es un modelo monolítico (un &#39;uber-shader&#39;) destinado a representar una amplia gama de tipos de materiales; estos tipos se describen en términos de cómo la luz interactúa con ellos. En lugar de definir materiales en términos de ajustes preestablecidos fijos como, por ejemplo, &quot;vidrio&quot; o &quot;piel&quot;, cada material de OpenPBR se crea a partir de un modelo de capas horizontales y verticales, que permite a los artistas combinar características totalmente definidas y físicamente significativas, como el reflejo difuso, la reflexión del specular, la transmisión, la dispersión subsuperficial y la superposición. Las diferentes combinaciones de estos comportamientos producen naturalmente materiales familiares del mundo real.
+El OpenPBR es un modelo monolítico (un &quot;uber-sombreador&quot;) destinado a representar una amplia gama de tipos de materiales; estos tipos se describen en términos de cómo la luz interactúa con ellos. En lugar de definir materiales en términos de ajustes preestablecidos fijos como, por ejemplo, &quot;vidrio&quot; o &quot;piel&quot;, cada material de OpenPBR se crea a partir de un modelo de capas horizontales y verticales, que permite a los artistas combinar características totalmente definidas y físicamente significativas, como el reflejo difuso, la reflexión del specular, la transmisión, la dispersión subsuperficial y la superposición. Las diferentes combinaciones de estos comportamientos producen naturalmente materiales familiares del mundo real.
 
 <table>
   <tr style="border: 0;">
@@ -591,7 +591,7 @@ Emisión controla si el material emite o no su propia luz (independientemente de
 
 ![](../assets/openpbrf/renders/emission/color/emissionColorGreen.png){width="250"}
 
-*Material de emisión verde brillante.*
+*Un material de emisivo verde brillante.*
 
 +++Parámetros de emisión
 
@@ -927,9 +927,9 @@ El modelo en sí se basa en los principios de la representación basada en la f�
 
 Para entender por qué existe el OpenPBR, es útil examinar cómo ha evolucionado el sombreado físico en los últimos diez años. A medida que la PBR se convirtió en el estándar del sector, la mayoría de las herramientas 3D más importantes introdujeron sus propios sombreadores de superficie. Estos sombreadores eran en general similares en intención: su objetivo era representar materiales del mundo real mediante modelos de reflexión que conservaran la energía y exponer los parámetros al modelo físico subyacente de una manera artísticamente significativa, como el color base, la rugosidad, el metal, etc.
 
-Hacerlo requirió muchas iteraciones, y el panorama 3D inicialmente estaba muy fragmentado, con varios responsables de departamento explorando diferentes formas de expresar los elementos visuales y avanzando en diferentes frentes. Una solución sería reemplazada por otra, hasta que los enfoques específicos surgieran como superiores, y el trabajo en diferentes áreas comenzara a converger, lo que llevaría al surgimiento de GGX, enfoques de materiales a partir de metales y, en última instancia, OpenPBR.
+Esto supuso muchas iteraciones y, en un principio, el panorama 3D estaba muy fragmentado, ya que varios responsables de departamento exploraban diferentes formas de expresar los elementos visuales y avanzaban en distintos frentes. Una solución sería reemplazada por otra, hasta que los enfoques específicos surgieran como superiores, y el trabajo en diferentes áreas comenzara a converger, lo que llevaría al surgimiento de GGX, enfoques de materiales a partir de metales y, en última instancia, OpenPBR.
 
-Paralelamente, los oleoductos de producción se interconectaron más. Los activos cada vez más necesitaban moverse entre aplicaciones de modelado, texturizado, desarrollo de looks, iluminación, renderizado y uso en tiempo real. Los estudios comenzaron a confiar más en formatos de intercambio estandarizados como USD y MaterialX, y quedó claro que un formato que permitiera el movimiento de descripciones de materiales específicamente también sería ventajoso.
+Paralelamente, los oleoductos de producción se interconectaron más. Los activos cada vez más necesitaban moverse entre aplicaciones de modelado, texturizado, desarrollo de looks, iluminación, renderizado y uso en tiempo real. Los estudios empezaron a confiar más en formatos de intercambio estandarizados como USD y MaterialX, y quedó claro que un formato que permitiera el movimiento de descripciones de materiales específicamente también sería ventajoso.
 
 La iniciativa sobre el OpenPBR se creó en respuesta a esos problemas. Representa un esfuerzo colaborativo entre Adobe y Autodesk, apoyado por la Academy Software Foundation (ASWF), para definir un modelo de sombreado de superficie única y abierta que pueda servir como punto de referencia compartido entre herramientas. El OpenPBR consolida y formaliza los conceptos de representación basada en la física con los que los artistas ya están familiarizados; estos conceptos forman las bases de un modelo unificado con un comportamiento claramente definido.
 

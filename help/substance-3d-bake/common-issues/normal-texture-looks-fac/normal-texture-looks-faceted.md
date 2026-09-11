@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
-description: Corrige el aspecto facetado en texturas normales suavizando las normales de malla y ajustando los ajustes de suavizado de grupos.
+description: Corrija el aspecto facetado en texturas normales suavizando las normales de malla y ajustando los ajustes de suavizado de grupos.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Normal texture looks faceted
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Problema**
 > 
-> La textura Normal tiene un aspecto facetado o cada cara de la malla es visible en ella después de hornearla.
+> La textura Normal tiene un aspecto facetado o cada cara de la malla es visible en ella después de hacer un bake.
 > 
 > ![](../../assets/normal-faceted.jpg)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **Explicación**
 > 
-> La razón principal por la que la cocción de una normal produciría este resultado es porque las normales de malla de poli baja no se establecen correctamente. Cada borde de cada cara es un borde duro, haciendo que la proyección de rayos durante el emparejamiento con la malla de alta polietileno ignore la información de los vecinos y cree costuras o información inconsciente. Si bien el resultado puede verse bien en la malla, esto puede llevar a problemas de sombreado más adelante y debe resolverse.
+> La razón principal por la que hacer un bake una normal produciría este resultado es porque las normales de malla de poli baja no se establecen correctamente. Cada borde de cada cara es un borde duro, haciendo que la proyección de rayos durante el emparejamiento con la malla de alta polietileno ignore la información de los vecinos y cree costuras o información inconsciente. Si bien el resultado puede verse bien en la malla, esto puede llevar a problemas de sombreado más adelante y debe resolverse.
 
 >[!NOTE]
 >

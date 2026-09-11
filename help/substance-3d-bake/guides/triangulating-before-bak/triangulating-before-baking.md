@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: Entiende cómo la triangulación de malla afecta a la hace un bake de resultados y aprende las prácticas recomendadas para preparar tu geometría.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
-description: Proyecte propiedades de color desde mallas de alta densidad de poli en texturas para hornear ID de polipintura o material para máscaras de selección.
+description: Proyecte propiedades de color desde mallas de alta densidad de poli en texturas para hacer un bake ID de polipintura o material para máscaras de selección.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Color Map from Mesh
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # Mapa de colores de malla
 
-Este mapa de color de mesh baker proyecta las propiedades de color de una malla de alta definición en una textura. Se puede utilizar para hornear ID de pintura o de material para crear máscaras de selección.
+Este mapa de color del baker de malla proyecta las propiedades de color de una malla de alta definición en una textura. Se puede utilizar para hacer un bake ID de pintura polivalente o de material para crear máscaras de selección.
 
 **Disponible en:**
 

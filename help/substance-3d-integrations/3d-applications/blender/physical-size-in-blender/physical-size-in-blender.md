@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
 description: Usa la configuración del tamaño físico para escalar materiales Substance según las dimensiones reales de Blender.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ El tamaño físico en materiales Substance permite escalar los materiales en fun
 
 ![](../../../assets/blender-physical-size.png)
 
-Con el Tamaño físico activado, los materiales se embaldosarán en función de su tamaño real en centímetros. El mosaico de materiales permanecerá igual independientemente de la escala de los objetos. La función se puede activar cambiando al sombreador de Tamaño físico en el panel del complemento. Después de ajustar la escala de un objeto, la escala se debe aplicar con Ctrl/Cmd + A para estructurar con precisión la textura del Tamaño físico.
+Con el Tamaño físico activado, los materiales se embaldosarán en función de su tamaño real en centímetros. El mosaico de materiales permanecerá igual independientemente de la escala de los objetos. La función se puede activar cambiando al sombreador de Tamaño físico en el panel del complemento. Después de ajustar la escala de un objeto, la escala se debe aplicar con Ctrl/Cmd + A para estructurar con precisión la Textura de Tamaño físico.
 
 ## Ajuste del Tamaño físico
 

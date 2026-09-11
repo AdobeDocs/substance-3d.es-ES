@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/es/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Utilice la función Coincidencia por nombre para aislar mallas de baja y alta densidad de poli y evitar el sangrado de la geometría durante la hace un bake.
 helpx_creative_field: ''
@@ -50,7 +50,7 @@ Al habilitar Coincidencia por nombre para el ajuste **Ignorar cara posterior**, 
 
 ## Cómo Funciona La Coincidencia Por Nombre
 
-El sistema Coincidencia por nombre (Matching By Name) funciona leyendo el nombre geométrico tanto en las mallas poly altas como en las bajas y utilizando una palabra clave (el sufijo) para identificar o hacer coincidir los nombres. De forma predeterminada, los panaderos utilizan el sufijo específico, pero pueden cambiarse (véase a continuación).
+El sistema Coincidencia por nombre (Matching By Name) funciona leyendo el nombre geométrico tanto en las mallas poly altas como en las bajas y utilizando una palabra clave (el sufijo) para identificar o hacer coincidir los nombres. De forma predeterminada, los bakeres utilizan el sufijo específico, pero pueden cambiarse (consulte a continuación).
 
 Los sufijos admitidos actualmente son:
 
@@ -58,12 +58,12 @@ Los sufijos admitidos actualmente son:
 | --- | --- | --- |
 | Poly alto | *\_high* | Se utiliza para aislar el nombre de la malla de poli alto para que coincida con el de poli bajo. |
 | Poly bajo | *\_low* | Se utiliza para aislar el nombre de la malla de poli bajo para que coincida con el de poli alto. |
-| Ignorar la cara posterior | *\_ignorebf* | Se utiliza para omitir las caras posteriores de los panaderos que utilizan rayos secundarios, como la Oclusión Ambiente.*Este sufijo debe estar presente únicamente en las mallas de alto contenido polivinílico, por ejemplo:**mesh\_high\_ignorebf*** |
+| Ignorar la cara posterior | *\_ignorebf* | Se utiliza para omitir las caras posteriores de los bakeres que utilizan rayos secundarios, como la Oclusión ambiental.*Este sufijo debe estar presente únicamente en las mallas de alto contenido polivinílico, por ejemplo:**mesh\_high\_ignorebf*** |
 
 Algunas reglas que se deben tener en cuenta para que esta función funcione correctamente:
 
 * La coincidencia por nombre debe estar habilitada en [Parámetros comunes](../../bakers-settings/common-parameters/common-parameters.md), ya que está **desactivada de forma predeterminada**.
-* Es posible que se habilite una configuración secundaria Coincidencia por nombre en algunos panaderos (como [Oclusión ambiental](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)) porque producen rayos secundarios.
+* Es posible que se habilite una configuración secundaria Coincidencia por nombre en algunos bakeres (como [Oclusión ambiental](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)) porque producen rayos secundarios.
 * La coincidencia es sensible a mayúsculas y minúsculas, esto significa que una malla llamada &quot;**Vela**&quot; no coincidirá con otra llamada &quot;**vela**&quot;.
 * Se pueden hacer coincidir varias mallas en función de la posición del sufijo en el nombre de geometría.
 
@@ -91,7 +91,7 @@ La coincidencia por nombre se puede habilitar en [Parámetros comunes](../../bak
 Los sufijos predeterminados son \_low y \_high y se pueden cambiar de la siguiente manera:
 
 * **Substance Painter**: En la [ventana de panadería](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro de los parámetros comunes.
-* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
+* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
 
 ## Mallas de alta densidad de zepillo
 

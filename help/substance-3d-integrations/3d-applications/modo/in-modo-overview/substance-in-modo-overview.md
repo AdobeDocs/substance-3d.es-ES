@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: Obtenga más información sobre el plugin Substance para MODO y cómo importar y utilizar materiales de Substance en el flujo de trabajo.
 helpx_creative_field: ""
@@ -34,7 +34,7 @@ ht-degree: 5%
 
 Con el **Modo de Sombreado predeterminado - de principio**, puede crear salidas mediante el flujo de trabajo de metal/rugosidad.
 
-1. En la sección Salidas de las propiedades del Substance, haga clic en los resultados necesarios para el sombreado. Se generará la textura del Substance, que se añadirá al árbol del sombreador con el efecto de capa de material correcto. Para el modo de Sombreado de principio, necesitará lo siguiente:
+1. En la sección Salidas de las propiedades del Substance, haga clic en los resultados necesarios para el sombreado. Se generará la textura de Substance, que se añadirá al árbol de Sombreadores con el efecto de capa de material correcto. Para el modo de Sombreado de principio, necesitará lo siguiente:
 
    | Salida de Substance | Espacio de color | Efecto de capa de material (modo de Sombreado de principios) |
    | --- | --- | --- |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Obtenga más información sobre el complemento Substance 3D para Blender y cómo importar y trabajar con materiales de Substance en sus proyectos.
 helpx_creative_field: ""
@@ -38,13 +38,13 @@ El complemento de Substance 3D le permite importar materiales de Substance en Bl
 
 ## El panel Substance 3D
 
-El panel Substance 3D se utiliza para administrar los materiales de Substance en un proyecto y ajustar sus parámetros individuales. La sección Parámetros de gráfico tiene controles para la resolución de textura, mosaico, aleatorización y ajustes preestablecidos. La sección Salidas tiene controles para los formatos de imagen de las texturas generadas. La sección Parámetro de Substance es donde se pueden ajustar los parámetros de Substance.
+El panel Substance 3D se utiliza para administrar los materiales de Substance en un proyecto y ajustar sus parámetros individuales. La sección Parámetros de gráfica incluye controles para la resolución de textura, el mosaico, la aleatorización y los ajustes preestablecidos. La sección Salidas tiene controles para los formatos de imagen de las texturas generadas. La sección Parámetro de Substance es donde se pueden ajustar los parámetros de Substance.
 
 Para obtener más información, consulte la página [Panel de Substance 3D](../../../3d-applications/blender/the-3d-panel/the-substance-3d-panel.md).
 
 ## Preferencias
 
-Los comportamientos predeterminados y otras configuraciones se pueden ajustar en las preferencias del complemento. Se puede activar la opción &quot;Adjuntar automáticamente el material&quot; para adjuntar automáticamente materiales de Substance a los objetos y anular la asignación de material actual. &quot;Resaltar automáticamente el material para los objetos seleccionados&quot; cambiará el material resaltado en el panel Substance 3D si se selecciona un objeto con ese material. La activación de &quot;Ciclos de actualización automática de texturas&quot; permitirá actualizar las texturas en la ventana gráfica 3D mientras se utiliza la vista de procesamiento Ciclos.
+Los comportamientos predeterminados y otras configuraciones se pueden ajustar en las preferencias del complemento. Se puede activar la opción &quot;Adjuntar automáticamente el material&quot; para adjuntar automáticamente materiales de Substance a los objetos y anular la asignación de material actual. &quot;Resaltar automáticamente el material para los objetos seleccionados&quot; cambiará el material resaltado en el panel Substance 3D si se selecciona un objeto con ese material. Al activar &quot;Ciclos texturas de actualización automática&quot;, las texturas se podrán actualizar en la ventana gráfica 3D mientras se utiliza la vista de procesamiento Ciclos.
 
 El desplazamiento se puede activar con el botón deslizante de Height en la sección Salidas . Aquí también puede ajustar el formato de archivo y la profundidad de bits de cada salida.
 
@@ -72,7 +72,7 @@ Para obtener más información, consulte la página [Preferencias](../../../3d-a
 
 ## Buscar más materiales de Substance
 
-En la [página de Substance 3D Assets](https://helpx.adobe.com/es/substance-3d/unlisted/assets.html) encontrará miles de materiales y otros contenidos creados profesionalmente. En la [página de Recursos de la comunidad de Substance 3D](https://helpx.adobe.com/es/substance-3d/unlisted/community-assets.html) encontrará muchos más recursos que la comunidad ha compartido de forma gratuita
+En la [página de Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html) encontrará miles de materiales y otros contenidos creados profesionalmente. En la [página de Activos de la comunidad de Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html) encontrará muchos más contenidos que la comunidad ha compartido de forma gratuita
 
 ## Comunidad
 

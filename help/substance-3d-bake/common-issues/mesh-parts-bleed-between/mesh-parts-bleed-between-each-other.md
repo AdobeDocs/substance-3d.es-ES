@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
-description: Evite que las partes de la malla se sangren entre sí durante el hago un bake mediante la asociación por nombre o el ajuste de distancias.
+description: Evite que las partes de la malla se sangren entre sí durante el proceso de cocción, utilizando Coincidencia por nombre o ajustando las distancias.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Mesh parts bleed between each other
 helpx_experience_level: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **Explicación**
 > 
-> El proceso de hacer un bake envía rayos desde la superficie de la malla de bajo contenido de poli para golpear la malla de alto contenido de poli y crear una coincidencia. A veces los rayos van demasiado lejos y golpean la geometría equivocada, creando la hemorragia y artefactos.
+> El proceso de cocción envía rayos desde la superficie de la malla de bajo contenido de poli para golpear la malla de alto contenido de poli y crear una coincidencia. A veces los rayos van demasiado lejos y golpean la geometría equivocada, creando la hemorragia y artefactos.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ ht-degree: 0%
 > Hay disponibles algunas soluciones para evitar este problema :
 > 
 > * Utilice la característica [Coincidencia por nombre](../../features/matching-by-name/matching-by-name.md) para aislar las mallas
-> * Use una [jaula](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) para limitar la distancia del rayo.
+> * Use una [jaula](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) para limitar la distancia del rayo.
 > * Cambie la distancia de rayo predeterminada en los ajustes comunes del baker a un valor inferior.

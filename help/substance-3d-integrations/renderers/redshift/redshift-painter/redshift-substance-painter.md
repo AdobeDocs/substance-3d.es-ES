@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
-description: Exporte texturas de Substance Painter para el procesador Redshift mediante plantillas de salida y ajustes de material adecuados.
+description: Exporte las texturas del Substance Painter para el procesador Redshift mediante plantillas de salida y la configuración de materiales adecuada.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift > Redshift - Substance Painter
 helpx_experience_level: ""
@@ -28,11 +28,11 @@ Substance Painter 2020.1 (6.1.0) admite Redshift [Plantillas de salida](https://
 
 | Exportación de Substance Painter | Material de desplazamiento al rojo |
 | --- | --- |
-| Color | Difusión / Color |
+| Color | Difuso/Color |
 | Rugosidad | Reflejo / Rugosidad (BRDF = GGX) |
 | Metalicidad | Reflejo / Metalness (Fresnel Type = Metalness) |
-| Normal | Global / Mapa de relieve / rsBumpMap (Tipo de mapa de entrada = Espacio tangente normal - Escala de Height = 1.0) |
-| DesplazarCampoAlto | Sombreador de desplazamientos / rsAsignación de texto de desplazamiento (codificación de mapa = campo de Height) |
+| Normal | Global / Mapa de relieve / rsBumpMap (Tipo de mapa de entrada = Normal de Espacio de tangente - Escala de Height = 1.0) |
+| DesplazarCampoAlto | Sombreador de desplazamiento / rsMapa de texto de desplazamiento (codificación de mapa = campo de Height) |
 | EmissionColor | Total / Emisión (Peso De Emisión = 1,0) |
 
 >[!NOTE]

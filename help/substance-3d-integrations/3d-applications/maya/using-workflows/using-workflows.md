@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
-description: Cree y utilice ajustes preestablecidos de procesamiento para las salidas del Substance en maya para generar automáticamente redes de sombreado para diferentes procesadores.
+description: Cree y utilice ajustes preestablecidos de procesamiento para las salidas del Substance en Maya para generar automáticamente redes de sombreador para diferentes procesadores.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Using Workflows
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Uso de flujos de trabajo
 
-En Flujos de trabajo, puede elegir o crear ajustes preestablecidos de procesamiento para salidas de Substance. Estos ajustes preestablecidos son redes de sombreado para un procesador como Arnold o Vray.
+En Flujos de trabajo, puede elegir o crear ajustes preestablecidos de procesamiento para salidas de Substance. Estos ajustes preestablecidos son redes de sombreador para un procesador como Arnold o Vray.
 
 >[!NOTE]
 >
@@ -35,20 +35,20 @@ En Flujos de trabajo, puede elegir o crear ajustes preestablecidos de procesamie
 
 ![](../../../assets/workflows-4.png)
 
-Para utilizar un flujo de trabajo, elija el ajuste preestablecido en la lista desplegable y, a continuación, haga clic en el botón Crear red de sombreadores.
+Para utilizar un flujo de trabajo, seleccione el ajuste preestablecido en la lista desplegable y, a continuación, haga clic en el botón Crear red de Sombreador .
 
 ![](../../../assets/workflow.gif)
 
 ## Creación de un flujo de trabajo
 
-Puede crear su propio flujo de trabajo y agregarlo a la lista Flujo de trabajo del procesador. Al añadir un nuevo flujo de trabajo, cualquier nodo creado después del nodo Substance se guardará en el flujo de trabajo. Esto le permite crear cualquier número de nodos de sombreado para crear una red de sombreadores personalizada completa que se pueda guardar como un flujo de trabajo preestablecido.
+Puede crear su propio flujo de trabajo y agregarlo a la lista Flujo de trabajo del procesador. Al añadir un nuevo flujo de trabajo, cualquier nodo creado después del nodo Substance se guardará en el flujo de trabajo. Esto le permite crear cualquier número de nodos de sombreado para crear una red de sombreador personalizada completa que se pueda guardar como un flujo de trabajo preestablecido.
 
 ## ![](../../../assets/saved-workflow.png) Administrar flujos de trabajo
 
 ### Guardar flujos de trabajo personalizados
 
 1. Cree manualmente salidas de Substance y conéctelas a un material como aiStandardSurface.
-   1. Puede utilizar cualquier Maya o renderizar nodos específicos para crear la red de sombreadores.
+   1. Puede usar cualquier Maya o renderizar nodos específicos para construir la red de sombreador.
 1. Haga clic en el botón **Crear flujo de trabajo** e introduzca un nombre para el ajuste preestablecido de flujo de trabajo.
 
 ### Duplicación de flujos de trabajo

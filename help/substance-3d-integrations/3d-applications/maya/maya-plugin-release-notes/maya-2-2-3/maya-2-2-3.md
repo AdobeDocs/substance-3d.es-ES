@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-2-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-2-3.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.2.3 del plugin Maya para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Cambiar lista:
 
 * Se ha agregado la compatibilidad con Arnold 7.1.0/MtoA 5.1.0 para Maya 2019, 2020 y 2022
 * Se ha añadido un nuevo comando de script, &#39;substanceNodeGetGraphMetadata&#39;, para adquirir los metadatos del gráfico del Substance como una cadena XML en el script.
-* La consulta de un gráfico fuera de límites en llamadas de scripts ya no se bloquea
+* La consulta de un gráfico fuera de límites en llamadas de scripts ya no es bloqueo
 * Los complementos Arnold y MtoA ahora se instalan en un directorio utilizando delimitadores &#39;-&#39; entre números de versión semántica
 * La configuración de recursos del motor se respeta ahora correctamente, corrigiendo una regresión en la que se omitieron.
 

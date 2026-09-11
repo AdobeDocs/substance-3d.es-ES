@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: Comprender la gestión de color y la corrección de gamma cuando se usan materiales Substance con diferentes procesadores.
 helpx_creative_field: ""
@@ -28,18 +28,18 @@ Adoptaremos un enfoque simplista al afirmar que la representación del espacio l
 
 ## Gestión de colores
 
-El propósito de este documento es detallar el proceso de trabajo con texturas exportadas de **Substance Painter** y **Substance Designer** en [software 3D](https://www.adobe.com/es/products/substance3d/3d-augmented-reality.html) y renderizadores.
+El propósito de este documento es detallar el proceso de trabajo con texturas exportadas de **Substance Painter** y **Substance Designer** en [software 3D](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) y renderizadores.
 
 La forma correcta de interpretar una imagen utilizada como entrada en un canal de material depende de cómo se utilice la imagen en la escena. El espacio de color, la codificación y si los valores de color son proporcionales a la **luminancia de referencia en escena** o a la **luminancia de referencia en pantalla** también desempeñan un papel importante.
 
-* Las imágenes utilizadas para representar **datos sin color** no se deben transformar. Estos son normalmente mapas de **oclusión normal**, **rugosidad**, **metálico**, **desplazamiento** y **ambiente**.**&#x200B;**
-* Las imágenes que representan el color que vemos pueden tener varios escenarios. Por ejemplo, las imágenes que ya son **lineales para escenas** normalmente no necesitan convertirse, como las imágenes de **rango dinámico alto** almacenadas en formatos como **OpenEXR** y **HDR**.
-* Las imágenes creadas para la visualización (**display-reference**) deberán tener su gamma eliminado. Estos incluyen la mayoría de formatos como **PNG**, **JPEG** y **BMP**. Estas imágenes son **base**, **color**, **difusa**, **specular** y **emisiva**.
+* Las imágenes utilizadas para representar **datos sin color** no se deben transformar. Estos son normalmente mapas de **oclusión normal**, **rugosidad**, **metálico**, **desplazamiento** y **ambiente**.****
+* Las imágenes que representan el color que vemos pueden tener varios escenarios. Por ejemplo, las imágenes que ya son **lineales para escenas** normalmente no necesitan convertirse, como las imágenes de **rango dinámico alto** almacenadas en formatos como **OpenEXR** y **HDR.**.
+* Las imágenes creadas para la visualización (**display-reference**) deberán tener su gamma eliminado. Estos incluyen la mayoría de formatos como **PNG**, **JPEG** y **BMP**. Estas imágenes son **base**, **color**, **difusión**, **specular** y **emisivo**.
 
 Si bien se trata de una simplificación excesiva, puede resultar útil considerar el proceso de la siguiente manera:
 
 * &quot;de referencia en escena (ej. lineal)&quot; : No aplicar una conversión
-* &quot;de referencia en pantalla (ej. sRGB)&quot; : Aplique la transformación inversa para &quot;linealizar&quot; la imagen para realizar el cálculo adecuado
+* &quot;de referencia en pantalla (ej. sRGB)&quot; : Aplique el transforme inverso para &quot;linealizar&quot; la imagen para el cálculo adecuado
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Cuando presentamos [ACES](https://www.oscars.org/science-technology/sci-tech-pro
 
 Gráfico de trazado de gama *-<https://acescolorspace.com/>*
 
-El Substance Designer también admite **Adobe Color Engine (ACE)**. Con **ACE**, puedes elegir tu espacio de color de trabajo entre **sRGB**, **sRGB lineal** y **ACEScg**. Cuando se usa **sRGB**, **ACE** es más o menos igual que el modo heredado. Cuando se usa un espacio de color lineal, **ACE** se parece más o menos a [OpenColorIO](https://opencolorio.org/index.html).
+El Substance Designer también admite **Adobe Color Engine (ACE)**. Con **ACE**, puedes elegir tu espacio de color de trabajo entre **sRGB**, **sRGB** lineal y **ACEScg**. Cuando se usa **sRGB**, **ACE** es más o menos igual que el modo heredado. Cuando se usa un espacio de color lineal, **ACE** se parece más o menos a [OpenColorIO](https://opencolorio.org/index.html).
 
 ## Plugins de Substance
 

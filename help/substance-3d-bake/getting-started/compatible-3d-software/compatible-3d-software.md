@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/compatible-3d-software.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/compatible-3d-software.html"
 breadcrumb-title: ''
-description: Descubre qué software 3D es compatible con Substance Bakers y aprende a preparar mallas para obtener resultados óptimos en la cocción.
+description: Descubre qué software 3D es compatible con Substance Bakers y aprende a preparar mallas para obtener resultados óptimos de hace un bake.
 helpx_creative_field: ""
 helpx_description: bakers > Getting Started > Compatible 3D software
 helpx_experience_level: ""
@@ -22,28 +22,28 @@ ht-degree: 2%
 
 La mayoría del software 3D es compatible con Substance Bakers siempre que exporten la geometría de malla como polígonos en formatos de archivo compatibles con las aplicaciones.
 
-Sin embargo, no todo el software está a la par en términos de características y calidad al exportar estas mallas. Es por eso que es importante limpiar una malla correctamente y asegurarse de que sea compatible con los panaderos. Para obtener más información sobre cómo preparar una malla, consulta las distintas [Guías](../../guides/performances-and-opt/performances-and-optimizations.md).
+Sin embargo, no todo el software está a la par en términos de características y calidad al exportar estas mallas. Es por ello que es importante limpiar una malla correctamente y asegurarse de que sea compatible con los bakeres. Para obtener más información sobre cómo preparar una malla, consulta las distintas [Guías](../../guides/performances-and-opt/performances-and-optimizations.md).
 
 ## Compatibilidad de software
 
-A continuación se muestra una lista de software 3D comúnmente conocido y su compatibilidad con los panaderos:
+A continuación se muestra una lista del software 3D más conocido y su compatibilidad con los bakeres:
 
 | *Nombre* | *Estado* |
 | --- | --- |
 | **Mezclador** | Compatible: requiere acoplar modificadores antes de exportar. |
-| **Maya** | Compatible: requiere congelar el historial de transformación y eliminación antes de la exportación. |
+| **Maya** | Compatible: requiere un historial de congelación de transformar y eliminar antes de exportar. |
 | **3DS Max** | Compatible: requiere restablecer xForm antes de la exportación. |
-| **MODO** | Compatible: Se recomienda utilizar el exportador de fichas de juego establecido en &quot;Malla estática irreal&quot;. |
+| **MODO** | Compatible: Se recomienda utilizar el exportador de la pestaña Juego establecido en &quot;Malla estática irreal&quot;. |
 | **Cinema 4D** | Compatible: requiere acoplar modificadores antes de exportar. |
-| **zBrush** | No compatible: las mallas de bajo contenido de poli deben procesarse y limpiarse primero en otra aplicación 3D. Compatible: mallas de alto contenido de polietileno para hornear. |
+| **zBrush** | No compatible: las mallas de bajo contenido de poli deben procesarse y limpiarse primero en otra aplicación 3D. Compatible: mallas de alto contenido de polietileno para hacer un bake. |
 
 ## Formato del archivo
 
-Al realizar el procesamiento de la geometría, es importante tener en cuenta también el formato de fichero utilizado. El formato de archivo definirá la cantidad de información que se guardará en la malla.
+Al hacer un bake la geometría es importante tener en cuenta también el formato de fichero utilizado. El formato de archivo definirá la cantidad de información que se guardará en la malla.
 
-Tener demasiada información a veces puede ser perjudicial y dar lugar a errores. Por lo general, recomendamos probar diferentes formatos de archivo cuando se producen errores, ya que puede ser una forma fácil de solucionar problemas y determinar si el culpable está en el propio panadero o viene del software 3D.
+Tener demasiada información a veces puede ser perjudicial y dar lugar a errores. Por lo general, recomendamos probar diferentes formatos de archivo cuando se producen errores, ya que puede ser una forma fácil de solucionar problemas y determinar si el culpable está en el propio baker o proviene del software 3D.
 
-A continuación se muestra un breve resumen de los dos formatos de archivo más comunes admitidos por los panaderos:
+A continuación se muestra un breve resumen de los dos formatos de archivo más comunes admitidos por los bakeres:
 
 | Formato del archivo | Información |
 | --- | --- |

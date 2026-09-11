@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.5.3 del plugin Unity para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""
@@ -24,10 +24,10 @@ Publicado el 4 de noviembre de 2020
 
 Corregido:
 
-* Bloqueo al cambiar el empaquetado del mapa de Specular
-* El mapa de specular no es Smoothness de empaquetado en el canal de Alpha en el proyecto 3D estándar
+* Bloqueo al cambiar el empaquetado para el mapa de Specular
+* El mapa de specular no es Smoothness de empaquetado en el canal alfa en el proyecto 3D estándar
 * Bloqueo al reiniciar el proyecto HDRP/HRP después de eliminar la carpeta Biblioteca
-* Los materiales duplicados carecen del sombreador y las propiedades de material asignados
+* Los materiales duplicados carecen del sombreador asignado y las propiedades del material
 * Cambios de caracteres de fin de línea en archivos de escena y prefabricados.
 
 Problemas conocidos:

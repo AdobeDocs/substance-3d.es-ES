@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: Modifique los parámetros de material del Substance en MODO a través del panel Propiedades del Substance para personalizar materiales.
 helpx_creative_field: ""
@@ -36,7 +36,7 @@ Un Substance tiene un conjunto de parámetros principales, que se encuentran en 
 * **Cargar ajuste preestablecido:** Puede cargar un ajuste preestablecido, que configurará los parámetros de ajuste del Substance. Los ajustes preestablecidos se pueden crear con Substance Player. El archivo de ajustes preestablecidos es del tipo .sbsprs. Una vez que haya cargado un ajuste preestablecido, debe hacer clic en el menú desplegable Ajuste preestablecido y elegir el ajuste preestablecido, ya que un archivo .sbsprs puede contener varios ajustes preestablecidos.
 * **Guardar ajuste preestablecido:** Le permite guardar un ajuste preestablecido
 * **Seleccionar ajuste preestablecido:** Le permite elegir un ajuste preestablecido incrustado en el archivo de Substance o entre ajustes preestablecidos guardados en MODO.
-* **Convertir en disco:** Este parámetro convierte las texturas generadas por el Substance en un archivo de mapa de bits.
+* **Hacer un bake en disco:** Este parámetro hará un bake las texturas generadas por el Substance en un archivo de mapa de bits.
 * **Tamaño de salida:** Este parámetro cambiará dinámicamente el tamaño de la textura para ajustarla al tamaño establecido. El Substance Engine regenerará la textura al tamaño deseado.
 * **Raíz aleatoria:** Este parámetro variará la generación procedimienta del Substance. Este parámetro es ideal para crear una versión aleatoria del mismo Substance. Permite cambiar rápidamente los parámetros del Substance para generar una nueva versión de las texturas
 

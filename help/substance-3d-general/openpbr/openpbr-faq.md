@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++¿Qué es el OpenPBR y qué versión admite Painter?
 
-El OpenPBR es una especificación de material abierta alojada por la Academy Software Foundation, que define un modelo de sombreado estandarizado diseñado para funcionar de forma coherente en todas las aplicaciones. [La documentación de Painter contiene más información sobre el uso de OpenPBR](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/home).
+El OpenPBR es una especificación de material abierta alojada por la Academy Software Foundation, que define un modelo de sombreado estandarizado diseñado para funcionar de forma coherente en todas las aplicaciones. [La documentación de Painter contiene más información sobre el uso de OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home).
 
 +++
 
@@ -23,7 +23,7 @@ El OpenPBR es una especificación de material abierta alojada por la Academy Sof
 
 No hay un proceso de certificación formal, por lo que la reclamación puede significar cosas diferentes. En la práctica, las implementaciones varían: algunos cubren la especificación completa, otros solo un subconjunto, dejando de lado características como la película fina, la dispersión o ciertos comportamientos subsuperficiales. Tenga en cuenta también que &quot;MaterialX apoyo&quot; y &quot;apoyo de OpenPBR&quot; no son la misma cosa; una solicitud podrá ser compatible con una sin aplicar plenamente la otra.
 
-Para averiguar qué admite realmente una aplicación específica, utilice una combinación de enfoques: comprobar las notas de la versión (la compatibilidad se añade a menudo de forma incremental); cargar el OpenPBR Shader Playground del ASWF y compararlo con un renderizado de referencia para detectar brechas superficiales rápidamente; o, en el caso de los estudios con una importante inversión en canalizaciones, pregunte directamente al proveedor sobre las funciones admitidas y su hoja de ruta.
+Para averiguar qué admite realmente una aplicación específica, utilice una combinación de enfoques: comprobar las notas de la versión (la compatibilidad se añade a menudo de forma incremental); cargar el OpenPBR del ASWF Sombreador Playground y compararlo con un renderizado de referencia para cubrir las brechas superficiales rápidamente; o, en el caso de los estudios con una importante inversión en canalizaciones, pregunte directamente al proveedor sobre las funciones admitidas y su hoja de ruta.
 
 +++
 
@@ -31,7 +31,7 @@ Para averiguar qué admite realmente una aplicación específica, utilice una co
 
 No del todo, y esto es por diseño. OpenPBR define un modelo de material compartido, pero el aspecto final también se forma mediante la iluminación, los algoritmos de representación, la gestión del color y el grado en el que cada implementación se ajusta a la especificación.
 
-En la práctica, maximizar esa garantía significa: exportación a través de USD con integración de MaterialX; Validar la ida y vuelta anticipadamente utilizando el OpenPBR Shader Playground de la ASWF en lugar de al final de la producción; confirmar los niveles de asistencia de los proveedores para cualquier función avanzada que utilice; y acordar por adelantado qué funciones se usarán y cuáles no en los materiales compartidos. La portabilidad debe ser validada activamente, no asumida.
+En la práctica, maximizar esa garantía significa: exportación a través de USD con integración de MaterialX; validar la ida y vuelta anticipadamente utilizando el parque de juegos de Sombreadores de OpenPBR de la ASWF en lugar de al final de la producción; confirmar los niveles de asistencia de los proveedores para cualquier función avanzada que utilice; y acordar por adelantado qué funciones se usarán y cuáles no en los materiales compartidos. La portabilidad debe ser validada activamente, no asumida.
 
 +++
 
@@ -39,7 +39,7 @@ En la práctica, maximizar esa garantía significa: exportación a través de US
 
 Sí. OpenPBR es un modelo paramétrico. Parámetros como la rugosidad, el metal y el IOR cubren la gran mayoría de los casos de uso de producción, pero no pueden replicar la precisión de los formatos de material medido como X-Rite AxF, que capturan datos ópticos reales de una muestra física. Para el trabajo de producción en general el OpenPBR está bien adaptado; para las aplicaciones que requieran una coincidencia exacta de muestras, puede ser más adecuado un formato medido.
 
-La pintura de coches es una ilustración útil. Es posible crear pintura de coche en OpenPBR con un par de advertencias. El OpenPBR no incluye un sombreador de pintura de coche especializado, por lo que puede ser insuficiente para determinados usos del sector de la automoción. Además, simplemente depende del tipo de pintura de coche: algunas pinturas de coches siempre tendrán propiedades que quedan fuera del ámbito de cualquier sombreador determinado. Pero con esos puntos en mente, la pintura de coches mapea naturalmente en la arquitectura en capas del OpenPBR.
+La pintura de coches es una ilustración útil. Es posible crear pintura de coche en OpenPBR con un par de advertencias. El OpenPBR no incluye un sombreador especializado en pintura de coches, por lo que puede ser insuficiente para determinados usos del sector de la automoción. Además, simplemente depende del tipo de pintura del automóvil: algunas pinturas de automóviles siempre tendrán propiedades que quedan fuera del ámbito de cualquier sombreador determinado. Pero con esos puntos en mente, la pintura de coches se mapea naturalmente en la arquitectura de capas del OpenPBR.
 
 +++
 
@@ -47,29 +47,29 @@ La pintura de coches es una ilustración útil. Es posible crear pintura de coch
 
 +++¿Necesito aprender OpenUSD o MaterialX para usar OpenPBR?
 
-No. Para la mayoría de los artistas, el OpenPBR es simplemente el modelo de material incorporado en las herramientas que ya utilizan. Substance 3D Painter, Maya 2025.3 y 3ds Max 2026 utilizan OpenPBRs como su material predeterminado; trabajar con él solo significa trabajar con el sombreador estándar. USD y MaterialX solo se vuelven relevantes cuando los materiales necesitan moverse entre aplicaciones. Para los flujos de trabajo de aplicación única, la compatibilidad nativa es suficiente; para las tuberías multi-DCC, USD y MaterialX proporcionan la infraestructura de intercambio, pero en gran medida detrás de escena.
+No. Para la mayoría de los artistas, el OpenPBR es simplemente el modelo de material incorporado en las herramientas que ya utilizan. Substance 3D Painter, Maya 2025.3 y 3ds Max 2026 utilizan OpenPBRs como su material predeterminado; trabajar con él solo significa trabajar con el sombreador estándar. USD y MaterialX solo se vuelven relevantes cuando los materiales necesitan moverse entre aplicaciones. Para los flujos de trabajo de aplicación única, la compatibilidad nativa es suficiente; en el caso de las canalizaciones con varios DCC, USD y MaterialX proporcionan la infraestructura de intercambio, pero en gran medida entre bastidores.
 
-Dicho esto, la ruta de intercambio más sólida para las bibliotecas de materiales compartidos es a través de USD con la integración de MaterialX, que proporciona un contenedor estandarizado e independiente del procesador para las descripciones de materiales. Los flujos de trabajo para exportar materiales como activos independientes (sin un modelo asociado, para su uso en una biblioteca compartida) aún están en desarrollo activo y no se admiten completamente en todas partes. Antes de realizar la validación en una arquitectura de biblioteca que dependa de esto, valide su canalización específica frente a las capacidades actuales.
+Dicho esto, la ruta de intercambio más sólida para las bibliotecas de materiales compartidos es a través de la USD con la integración de MaterialX, que proporciona un contenedor estandarizado e independiente del procesador para las descripciones de materiales. Los flujos de trabajo para exportar materiales como activos independientes (sin un modelo asociado, para su uso en una biblioteca compartida) aún están en desarrollo activo y no se admiten completamente en todas partes. Antes de realizar la validación en una arquitectura de biblioteca que dependa de esto, valide su canalización específica frente a las capacidades actuales.
 
 +++
 
 +++¿Cómo puedo crear un nuevo proyecto de OpenPBR en Substance 3D Painter?
 
-Un proyecto creado sin una plantilla utiliza el sombreador de OpenPBR de forma predeterminada. El sombreador de OpenPBR es ahora la primera opción de la nueva ventana de proyecto, que reemplaza a ASM. También hay disponibles plantillas dedicadas para flujos de trabajo específicos (Anisotropía, Abrigo, Zumbido, Dispersión subsuperficial), e importar un archivo USD que contenga un material de OpenPBR configurará el proyecto automáticamente. Los proyectos de muestra incluidos con Substance 3D Painter también se han actualizado para utilizar el flujo de trabajo de OpenPBR, y son un buen punto de partida para familiarizarse con su funcionamiento en la práctica.
+Un proyecto creado sin una plantilla utiliza el sombreador de OpenPBR de forma predeterminada. El sombreador de OpenPBR es ahora la primera opción en la nueva ventana de proyecto, reemplazando a ASM. También hay disponibles plantillas dedicadas para flujos de trabajo específicos (Anisotropía, Abrigo, Zumbido, Dispersión subsuperficial). La importación de un archivo USD que contenga un material de OpenPBR configurará el proyecto automáticamente. Los proyectos de muestra incluidos con Substance 3D Painter también se han actualizado para utilizar el flujo de trabajo de OpenPBR, y son un buen punto de partida para familiarizarse con su funcionamiento en la práctica.
 
 +++
 
-+++¿Puedo convertir a OpenPBR un proyecto existente de Adobe Standard Material (ASM)?
++++¿Puedo convertir un proyecto de Adobe Standard Material (ASM) existente en OpenPBR?
 
-No hay conversión automática. Los proyectos de ASM existentes mantienen su sombreado actual cuando se abren, y las plantillas de ASM siguen estando disponibles para los nuevos proyectos.
+No hay conversión automática. Los proyectos de ASM existentes mantienen su sombreador actual cuando se abren, y las plantillas de ASM siguen estando disponibles para los nuevos proyectos.
 
-Para migrar al OpenPBR manualmente, seleccione el sombreador de OpenPBR en la ventana de configuración del sombreador y, a continuación, añada los canales de OpenPBR relevantes mediante la configuración del conjunto de texturas > Añadir o quitar canales. Una vez hecho esto, revisa tus capas existentes para asegurarte de que su contenido se dirige a los canales previstos.
+Para migrar al OpenPBR manualmente, seleccione el sombreador del OpenPBR en la ventana de configuración de Sombreador y, a continuación, añada los canales de OpenPBR relevantes a través de la configuración del conjunto de texturas > Añadir o quitar canales. Una vez hecho esto, revisa tus capas existentes para asegurarte de que su contenido se dirige a los canales previstos.
 
 +++
 
 +++¿Es necesario actualizar mis sombreadores personalizados para el OpenPBR?
 
-No: los sombreadores personalizados existentes siguen funcionando, ya que las bibliotecas de sombreadores relevantes están obsoletas en lugar de eliminarse. Sin embargo, se recomienda migrar a las nuevas bibliotecas de sombreadores; son más limpios y más fáciles de trabajar. Consulte el registro de cambios de API del sombreador en el menú Ayuda para obtener más información.
+No: los sombreadores personalizados existentes siguen funcionando, ya que las bibliotecas de sombreador relevantes están obsoletas en lugar de eliminarse. Sin embargo, se recomienda migrar a las nuevas bibliotecas de sombreador; son más limpios y más fáciles de trabajar. Consulte el registro de cambios de API del sombreador en el menú Ayuda para obtener más información.
 
 +++
 
@@ -77,26 +77,26 @@ No: los sombreadores personalizados existentes siguen funcionando, ya que las bi
 
 +++Con tantos parámetros disponibles en el OpenPBR, ¿dónde debo centrar mi atención?
 
-Empieza sin complicaciones. Para la mayoría de las superficies opacas, el color base, la rugosidad del Specular y la metalidad explican la mayoría de las diferencias visibles entre los materiales. Añadir IOR si la reflectividad precisa importa; Perfeccionar color de Specular si el material tiene un matiz de ángulo de pastoreo. Activa la transmisión, subsuperficie, capa, espoleta, película fina y dispersión solo cuando tengas una razón clara y basada en referencias para hacerlo, ya que cada canal adicional añade complejidad y un posible coste de renderizado. Ocultar o contraer los grupos de parámetros no utilizados mantiene el espacio de trabajo centrado y reduce el riesgo de efectos no deseados.
+Empieza sin complicaciones. En la mayoría de las superficies opacas, la rugosidad del Color base, del Specular y la metalidad explican la mayoría de las diferencias visibles entre los materiales. Añadir IOR si la reflectividad precisa importa; Perfeccionar color de Specular si el material tiene un matiz de ángulo de pastoreo. Activa la transmisión, subsuperficie, capa, espoleta, película fina y dispersión solo cuando tengas una razón clara y basada en referencias para hacerlo, ya que cada canal adicional añade complejidad y un posible coste de renderizado. Ocultar o contraer los grupos de parámetros no utilizados mantiene el espacio de trabajo centrado y reduce el riesgo de efectos no deseados.
 
 +++
 
-+++Tengo un mapa de rugosidad. ¿Debo conectarlo a Rugosidad difusa de base o Rugosidad de Specular?
++++Tengo un mapa de rugosidad. ¿Debo conectarlo a Rugosidad de la base o Rugosidad del Specular?
 
-Rugosidad del specular : Controla la nitidez del reflejo y es el equivalente directo de la entrada de rugosidad en otros flujos de trabajo de PBR. La rugosidad difusa de base es un parámetro independiente y especializado que afecta únicamente a la dispersión difusa; para la mayoría de los flujos de trabajo, puede permanecer en su valor predeterminado.
+Rugosidad del specular : Controla la nitidez del reflejo y es el equivalente directo de la entrada de rugosidad en otros flujos de trabajo de PBR. La rugosidad de la Difuso base es un parámetro específico y especializado que afecta únicamente a la dispersión difusa; para la mayoría de los flujos de trabajo, puede permanecer en su valor predeterminado.
 
 +++
 
-+++¿Por qué cambiar el color base no tiene ningún efecto cuando utilizo la dispersión subsuperficial?
++++¿Por qué el cambio de Color base no tiene ningún efecto cuando utilizo la dispersión subsuperficial?
 
 Existe una &#39;jerarquía de prioridad&#39; que determina cuánta influencia tiene cada parámetro en la apariencia final del material. Así es:
 
 * El metal es lo primero: cuando el valor Metal es igual a 1, las piezas Subsuperficie y Transmisión se desactivan.
 * El peso de la transmisión viene después: Si el peso de la transmisión es igual a 1, Subsurface estará ausente.
 * El peso subsuperficial viene después de esto.
-* El color base difuso es el último: la base difusa sólo contribuye cuando ninguno de los anteriores se ha establecido en 1.
+* El Color base de Difuso es el último: la base difusa sólo contribuye cuando ninguno de los anteriores se ha establecido en 1.
 
-Por lo tanto, en el ejemplo indicado, si Grosor subsuperficial se establece en 1 (su valor máximo), gobernará toda la apariencia. El cambio del valor de Color base no tiene efecto porque el Difusión base básicamente no aporta nada. Por el contrario, si Metalness se establece en su valor máximo de 1, el cambio de los valores de Peso de transmisión, Peso subsuperficial y Color base de difusión no tendrá ningún efecto en el aspecto final del material. Transmisión, Subsuperficie y Difusión son todos dieléctricos (no metálicos), por lo que ajustar Metalness a 1 es eliminar cualquier contribución no metálica.
+Por lo tanto, en el ejemplo indicado, si Grosor subsuperficial se establece en 1 (su valor máximo), gobernará toda la apariencia. El cambio del valor de Color base no tiene ningún efecto porque la Difuso Base básicamente no aporta nada. Por el contrario, si la calidad del metal se establece en su valor máximo de 1, el cambio de los valores de Peso de la transmisión, Peso subsuperficial y Color base del Difuso no tendrá ningún efecto en el aspecto final del material. Transmisión, Subsuperficie y Difuso son todos dieléctricos (no metálicos), por lo que ajustar Metalness a 1 es eliminar cualquier aporte no metálico.
 
 +++
 
