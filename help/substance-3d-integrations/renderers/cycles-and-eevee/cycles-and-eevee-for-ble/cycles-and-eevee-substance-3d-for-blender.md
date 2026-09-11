@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
 breadcrumb-title: ''
 description: Utiliza materiales de Substance 3D con los procesadores Blender's Cycles y Eeve mediante la integración del complemento Substance.
 helpx_creative_field: ""

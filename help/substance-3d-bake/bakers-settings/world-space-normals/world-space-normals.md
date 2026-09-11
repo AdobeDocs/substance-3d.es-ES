@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: Guarda normales de malla, tangentes y binormales en texturas mediante las coordenadas de espacio de entorno para los flujos de trabajo avanzados.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-23-0-2.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-23-0-2.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión del complemento 4.23.0.2 de Unreal Engine 4 para obtener información sobre nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""

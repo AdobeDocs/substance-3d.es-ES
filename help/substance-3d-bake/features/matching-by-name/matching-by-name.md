@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/es/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Utilice la función Coincidencia por nombre para aislar mallas de baja y alta densidad de poli y evitar el sangrado de la geometría durante la hace un bake.
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ La coincidencia por nombre se puede habilitar en [Parámetros comunes](../../bak
 Los sufijos predeterminados son \_low y \_high y se pueden cambiar de la siguiente manera:
 
 * **Substance Painter**: En la [ventana de panadería](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro de los parámetros comunes.
-* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
+* **Substance Designer**: En [Configuración del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/workspace/preferences/project-settings), en Configuración de cocción.
 
 ## Mallas de alta densidad de zepillo
 

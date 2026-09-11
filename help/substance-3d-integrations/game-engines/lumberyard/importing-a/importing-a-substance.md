@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
 breadcrumb-title: ''
 description: Importe archivos de material de Substance en proyectos de leñador mediante el Editor de materiales de procedimientos.
 helpx_creative_field: ""

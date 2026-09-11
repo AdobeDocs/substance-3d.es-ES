@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
 description: Calcule las texturas de normales dobladas que describen la dirección media de la iluminación ambiental desde mallas de alto contenido de poli.
 helpx_creative_field: ""

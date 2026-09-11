@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Aprenda a optimizar la configuración del hardware y la preparación de mallas para lograr un rendimiento que hace un bake con mayor rapidez.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Los bloqueos pueden deberse a varios factores, uno de los cuales es el TDR (Time
 * al hacer un bake mallas densas con el baker de Oclusión ambiental
 * cuando se utilicen los bakeres acelerados por DXR con mallas altas de polietileno muy densas (más de 60 millones de triángulos)
 
-Puede encontrar información adicional sobre el TDR y una guía paso a paso sobre cómo puede modificar sus configuraciones asociadas aquí: [bloqueo de controladores de GPU con cálculos largos (bloqueo TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Puede encontrar información adicional sobre el TDR y una guía paso a paso sobre cómo puede modificar sus configuraciones asociadas aquí: [bloqueo de controladores de GPU con cálculos largos (bloqueo TDR)](https://helpx.adobe.com/es/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

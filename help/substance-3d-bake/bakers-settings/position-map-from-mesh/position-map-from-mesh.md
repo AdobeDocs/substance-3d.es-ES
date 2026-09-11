@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
 breadcrumb-title: ''
 description: Calcule mapas de posición precisos a partir de mallas de alta densidad para capturar información precisa de la ubicación de la geometría.
 helpx_creative_field: ""

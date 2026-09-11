@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
 breadcrumb-title: ''
 description: Configure los ajustes del plugin del Substance en 3ds Max, incluido el modo de motor y las opciones de resolución predeterminadas.
 helpx_creative_field: ""

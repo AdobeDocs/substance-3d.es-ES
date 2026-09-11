@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
 description: Coloca las texturas del Substance en mosaico en Unreal Engine 5 añadiendo nodos de coordenadas de Textura y parámetros escalares a los materiales.
 helpx_creative_field: ""

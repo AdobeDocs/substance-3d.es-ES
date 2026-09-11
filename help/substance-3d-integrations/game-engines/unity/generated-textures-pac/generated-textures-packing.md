@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
 breadcrumb-title: ''
 description: Conozca cómo Substance genera texturas en Unity y configure el empaquetado de texturas para obtener entradas de sombreado óptimas.
 helpx_creative_field: ""

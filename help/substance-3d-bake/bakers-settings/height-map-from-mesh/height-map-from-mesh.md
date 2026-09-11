@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
 breadcrumb-title: ''
 description: Cree mapas de altura a partir de mallas de alta densidad para capturar los detalles de la superficie y la información geométrica para el texturizado.
 helpx_creative_field: ""

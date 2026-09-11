@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-2.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-2.html"
 breadcrumb-title: ''
 description: Revise las notas de la versión 2.7.2 del plugin MODO para obtener más información sobre las nuevas funciones, mejoras y correcciones de errores.
 helpx_creative_field: ""

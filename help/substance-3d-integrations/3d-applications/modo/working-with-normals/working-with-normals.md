@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: Configure los ajustes de orientación del mapa de normales en MODO para garantizar la correcta representación del mapa de normales con materiales de Substance.
 helpx_creative_field: ""

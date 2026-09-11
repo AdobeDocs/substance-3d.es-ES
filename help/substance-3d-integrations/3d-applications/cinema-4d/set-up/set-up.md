@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
 breadcrumb-title: ''
 description: Configure el plugin de Substance en Cinema 4D cumpliendo los requisitos del sistema e instalando el plugin correctamente.
 helpx_creative_field: ""

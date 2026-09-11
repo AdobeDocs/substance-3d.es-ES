@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Aprenda a acceder a la ventana hacer un bake y utilizarla en Substance 3D Painter para generar mapas de malla para sus texturas.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-Se puede tener acceso a la ventana de hacer un bake a través de [Configuración del conjunto de texturas](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Haga clic en el botón &quot;**Hacer un bake mapas de malla**&quot; para abrir la ventana que hace un bake del proyecto actual.
+Se puede tener acceso a la ventana de hacer un bake a través de [Configuración del conjunto de texturas](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Haga clic en el botón &quot;**Hacer un bake mapas de malla**&quot; para abrir la ventana que hace un bake del proyecto actual.
 
 ## Información general
 

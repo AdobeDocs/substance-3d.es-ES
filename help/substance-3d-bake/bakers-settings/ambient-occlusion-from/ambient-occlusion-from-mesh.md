@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
 breadcrumb-title: ''
 description: Hace un bake texturas de oclusión ambiental precisas de mallas de alta densidad de poli utilizando técnicas de trazado de rayos para mejorar el realismo.
 helpx_creative_field: ""

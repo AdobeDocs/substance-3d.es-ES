@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/arnold-support.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/arnold-support.html"
 breadcrumb-title: ''
 description: Conecta salidas de Substance directamente a los sombreadores de Arnold en maya para obtener flujos de trabajo de representación fluidos.
 helpx_creative_field: ""

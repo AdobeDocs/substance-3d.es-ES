@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
 breadcrumb-title: ''
 description: Utilice materiales de Substance con el procesador de Maxwell en maya a través de mapas exportados o el plugin de Substance.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
 description: Siga las directrices de optimización para equilibrar la complejidad del material Substance con el rendimiento de procesamiento en Unity.
 helpx_creative_field: ""
@@ -35,6 +35,6 @@ Una advertencia importante que debe tener en cuenta son los nodos que tienen una
 >   
 > El motor de CPU Substance puede computar a 4K, pero es muy lento y puede hacer que una integración se bloquee o posiblemente se produzca un bloqueo.
 
-En el ejemplo siguiente, el tamaño de salida de un nodo [Tile Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) se establece en [Absolute](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096. Hace que varios nodos aguas abajo calculen a 4K antes de que se reduzcan para la resolución de salida final de 2048.
+En el ejemplo siguiente, el tamaño de salida de un nodo [Tile Sampler](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) se establece en [Absolute](https://experienceleague.adobe.com/es/docs/substance-3d-designer/using/substance-graphs/output-size) 4096. Hace que varios nodos aguas abajo calculen a 4K antes de que se reduzcan para la resolución de salida final de 2048.
 
 ![](../../../assets/absolute.png){width="1000px"}

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: Cree mapas de espacio tangente o normales de espacio mundial a partir de mallas de alto contenido de poli utilizando el baker de Mapa de normales a partir de malla.
 helpx_creative_field: ""
@@ -31,4 +31,4 @@ El Mapa de normales del baker de malla le permite crear un mapa normal de espaci
 | *Parámetro* | *Descripción* |
 | --- | --- |
 | **Tipo de mapa** | Controla el tipo de textura normal que debe emitir el baker.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Espacio mundial</strong></li><li data-preserve-html="true"><strong>Espacio de tangente</strong> (predeterminado)</li></ul>*En Substance Painter, este parámetro no se puede controlar y está establecido en Espacio de tangente.* |
-| **Orientación normal** | Define el formato de la textura normal si el parámetro **map type** está establecido en Espacio de tangente.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (predeterminado)</li></ul>*En Substance Painter, este parámetro está controlado por la [configuración del proyecto](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration).* |
+| **Orientación normal** | Define el formato de la textura normal si el parámetro **map type** está establecido en Espacio de tangente.Valores posibles:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (predeterminado)</li></ul>*En Substance Painter, este parámetro está controlado por la [configuración del proyecto](https://experienceleague.adobe.com/es/docs/substance-3d-painter/using/interface/project-configuration).* |

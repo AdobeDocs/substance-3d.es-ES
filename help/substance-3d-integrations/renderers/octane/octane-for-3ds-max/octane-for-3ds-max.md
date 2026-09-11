@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
 description: Utilice materiales de Substance con el procesador Octane en 3ds Max a través de materiales de Live DB y ajustes de salida adecuados.
 helpx_creative_field: ""

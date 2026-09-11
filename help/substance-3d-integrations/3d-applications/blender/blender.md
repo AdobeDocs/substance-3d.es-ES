@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender.html"
 breadcrumb-title: ''
 description: Instala y utiliza el complemento Substance 3D para Blender para importar y trabajar con materiales de Substance en tus proyectos 3D.
 helpx_creative_field: ""

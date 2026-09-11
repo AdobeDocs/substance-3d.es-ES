@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-automation-toolkit.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-bake/getting-started/software-interface/substance-3d-automation-toolkit.html"
 breadcrumb-title: ''
 description: Aprenda a utilizar sbsbaker, la versión de línea de comandos de bakeres de Substance disponible en el conjunto de herramientas de automatización.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Substance 3D Automation Toolkit proporciona varias herramientas, una de ellas es **sbaker**, que es una versión de línea de comandos de los bakeres de Substance.
 
-Para obtener más información, consulte la [documentación dedicada](https://helpx.adobe.com/substance-3d-sat/command-line-tools/sbsbaker.html).
+Para obtener más información, consulte la [documentación dedicada](https://helpx.adobe.com/es/substance-3d-sat/command-line-tools/sbsbaker.html).

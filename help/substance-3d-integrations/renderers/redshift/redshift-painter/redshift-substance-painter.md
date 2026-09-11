@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
 description: Exporte las texturas del Substance Painter para el procesador Redshift mediante plantillas de salida y la configuración de materiales adecuada.
 helpx_creative_field: ""

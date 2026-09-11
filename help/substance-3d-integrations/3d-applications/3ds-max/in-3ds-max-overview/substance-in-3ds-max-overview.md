@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ''
 description: Obtenga más información sobre el plugin Substance para 3ds Max y cómo importar y utilizar materiales de Substance en sus proyectos.
 helpx_creative_field: ""

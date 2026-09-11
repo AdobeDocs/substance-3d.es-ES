@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: Aprenda los métodos abreviados de teclado para el complemento Substance 3D en Blender y personalice los enlaces de teclas para mejorar la eficacia.
 helpx_creative_field: ""
