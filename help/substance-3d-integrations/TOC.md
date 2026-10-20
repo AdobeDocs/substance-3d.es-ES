@@ -2,13 +2,11 @@
 user-guide-description: Ecosistema Substance 3D
 user-guide-title: Ecosistema Substance 3D
 breadcrumb-title: Guía del usuario del ecosistema de Substance 3D
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '818'
 ht-degree: 2%
-
 ---
-
 
 # Ecosistema Substance 3D {#ecosystem}
 
@@ -153,7 +151,7 @@ ht-degree: 2%
     + [Nodo de salida de Substance](/help/substance-3d-integrations/3d-applications/maya/output-node/substance-output-node.md)
     + [Uso de flujos de trabajo](/help/substance-3d-integrations/3d-applications/maya/using-workflows/using-workflows.md)
     + [Trabajar con salidas](/help/substance-3d-integrations/3d-applications/maya/working-with-outputs/working-with-outputs.md)
-    + [Muestreo por procedimientos](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
+    + [Muestreo procedimiento](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
     + [Ajustes preestablecidos](/help/substance-3d-integrations/3d-applications/maya/presets/presets.md)
     + [Configuración](/help/substance-3d-integrations/3d-applications/maya/settings/settings.md)
     + [Arnold Support](/help/substance-3d-integrations/3d-applications/maya/arnold-support/arnold-support.md)
@@ -198,7 +196,7 @@ ht-degree: 2%
     + [Parámetros](/help/substance-3d-integrations/3d-applications/modo/parameters/parameters.md)
     + [Materiales personalizados](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
     + [Trabajo con normales](/help/substance-3d-integrations/3d-applications/modo/working-with-normals/working-with-normals.md)
-    + [Trabajar con Emissive](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
+    + [Trabajo con Emisivo](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
     + [Rugosidad y Desplazamiento](/help/substance-3d-integrations/3d-applications/modo/bump-and-displacement/bump-and-displacement.md)
     + [Trabajar con referencias](/help/substance-3d-integrations/3d-applications/modo/working-with-references/working-with-references.md)
     + [Animación de Substance](/help/substance-3d-integrations/3d-applications/modo/animating-substances/animating-substances.md)
@@ -211,13 +209,15 @@ ht-degree: 2%
     + [Configuración](/help/substance-3d-integrations/3d-applications/cinema-4d/set-up/set-up.md)
     + [Uso del complemento Substance](/help/substance-3d-integrations/3d-applications/cinema-4d/using-the-plugin/using-the-substance-plugin.md)
     + [Substance Asset Manager](/help/substance-3d-integrations/3d-applications/cinema-4d/asset-manager/substance-asset-manager.md)
-    + [Sombreador de Substance](/help/substance-3d-integrations/3d-applications/cinema-4d/shader/substance-shader.md)
+    + [Sombreador Substance](/help/substance-3d-integrations/3d-applications/cinema-4d/shader/substance-shader.md)
     + [Administrador de atributos](/help/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager/attribute-manager.md)
     + [Comentarios visuales de Substance animados](/help/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-animated/visual-feedback-of-animated-substances.md)
   + [Houdini](/help/substance-3d-integrations/3d-applications/houdini/houdini.md)
   + Mezclador{#blender}
     + [Descripción general de Blender](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + Notas de la versión{#release-notes}
+      + [Notas de la versión](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [Add-on 3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [Add-on 2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [Add-on 2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [Add-on 1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
@@ -245,8 +245,8 @@ ht-degree: 2%
   + [Conversión de salidas de Substance](/help/substance-3d-integrations/renderers/converting-outputs/converting-substance-outputs.md)
   + Gestión de colores{#color-management}
     + [Introducción a la gestión de color](/help/substance-3d-integrations/renderers/color-management/color-management.md)
-    + [Texturas Substance en maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
-    + [Texturas Substance en 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
+    + [texturas Substance en Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
+    + [texturas del Substance en 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + Arnold{#arnold}
     + [Resumen de Arnold](/help/substance-3d-integrations/renderers/arnold/arnold.md)
     + [Arnold - Substance en 3ds Max](/help/substance-3d-integrations/renderers/arnold/arnold-in-3ds-max/arnold-substance-in-3ds-max.md)
