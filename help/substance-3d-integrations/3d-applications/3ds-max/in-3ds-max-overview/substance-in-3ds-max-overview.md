@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ""
 description: Obtenga más información sobre el plugin Substance para 3ds Max y cómo importar y utilizar materiales de Substance en sus proyectos.
 helpx_creative_field: ""
@@ -79,7 +79,7 @@ Hay dos flujos de trabajo de OpenPBR disponibles en la **lista de flujos de trab
 
 ### ¿Qué es el OpenPBR?
 
-OpenPBR es un modelo de sombreado de materiales abierto y basado en la física desarrollado por Adobe y Autodesk y que ha contribuido a la Academy Software Foundation (ASWF). Proporciona una definición de material unificada y compatible con todos los procesadores. Para obtener más información, visite la [documentación del OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
+OpenPBR es un modelo de sombreado de materiales abierto y basado en la física desarrollado por Adobe y Autodesk y que ha contribuido a la Academy Software Foundation (ASWF). Proporciona una definición de material unificada y compatible con todos los procesadores. Para obtener más información, visite la [documentación del OpenPBR](https://experienceleague.adobe.com/es/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
 
 ### Cuándo utilizar un flujo de trabajo de OpenPBR
 
