@@ -10,9 +10,9 @@ helpx_tags: ""
 title: Descripción general de Substance en 3ds Max
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: a167bcd2c2f0af70b3a4dc37eafc85145c79c590
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '332'
 ht-degree: 0%
 ---
 
@@ -70,43 +70,3 @@ Puede definir un canal específico para la miniatura del nodo Substance.
 Puede utilizar las propiedades Coordenadas para estructurar las texturas del Substance y definir Canales de mapa.
 
 ![](../../../assets/max10.png)
-
-## Flujos de trabajo de OpenPBR
-
-Hay dos flujos de trabajo de OpenPBR disponibles en la **lista de flujos de trabajo** en el **menú Substance**: **Substance del OpenPBR** y **Substance del OpenPBR V-Ray**. Estos flujos de trabajo están diseñados para usarse con archivos SBSAR creados mediante el modelo de material OpenPBR en Substance 3D Designer o Sampler (OpenPBR ha sido el modelo predeterminado desde Designer V16.0 y Sampler V6.0 y posteriores).
-
-![](../../../assets/maya-max-v3-1/3ds-max-openpbr-node-preview.png)
-
-### ¿Qué es el OpenPBR?
-
-OpenPBR es un modelo de sombreado de materiales abierto y basado en la física desarrollado por Adobe y Autodesk y que ha contribuido a la Academy Software Foundation (ASWF). Proporciona una definición de material unificada y compatible con todos los procesadores. Para obtener más información, visite la [documentación del OpenPBR](https://experienceleague.adobe.com/es/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
-
-### Cuándo utilizar un flujo de trabajo de OpenPBR
-
-Utilice un flujo de trabajo de OpenPBR cuando el archivo SBSAR se haya creado mediante el modelo de material de OpenPBR en Substance 3D Designer o Substance 3D Sampler. Si el SBSAR se ha creado utilizando el modelo de material estándar de Adobe (ASM), utilice el flujo de trabajo heredado compatible con su procesador (Arnold, V-Ray o V-Ray 6).
-
->[!NOTE]
->
-> Si aplica un flujo de trabajo de OpenPBR a un material de ASM o un flujo de trabajo estándar a un SBSAR de OpenPBR, el plugin solo conectará las salidas que sean comunes a ambos modelos de material. El resultado puede ser incompleto.
-
-### Flujos de trabajo de OpenPBR disponibles
-
-**OpenPBR**
-
-Utiliza el nodo openPBRSurface de 3ds Max nativo. Compatible con Arnold y V-Ray. Este es el flujo de trabajo recomendado para la mayoría de los usuarios que trabajan con materiales de OpenPBR en 3ds Max.
-
-**OpenPBR - V-Ray**
-
-Utiliza el material V-Ray (VRayMtl) en modo OpenPBR. Recomendada para usuarios cuya canalización esté específicamente diseñada en torno a configuraciones de materiales V-Ray.
-
-### Cómo aplicar un flujo de trabajo de OpenPBR
-
-![](../../../assets/maya-max-v3-1/3dsmax-substance-to-openpbr.png)
-
-1. Seleccione su archivo SBSAR (OpenPBR) usando el botón Cargar Substance.
-1. En el menú superior, seleccione OpenPBR o OpenPBR - V-Ray.
-1. Haga clic en Crear red para crear la red de sombreador en el Editor de material de pizarra.
-1. El plugin conecta automáticamente las salidas SBSAR a las entradas correspondientes del nodo OpenPBR.
-1. Asigne el material a la malla de la forma habitual.
-
-![](../../../assets/maya-max-v3-1/3ds-max-openpbr-overview.png)
