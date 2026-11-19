@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/es/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ""
 description: Instale el plugin Substance para Maya usando el instalador oficial o a través del administrador de plugins de Maya.
 helpx_creative_field: ""
@@ -10,19 +10,13 @@ helpx_tags: ""
 title: Descargar e instalar
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # Descargar e instalar
-
-El Substance en el plugin Maya se incluye de forma predeterminada en el instalador Maya.
-
-Puede descargar versiones más recientes del programa de instalación desde la [página Substance 3D de Adobe para Maya](https://substance3d.adobe.com/plugins/substance-in-maya/).
-
-## Versiones de plugins anteriores
 
 La última versión del plugin es distribuida de forma nativa por Autodesk con la última versión compatible de Maya. Si necesita una versión específica para una versión anterior, a continuación encontrará vínculos de descarga
 
